@@ -16,7 +16,17 @@ sections:
         <br>
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+      primary_action:
+        text: Learn more
+        url: https://hugoblox.com/templates/
+      secondary_action:
+        text: Joint us
+        url: /#positions
+      announcement:
+        text: "Announcing the release of version 1."
+        link:
+          text: "Read more"
+          url: "/#research"
   - block: collection
     content:
       title: Latest News
