@@ -108,7 +108,7 @@ sections:
       show_role: true
       show_social: true
 
-- block: markdown
+  - block: markdown
     id: positions
     content:
       title: <p class="text-5xl font-bold" style="font-family:Times New Roman, sans-serif;">Positions</p>
