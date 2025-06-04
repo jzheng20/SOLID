@@ -67,6 +67,7 @@ sections:
       css_class: fullscreen
 
   - block: collection
+    id: papers
     content:
       title: Latest Preprints
       text: ""
