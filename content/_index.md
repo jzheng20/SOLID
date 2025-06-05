@@ -12,7 +12,8 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>'
+         <br> 
+         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
@@ -44,7 +45,21 @@ sections:
     design:
       view: card
       columns: '1'
-
+    
+  - block: markdown
+    id: research
+    content:
+      items:
+        - title: Research
+          text: >
+             Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks. Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve 
+             computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible 
+             software libraries.<br><br>
+             Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
+             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
+             large networks, estimation of microbial growth models, and image classification for contaminant detection. <br><br>
+          # Upload image to `assets/media/` and reference the filename here
+    
   - block: people
     id: members
     content:
@@ -109,24 +124,7 @@ sections:
     design:
       columns: '1'
 
-  - block: people
-    content:
-      title: Members
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
+ 
 
   - block: markdown
     id: positions
