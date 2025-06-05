@@ -12,9 +12,8 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <br> 
+        '<p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>'
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
@@ -26,6 +25,7 @@ sections:
         link:
           text: "Read more"
           url: "/#research"
+    
   - block: collection
     id: news
     content:
