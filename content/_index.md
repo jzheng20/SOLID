@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        <strong>Now Solving:</strong> Global Optimal AI
       image:
         filename: welcome.jpg
       text: |
