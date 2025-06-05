@@ -19,9 +19,6 @@ main:
     weight: 60
   - name: Opportunities
     weight: 70
-    hasChildren: true
-  - parent: Opportunities
-    name: Funding
     url: funding/
   - name: Gallery
     url: /#gallery
