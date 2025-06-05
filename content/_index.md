@@ -60,7 +60,21 @@ sections:
                 <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
                 domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
                 large networks, estimation of microbial growth models, and image classification for contaminant detection. </p>  
-        
+- block: markdown
+    id: research
+    content:
+      title:  Research 
+      text: >
+            <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉 Please <span class="font-bold">send your CV to</span> <span style="text-decoration: underline;">yankai.cao@ubc.ca.</span>. </p> 
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉  Please <span class="font-bold">provide the following information:</span>   degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). </p> 
+            <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉 Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="underline text-blue-600 hover:text-blue-800"> UBC Graduate School</a>.</p>
+            <p class="text-2xl mb-8 font-light" style="font-family:Times New Roman, sans-serif; text-indent: 2em;">👉  <a href="funding/"> Here is for <span style="text-decoration: underline;">Funding Opportunities</span> </a>. </p>
+            <p class="text-3xl font-bold" style="font-family:Times New Roman, sans-serif;"><strong>To Ph.D./ Master Candidates: </strong></p>
+            <p class="text-2xl font-light italic" style="font-family:Times New Roman, sans-serif;">Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.</p>
+    design:
+      view: card                    
+      columns: '1'      
     
   - block: people
     id: members
