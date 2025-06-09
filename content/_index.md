@@ -17,6 +17,10 @@ sections:
       text: |
          <br> 
          <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms.</p>
+         <a href="/#positions" class="btn btn-primary">Join Us</a>
+         <a href="/#research" class="btn btn-outline">Learn More</a>
+         <a href="/funding/" class="btn btn-success">Funding →</a>
+
          <div class="mt-6 flex flex-wrap gap-4">
            <a href="/#research" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
             Learn More
