@@ -75,6 +75,20 @@ sections:
 
         </div>
 
+  - block: collection
+    id: publications
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
     
   - block: markdown
     id: research
