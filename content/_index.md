@@ -185,6 +185,8 @@ sections:
     content:
       title: "Positions"
       text: |
+        <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
+    
         <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4">
 
           <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">
@@ -216,6 +218,9 @@ sections:
           </p>
 
         </div>
+    design:
+      view: card                    
+      columns: '1'
 
 
  
