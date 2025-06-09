@@ -20,6 +20,7 @@ sections:
          <a href="/#positions" class="btn btn-primary">Join Us →</a>
          <a href="/#positions" class="btn btn-secondary">Join Us →</a>
          <a href="/#research" class="btn btn-info">Learn More</a>
+         <a href="/#positions" class="btn btn-outline">Join Us →</a>
 
     
   - block: hero
