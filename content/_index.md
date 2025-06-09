@@ -86,7 +86,7 @@ sections:
           - publication
         publication_type: 'article'
     design:
-      view: citation
+      view: table
       columns: '1'
 
     
