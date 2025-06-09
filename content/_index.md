@@ -223,6 +223,7 @@ sections:
       title: "Positions"
       text: |
         <!-- 白色背景是默认的，无需加 -->
+     <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #ffffff;"> <!-- 灰色卡片 -->
          <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
 
           <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
@@ -241,8 +242,7 @@ sections:
             👉 <a href="/funding/" class="underline text-blue-600 hover:text-blue-800">Here is for Funding Opportunities</a>.
           </p>
  
-        <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
-    
+      
         <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
