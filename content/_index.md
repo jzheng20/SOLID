@@ -16,18 +16,18 @@ sections:
         filename: welcome.jpg
       text: |
          <br> 
-         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>
-      primary_action:
-        text: Learn more
-        url: https://hugoblox.com/templates/
-      secondary_action:
-        text: Joint us
-        url: /#positions
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/#research"
+         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms.</p>
+         <div class="mt-6 flex flex-wrap gap-4">
+           <a href="/#research" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
+            Learn More
+           </a>
+           <a href="/#positions" class="px-6 py-3 border border-gray-400 text-gray-800 font-semibold rounded-lg hover:bg-gray-100 transition">
+            Join Us
+           </a>
+           <a href="/funding/" class="px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">
+            Funding →
+           </a>
+         </div>
     
   - block: hero
     content:
