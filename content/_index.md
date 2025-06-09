@@ -89,6 +89,35 @@ sections:
       view: table
       columns: '1'
 
+  - block: collection
+    id: publications
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: compact
+      columns: '1'
+
+  - block: collection
+    id: publications
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: card
+      columns: '1'
+      card:
+        css_class: "bg-white rounded-xl shadow p-6 space-y-2"
     
   - block: markdown
     id: research
