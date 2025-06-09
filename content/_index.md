@@ -118,6 +118,22 @@ sections:
       columns: '1'
       card:
         css_class: "bg-white rounded-xl shadow p-6 space-y-2"
+
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: card
+      columns: '1'
+      card:
+        css_class: "flex flex-row items-center bg-white rounded-xl shadow p-4 space-x-4 max-w-4xl mx-auto"
+
     
   - block: markdown
     id: research
