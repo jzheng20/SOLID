@@ -223,8 +223,8 @@ sections:
       title: "Positions"
       text: |
         <!-- 白色背景是默认的，无需加 -->
-    
-         <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
+          <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
+          <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
 
           <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
             👉 Please <span class="font-bold">send your CV to</span> <span class="underline">yankai.cao@ubc.ca</span>.
@@ -242,8 +242,8 @@ sections:
             👉 <a href="/funding/" class="underline text-blue-600 hover:text-blue-800">Here is for Funding Opportunities</a>.
           </p>
  
-        <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
-        <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
+
+          <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
           </p>
@@ -251,8 +251,8 @@ sections:
           <p class="text-2xl font-light italic" style="font-family:Times New Roman, serif;">
             Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
           </p>
-        </div>
-        </div>
+          </div>
+          </div>
   
  
  
