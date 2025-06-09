@@ -252,6 +252,7 @@ sections:
             Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
           </p>
         </div>
+        </div>
  
  
 ---
