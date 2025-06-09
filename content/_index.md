@@ -8,10 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-          <p class="text-5xl font-extrabold leading-tight">
-          <span class="text-black">Now Solving:</span><br>
-          <span class="text-gray-800">Global Optimal AI</span>
-          </p>
+          <strong>Now Solving:</strong> <br> Global Optimal AI
       image:
         filename: welcome.jpg
       text: |
@@ -20,17 +17,10 @@ sections:
          <a href="/#positions" class="btn btn-primary">Join Us</a>
          <a href="/#research" class="btn btn-outline">Learn More</a>
          <a href="/funding/" class="btn btn-success">Funding →</a>
-
          <div class="mt-6 flex flex-wrap gap-4">
-           <a href="/#research" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
-            Learn More
-           </a>
-           <a href="/#positions" class="px-6 py-3 border border-gray-400 text-gray-800 font-semibold rounded-lg hover:bg-gray-100 transition">
-            Join Us
-           </a>
-           <a href="/funding/" class="px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">
-            Funding →
-           </a>
+           <a href="/#research" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">Learn More</a>
+           <a href="/#positions" class="px-6 py-3 border border-gray-400 text-gray-800 font-semibold rounded-lg hover:bg-gray-100 transition">Join Us</a>
+           <a href="/funding/" class="px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">Funding →</a>
          </div>
     
   - block: hero
