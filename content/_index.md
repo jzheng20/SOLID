@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
          <br> 
-         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.</p>
+         Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.
       primary_action:
         text: Learn more
         url: https://hugoblox.com/templates/
