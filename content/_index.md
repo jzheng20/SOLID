@@ -13,15 +13,13 @@ sections:
         filename: welcome.jpg
       text: |
          <br> 
-         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Our research group focuses on the design and implementation of large-scale local and global optimization algorithms.</p>
+         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Cao Research Group focuses on the design and implementation of large-scale local and global optimization algorithms.</p>
+         <p class="text-2xl font-light" style="font-family:Times New Roman, sans-serif;">Cao Research Group is embedded in the
+           <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia, Canada</a>.</p>
          <a href="/#positions" class="btn btn-primary">Join Us</a>
          <a href="/#research" class="btn btn-outline">Learn More</a>
-         <a href="/funding/" class="btn btn-success">Funding →</a>
-         <div class="mt-6 flex flex-wrap gap-4">
-           <a href="/#research" class="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">Learn More</a>
-           <a href="/#positions" class="px-6 py-3 border border-gray-400 text-gray-800 font-semibold rounded-lg hover:bg-gray-100 transition">Join Us</a>
-           <a href="/funding/" class="px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">Funding →</a>
-         </div>
+         <a href="/#positions" class="btn btn-success">Join Us →</a>
+
     
   - block: hero
     content:
