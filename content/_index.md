@@ -14,7 +14,6 @@ sections:
       text: |
          <br> 
          <p class="text-base font-light" style="font-family:Times New Roman, sans-serif;">We focuse on the design and implementation of large-scale local and global optimization algorithms.</p>
-         <br> 
          <p class="text-xs font-light" style="font-size: 18px;font-family:Times New Roman, sans-serif;">Cao Research Group is embedded in the
          <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia</a>.<br></p>
          <a href="/#research" class="btn btn-primary">Our Research</a>
@@ -63,6 +62,41 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: markdown
+    id: research
+    content:
+      title: '<p class="text-4xl font-bold">DAIS Lab Research</p>'
+      markdown: |
+        <p class="text-xl font-light mt-2">
+          Our research lies at the intersection of <em>industrial process control</em>, <em>data analytics</em> and <em>machine learning</em>.
+        </p>
+        <p class="text-md mt-4">Recent representative publications in these areas:</p>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+
+          <!-- Left: Image Panel -->
+          <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
+            <h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>
+            <img src="/media/actor-critic.png" alt="Actor-Critic Diagram" class="mx-auto w-full max-w-xs rounded">
+            <p class="text-sm text-blue-600 mt-2">Spielberg et al. 2019</p>
+          </div>
+
+          <!-- Right: Publication Card -->
+          <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
+            <p class="italic text-blue-700 mb-1">Journal Paper <span class="bg-blue-100 text-blue-700 text-xs px-2 py-1 rounded ml-2">Top 10% Most Downloaded</span></p>
+            <p class="text-lg font-bold text-gray-800 mb-2">
+              Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
+            </p>
+            <p class="text-sm text-gray-700">
+              Steven P. Spielberg, Aditya Tulsyan, <em class="underline text-red-600">Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni<br>
+              <em>AIChE Journal</em>. 2019 
+              <a href="/media/paper.pdf" class="ml-2 px-2 py-1 text-white bg-blue-500 text-xs rounded">[PDF]</a>
+            </p>
+          </div>
+
+        </div>
+
     
   - block: markdown
     id: research
