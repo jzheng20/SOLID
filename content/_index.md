@@ -13,11 +13,11 @@ sections:
         filename: welcome.jpg
       text: |
          <br> 
-         <p class="text-xl font-light" style="font-family:Times New Roman, sans-serif;">Cao Research Group focuses on the design and implementation of large-scale local and global optimization algorithms, which is embedded in the
-           <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia, Canada</a>.</p>
-         <a href="/#positions" class="btn btn-primary">Join Us</a>
-         <a href="/#research" class="btn btn-outline">Learn More</a>
-         <a href="/#positions" class="btn btn-success">Join Us →</a>
+         <p class="text-base font-light" style="font-family:Times New Roman, sans-serif;">Cao Research Group focuses on the design and implementation of large-scale local and global optimization algorithms, which is embedded in the
+           <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia</a>.</p>
+         <a href="/#positions" class="btn btn-primary">Join Us →</a>
+         <a href="/#positions" class="btn btn-secondary">Join Us →</a>
+         <a href="/#research" class="btn btn-info">Learn More</a>
 
     
   - block: hero
