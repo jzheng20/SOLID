@@ -216,27 +216,27 @@ sections:
       view: card                    
       columns: '1'
 
-- block: markdown
-  id: positions
-  content:
-    title: "Positions"
-    text: |
-      <!-- 白色背景是默认的，无需加 -->
+  - block: markdown
+    id: positions
+    content:
+      title: "Positions"
+      text: |
+        <!-- 白色背景是默认的，无需加 -->
 
-      <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
+        <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
 
-        <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">
-          We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.
-        </p>
+          <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">
+            We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.
+          </p>
 
-        <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
-          👉 Please <span class="font-bold">send your CV to</span> 
-          <span class="underline">yankai.cao@ubc.ca</span>.
-        </p>
+          <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
+            👉 Please <span class="font-bold">send your CV to</span> 
+            <span class="underline">yankai.cao@ubc.ca</span>.
+          </p>
 
-        <!-- 省略其余内容... -->
+          <!-- 省略其余内容... -->
 
-      </div>
+        </div>
 
  
 ---
