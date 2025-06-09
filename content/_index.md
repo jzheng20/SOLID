@@ -91,7 +91,7 @@ sections:
             <p class="text-sm text-gray-700">
               Steven P. Spielberg, Aditya Tulsyan, <em class="underline text-red-600">Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni<br>
               <em>AIChE Journal</em>. 2019 
-              <a href="/media/paper.pdf" class="ml-2 px-2 py-1 text-white bg-blue-500 text-xs rounded">[PDF]</a>
+              <a href="https://example.com/paper-link" target="_blank" class="ml-2 px-2 py-1 text-white bg-blue-500 text-xs rounded">[Paper]</a>
             </p>
           </div>
 
