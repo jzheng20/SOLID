@@ -20,28 +20,6 @@ sections:
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
          <br> 
          <a href="/#positions" class="btn btn-light">Last news</a> 
-
-    
-  - block: hero
-    content:
-      title: |
-        <strong>Now Solving:</strong> Global Optimal AI
-      image:
-        filename: welcome.jpg
-      text: |
-         <br> 
-         Our research group focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as machine learning, data analysis, and estimation as well as stochastic optimization, optimal control, and complex networks.
-      primary_action:
-        text: Learn more
-        url: https://hugoblox.com/templates/
-      secondary_action:
-        text: Joint us
-        url: /#positions
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/#research"
     
   - block: collection
     id: news
@@ -67,7 +45,7 @@ sections:
     id: research
     content:
       title: '<p class="text-4xl font-bold">DAIS Lab Research</p>'
-      markdown: |
+      text: |
         <p class="text-xl font-light mt-2">
           Our research lies at the intersection of <em>industrial process control</em>, <em>data analytics</em> and <em>machine learning</em>.
         </p>
