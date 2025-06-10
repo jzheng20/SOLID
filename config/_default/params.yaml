@@ -29,14 +29,16 @@ marketing:
     google: ''
     baidu: ''
 
+
+logo:
+  main: "logo2.png"
+  alt: "Cao Research Group22"
+
 header:
   navbar:
     enable: true
     align: "center"
-    logo:
-      filename: "/uploads/logo2.png"
-      text: "Cao Research Group 22"
-      # Logo filename in `assets/media/` folder
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
