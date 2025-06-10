@@ -41,7 +41,6 @@ header:
       enable: true
       text: "Get Started"
       url: "https://hugoblox.com/templates/" in `assets/media/` folder
- 
     show_language: false
     show_day_night: true
     show_search: true
