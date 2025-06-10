@@ -30,15 +30,16 @@ marketing:
     baidu: ''
 
 
-logo:
-  main: "logo2.png"
-  alt: "Cao Research Group22"
+ 
 
 header:
   navbar:
     enable: true
-    align: "center"
-    show_logo: true
+    align: "center" 
+    logo:
+      text: "  Cao Research Group22"
+      # Logo filename in `assets/media/` folder
+      filename: "log1.png"
     show_language: false
     show_day_night: true
     show_search: true
