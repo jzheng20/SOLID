@@ -150,7 +150,7 @@ sections:
               <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Custom Link</a>
             </div>
           </div>
-          <img src="/media/example.jpg" alt="Paper image" class="w-36 h-auto rounded-lg object-cover shadow-sm">
+          <img src="logo2.png" alt="Paper image" class="w-36 h-auto rounded-lg object-cover shadow-sm">
         </div>
 
   - block: markdown
