@@ -36,10 +36,7 @@ header:
   navbar:
     enable: true
     align: "center" 
-    logo:
-      text: "  Cao Research Group22"
-      # Logo filename in `assets/media/` folder
-      filename: "log1.png"
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
