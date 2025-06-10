@@ -34,9 +34,9 @@ header:
     enable: true
     align: "center"
     logo:
-      text: "Cao Research Group"
+      light: "log1.png"
       # Logo filename in `assets/media/` folder
-      filename: "log1.png"
+ 
     show_language: false
     show_day_night: true
     show_search: true
