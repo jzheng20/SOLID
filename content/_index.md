@@ -171,7 +171,7 @@ sections:
             </div>
 
              <!-- 右边图片 -->
-             <div class="w-24">
+             <div class="w-1">
              <img src="/uploads/logo2.png" alt="Paper image" class="w-full h-auto rounded object-cover shadow-sm">
              </div>
               </div>
