@@ -14,7 +14,7 @@ header:
     logo:
       text: "  Cao Research Group"
       # Logo filename in `assets/media/` folder
-      filename: "log1.png"
+      filename: "logo1.png"
     button:
       enable: true
       text: "Get Started"
