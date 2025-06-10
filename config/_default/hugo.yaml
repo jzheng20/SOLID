@@ -15,17 +15,6 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-header:
-  navbar:
-    enable: true
-    align: center
-    fixed_to_top: true
-    logo:
-      filename: "logo1.png"         # 你的 logo 图片名（放到 assets/media/）
-      text: "Cao Research Group"
-      width: 40
-      height: 40
-
 ############################
 ## ADVANCED
 ############################
