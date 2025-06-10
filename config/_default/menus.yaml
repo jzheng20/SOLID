@@ -13,16 +13,19 @@ main:
     weight: 40
   - name: Publications
     url: /#publications
-    weight: 50
-  - name: Positions
-    url: /#positions
-    weight: 60
+    weight: 50 
+  - name: Gallery
+    url: /#gallery
+    weight: 80
   - name: Opportunities
     weight: 70
     hasChildren: true
   - parent: Opportunities
     name: Funding
     url: funding/
-  - name: Gallery
-    url: /#gallery
+  - parent: Opportunities
+    name: Positions
+    url: /#positions
+  - name: Contact
+    url: /#contact
     weight: 80
