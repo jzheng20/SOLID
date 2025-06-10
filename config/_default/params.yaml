@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: "center"
     show_logo: true
     logo:
       filename: "logo2.png"     # 图片路径：assets/media/logo2.png
@@ -40,7 +40,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 
 # Site footer
