@@ -157,7 +157,7 @@ sections:
     content:
       title: Latest Preprints
       text: |
-            <div class="bg-white rounded-xl shadow-md p-6 mb-6 flex items-start">
+            <div class="bg-white rounded-xl shadow-md p-6 mb-6 flex flex-row items-start">
              <!-- 左边文字内容 -->
              <div class="flex-1 pr-6">
                <h3 class="text-xl font-bold">An example preprint / working paper</h3>
@@ -172,7 +172,7 @@ sections:
 
              <!-- 右边图片 -->
              <div class="flex-shrink-0">
-              <img src="/uploads/logo2.png" alt="Paper image" class="w-24 h-auto rounded-lg object-cover shadow-sm" />
+              <img src="/uploads/logo2.png" alt="Paper image" class="w-5 h-auto rounded-lg object-cover shadow-sm" />
              </div>
             </div>
 
