@@ -21,7 +21,7 @@ main:
     weight: 70
     hasChildren: true
   - parent: Opportunities
-    name: Funding
+    name: Funding Opportunities
     url: funding/
   - parent: Opportunities
     name: Positions
