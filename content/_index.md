@@ -153,6 +153,30 @@ sections:
         </div>
 
   - block: markdown
+    id: publications
+    content:
+      title: Latest Preprints
+      text: |
+            <div class="bg-white rounded-xl shadow-md p-6 mb-6 flex items-start">
+             <!-- 左边文字内容 -->
+             <div class="flex-1 pr-6">
+               <h3 class="text-xl font-bold">An example preprint / working paper</h3>
+               <p class="text-gray-600 mb-2">Nelson Bighetti (2019)</p>
+               <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.</p>
+               <div class="flex flex-wrap gap-2">
+                 <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">PDF</a>
+                 <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Code</a>
+                 <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Custom Link</a>
+               </div>
+             </div>
+
+             <!-- 右边图片 -->
+             <div class="flex-shrink-0">
+              <img src="/uploads/logo2.png" alt="Paper image" class="w-24 h-auto rounded-lg object-cover shadow-sm" />
+             </div>
+            </div>
+
+  - block: markdown
     id: research
     content:
       title: Research
