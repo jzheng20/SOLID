@@ -6,6 +6,20 @@
 title: Cao Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
 
+
+
+# Site header
+header:
+  navbar:
+    logo:
+      text: "  Cao Research Group"
+      # Logo filename in `assets/media/` folder
+      filename: "log1.png"
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
+
 ############################
 ## LANGUAGE
 ############################
