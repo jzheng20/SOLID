@@ -3,8 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Cao Research Group # Website name
-filename: logo1.png
+title: <img src="/uploads/logo2.png"  style="width: 6rem; height: 6rem;"  class="rounded-full object-cover"> Cao Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
