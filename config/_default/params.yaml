@@ -33,6 +33,9 @@ marketing:
 
 header:
   navbar:
+    logo:
+      filename: "logo2.png"     # 图片路径：assets/media/logo2.png
+      text: "Cao Research Group"
     enable: true
     align: r
     show_logo: true
