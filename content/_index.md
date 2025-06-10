@@ -171,7 +171,7 @@ sections:
             </div>
 
              <!-- 右边图片 -->
-             <div class="w-1">
+             <div class="w-[96px] h-[72px] overflow-hidden rounded shadow-sm">
              <img src="/uploads/logo2.png" alt="Paper image" class="w-full h-auto rounded object-cover shadow-sm">
              </div>
               </div>
