@@ -37,10 +37,6 @@ header:
       text: "  Cao Research Group"
       # Logo filename in `assets/media/` folder
       filename: "log1.png"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/" in `assets/media/` folder
     show_language: false
     show_day_night: true
     show_search: true
