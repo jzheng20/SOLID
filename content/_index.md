@@ -134,7 +134,25 @@ sections:
       card:
         css_class: "flex flex-row items-center bg-white rounded-xl shadow p-4 space-x-4 max-w-4xl mx-auto"
 
-    
+  - block: markdown
+    id: publications
+    content:
+      title: Latest Preprints
+      text: |
+        <div class="bg-white rounded-xl shadow-md p-6 mb-6 flex items-center justify-between">
+          <div class="flex-1 pr-6">
+            <h3 class="text-xl font-bold">An example preprint / working paper</h3>
+            <p class="text-gray-600 mb-2">Nelson Bighetti (2019)</p>
+            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.</p>
+            <div class="flex flex-wrap gap-2">
+              <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">PDF</a>
+              <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Code</a>
+              <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Custom Link</a>
+            </div>
+          </div>
+          <img src="/media/example.jpg" alt="Paper image" class="w-36 h-auto rounded-lg object-cover shadow-sm">
+        </div>
+
   - block: markdown
     id: research
     content:
