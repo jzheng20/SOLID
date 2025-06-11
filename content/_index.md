@@ -165,7 +165,6 @@ sections:
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection. </p>
             <img src="/uploads/aboutus.png"  style="width: 40rem; height: 30rem; display: block; margin-left: auto; margin-right: auto;" class="rounded-full object-cover">
-    
     design:
       view: card                    
       columns: '1'      
@@ -221,8 +220,8 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
-          fit: contain
+        color: '#666'
+        fit: contain
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -233,7 +232,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-          fit: contain
+        fit: contain
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
@@ -244,7 +243,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-          fit: contain
+        fit: contain
         link:
           icon: graduation-cap
           icon_pack: fas
