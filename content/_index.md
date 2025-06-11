@@ -108,7 +108,7 @@ sections:
     id: publications
     content:
       title: Latest Preprints
-      text: |
+      text: >
             <div class="bg-white rounded-xl shadow-md p-6 mb-6 grid grid-cols-[1fr_auto] gap-4 items-start">
              <!-- 左边内容 -->
              <div>
