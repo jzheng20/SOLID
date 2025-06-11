@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Chenxuanyin Zou
+title: Yin Huang
 
 # Full name (for SEO)
-first_name: Chenxuanyin
-last_name: Zou
+first_name: Yin
+last_name: Huang
 
 # Username (this should match the folder name)
 authors:
-  - ChenxuanyinZou
+  - YinHuang
 
 # Is this the primary user of the site?
 superuser: false
