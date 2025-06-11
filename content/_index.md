@@ -220,7 +220,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-        color: '#666'
+          color: '#666'
         fit: contain
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
