@@ -136,7 +136,7 @@ sections:
                <div>
                <h3 class="text-xl font-bold">An example journal article</h3>
                <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
-               <p class="text-sm text-gray-500 mt-2">Nelson Bighetti <span class="text-gray-400">•</span> Robert Ford</p>
+               <p class="text-sm text-gray-500 mt-2">Nelson Bighetti <span class="text-gray-400">•</span> Robert Ford <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></p><img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
                <div class="mt-3 flex gap-2">
                <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">PDF</a>
                <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Cite</a>
