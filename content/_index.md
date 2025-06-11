@@ -212,21 +212,21 @@ sections:
       text: |
         <!-- 白色背景是默认的，无需加 -->
 
-          <p class="text-2xl font-bold" style="font-family:Times New Roman, serif;">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
+          <p class="text-2xl font-bold">We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</p>
 
-          <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
+          <p class="text-2xl font-light" style="text-indent: 2em;">
             👉 Please <span class="font-bold">send your CV to</span> <span class="underline">yankai.cao@ubc.ca</span>.
           </p>
 
-          <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
+          <p class="text-2xl font-light" style="text-indent: 2em;">
             👉 Please <span class="font-bold">provide the following information:</span> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).
           </p>
 
-          <p class="text-2xl font-light" style="font-family:Times New Roman, serif; text-indent: 2em;">
+          <p class="text-2xl font-light" style="text-indent: 2em;">
             👉 Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="underline text-blue-600 hover:text-blue- 800">UBC Graduate School</a>.
           </p>
 
-          <p class="text-2xl font-light mb-6" style="font-family:Times New Roman, serif; text-indent: 2em;">
+          <p class="text-2xl font-light mb-6" style=" text-indent: 2em;">
             👉 <a href="/funding/" class="underline text-blue-600 hover:text-blue-800">Here is for Funding Opportunities</a>.
           </p>
  
