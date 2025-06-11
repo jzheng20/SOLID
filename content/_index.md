@@ -222,6 +222,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+          fit: contain
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -232,6 +233,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+          fit: contain
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
@@ -242,6 +244,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+          fit: contain
         link:
           icon: graduation-cap
           icon_pack: fas
