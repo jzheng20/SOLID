@@ -226,7 +226,7 @@ sections:
       columns: '1'
  
   - block: slider
-    id: positions
+    id: gallery
     content:
       title: Gallery
       slides:
@@ -267,7 +267,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
