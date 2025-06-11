@@ -10,7 +10,7 @@ sections:
       title: |
           <strong>Now Solving:</strong> <br> Global Optimal AI
       image:
-        filename: logo1.png
+        filename: aboutus.png
       text: |
          <br> 
          <p class="text-base font-light">We focuse on the design and implementation of large-scale local and global optimization algorithms.</p>
