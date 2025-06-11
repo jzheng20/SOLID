@@ -27,5 +27,5 @@ main:
     name: Positions
     url: /#positions
   - name: Contact
-    url: contact
+    url: /#contact
     weight: 80
