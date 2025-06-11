@@ -25,7 +25,7 @@ organizations:
 bio: My research interests include Sparse Representation Learning.
 
 interests:
-  - Sparse Representation Learning
+  - <span class="text-gray-500">Sparse Representation Learning</span>
  
  
 
