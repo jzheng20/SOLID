@@ -12,7 +12,7 @@ sections:
       image:
         filename: aboutus0.png
       text: |
-         <p class="text-base font-light">We focus on <strong class="font-bold">S</strong>calable <strong class="font-bold">O</strong>ptimization, <strong class="font-bold">L</strong>earning, and <strong class="font-bold">I</strong>ntelligent <strong class="font-bold">D</strong>ecision-making (SOLID).</p>
+         <p class="text-base font-light">We focus on <strong class="text-xl font-bold">S</strong>calable <strong class="text-xl font-bold">O</strong>ptimization, <strong class="text-xl font-bold">L</strong>earning, and <strong class="text-xl font-bold">I</strong>ntelligent <strong class="text-xl font-bold">D</strong>ecision-making (SOLID).</p>
          <p class="text-xs font-light" style="font-size: 18px;">SOLID Lab is embedded in the
          <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia</a>.<br></p>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
