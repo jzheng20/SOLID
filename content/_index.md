@@ -143,8 +143,7 @@ sections:
             <p class="text-2xl font-bold" style="font-family:Times New Roman, sans-serif;">Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection. </p>
-
-       <img src="/uploads/aboutus.png"  style="width: 24rem; height: 24rem;"  class="rounded-full object-cover">
+             <img src="/uploads/aboutus.png"  style="width: 24rem; height: 24rem;"  class="rounded-full object-cover">
    
     design:
       view: card                    
