@@ -10,7 +10,7 @@ sections:
       title: |
           <strong>Now Solving:</strong> <br> Global Optimal AI
       image:
-        filename: aboutus.png
+        filename: aboutus0.png
       text: |
          <p class="text-base font-light">We focuse on the design and implementation of large-scale local and global optimization algorithms.</p>
          <p class="text-xs font-light" style="font-size: 18px;">Cao Research Group is embedded in the
@@ -141,6 +141,7 @@ sections:
                <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">PDF</a>
                <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Cite</a>
                <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Code</a>
+               <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
                </div>
                </div>
                <!-- 右边图片 -->
