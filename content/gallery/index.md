@@ -8,7 +8,7 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: Gallery
       subtitle: 'Celebrate Jingyi’s Graduation (2025)'
       text:
     design:
