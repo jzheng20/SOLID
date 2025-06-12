@@ -324,7 +324,7 @@ sections:
           #url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: '600px'
       slide_weight: '700px'
       is_fullscreen: false
       # Automatically transition through slides?
