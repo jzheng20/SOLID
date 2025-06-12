@@ -295,6 +295,9 @@ sections:
           position: center
           color: '#666'
           background-size: contain
+        link: 
+          text: See Full Gallery
+          url: ../gallery/
       - title:  
         content: 🔥 Group BBQ (2023)
         align: right
@@ -306,6 +309,9 @@ sections:
           position: center
           color: '#555'
           background-size: contain
+        link: 
+          text: See Full Gallery
+          url: ../gallery/
       - title:  
         content: 🍽️ Group Dinner (2022)
         align: left
@@ -317,6 +323,9 @@ sections:
           position: center
           color: '#333'
           background-size: contain
+        link: 
+          text: See Full Gallery
+          url: ../gallery/
         #link:
          # icon: 
           #icon_pack: 
