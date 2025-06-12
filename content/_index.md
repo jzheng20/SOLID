@@ -308,7 +308,7 @@ sections:
           background-size: contain
       - title:  
         content: 🍽️ Group Dinner (2022)
-        align: top-left
+        align: left
         background:
           image:
             filename: picture2-e1745732281446.jpg
@@ -324,7 +324,7 @@ sections:
           #url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '600px'
+      slide_height: '500px'
       slide_weight: '700px'
       is_fullscreen: false
       # Automatically transition through slides?
