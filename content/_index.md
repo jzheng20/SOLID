@@ -308,7 +308,7 @@ sections:
           background-size: contain
       - title:  
         content: 🍽️ Group Dinner (2022)
-        align: left
+        align: top-left
         background:
           image:
             filename: picture2-e1745732281446.jpg
