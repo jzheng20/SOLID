@@ -14,8 +14,8 @@ sections:
 
   - block: markdown
     content:
-      title: Gallery
-      subtitle: 'Celebrate Jingyi’s Graduation (2025)'
+      title: Celebrate Jingyi’s Graduation (2025)
+      subtitle: ''
       text:
     design:
       columns: '1'
@@ -30,12 +30,12 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #css_class: fullscreen
 
   - block: markdown
     content:
-      title:
-      subtitle: 'Group BBQ (2023)'
+      title: Group BBQ (2023)
+      subtitle: ''
       text:
     design:
       columns: '1'
@@ -50,13 +50,13 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #css_class: fullscreen
 
 
   - block: markdown
     content:
-      title:
-      subtitle: 'Group Dinner (2022)'
+      title: Group Dinner (2022)
+      subtitle: ''
       text:
     design:
       columns: '1'
@@ -71,5 +71,5 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #css_class: fullscreen
 ---
