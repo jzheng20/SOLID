@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: M.Sc. student, started 2024
 
 # Organizations/Affiliations
 organizations:
