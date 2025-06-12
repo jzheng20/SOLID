@@ -14,18 +14,18 @@ main:
   - name: Publications
     url: /#publications
     weight: 50 
-  - name: Gallery
-    url: /#gallery
-    weight: 60
   - name: Opportunities
-    weight: 70
+    weight: 60
     hasChildren: true
-  - parent: Opportunities
-    name: Funding Opportunities
-    url: funding/
   - parent: Opportunities
     name: Positions
     url: /#positions
+  - parent: Opportunities
+    name: Funding Opportunities
+    url: funding/
+  - name: Gallery
+    url: /#gallery
+    weight: 70
   - name: Contact
     url: /#contact
     weight: 80
