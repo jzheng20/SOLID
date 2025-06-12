@@ -284,8 +284,8 @@ sections:
     content:
       title: Gallery
       slides:
-      - title: 👋 Welcome to the group
-        content:  
+      - title:  
+        content: 🎉 Celebrate Jingyi’s Graduation (2025)
         align: center
         background:
           image:
@@ -300,7 +300,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: picture3-e1745732324801.jpg
             filters:
               brightness: 0.7
           position: center
@@ -311,7 +311,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: picture2-e1745732281446.jpg
             filters:
               brightness: 0.5
           position: center
