@@ -285,7 +285,7 @@ sections:
       title: Gallery
       slides:
       - title:  
-        content: 🎉 Celebrate Jingyi’s Graduation (2025)
+        content: 🎉🎉🎉 🎓 Celebrate Jingyi’s Graduation (2025)
         align: right
         background:
           image:
@@ -296,7 +296,7 @@ sections:
           color: '#666'
           background-size: contain
       - title:  
-        content:  Group BBQ (2023)
+        content: 🔥 Group BBQ (2023)
         align: left
         background:
           image:
@@ -307,7 +307,7 @@ sections:
           color: '#555'
           background-size: contain
       - title:  
-        content: Group Dinner (2022) ☕️
+        content: 🍽️ Group Dinner (2022)
         align: right
         background:
           image:
