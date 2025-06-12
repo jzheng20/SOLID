@@ -295,8 +295,8 @@ sections:
           position: right
           color: '#666'
           background-size: contain
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title:  
+        content:  Group BBQ (2023)
         align: left
         background:
           image:
@@ -306,8 +306,8 @@ sections:
           position: center
           color: '#555'
           background-size: contain
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title:  
+        content: Group Dinner (2022) ☕️
         align: right
         background:
           image:
@@ -320,8 +320,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: See Full Gallery
+          url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
