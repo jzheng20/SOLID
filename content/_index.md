@@ -286,7 +286,7 @@ sections:
       slides:
       - title:  
         content: 🎉🎉🎉 🎓 Celebrate Jingyi’s Graduation (2025)
-        align: right
+        align: left
         background:
           image:
             filename: WechatIMG208-scaled.jpg
@@ -297,7 +297,7 @@ sections:
           background-size: contain
       - title:  
         content: 🔥 Group BBQ (2023)
-        align: left
+        align: right
         background:
           image:
             filename: picture3-e1745732324801.jpg
@@ -308,7 +308,7 @@ sections:
           background-size: contain
       - title:  
         content: 🍽️ Group Dinner (2022)
-        align: right
+        align: left
         background:
           image:
             filename: picture2-e1745732281446.jpg
