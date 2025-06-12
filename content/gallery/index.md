@@ -9,7 +9,7 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: 'Celebrate Jingyi’s Graduation (2025)'
       text:
     design:
       columns: '1'
@@ -29,7 +29,7 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: 'Group BBQ (2023)'
       text:
     design:
       columns: '1'
@@ -50,7 +50,7 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: 'Group Dinner (2022)'
       text:
     design:
       columns: '1'
