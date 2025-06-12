@@ -285,7 +285,7 @@ sections:
       title: Gallery
       slides:
       - title:  
-        content: 🎉🎉🎉 🎓 Celebrate Jingyi’s Graduation (2025)
+        content: 🎉🎓 Celebrate Jingyi’s Graduation (2025)
         align: left
         background:
           image:
