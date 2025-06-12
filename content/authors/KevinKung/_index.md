@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jingjing Zheng
+title: Kevin Kung
 
 # Full name (for SEO)
-first_name: Jingjing
-last_name: Zheng
+first_name: Kevin
+last_name: Kung
 
 # Username (this should match the folder name)
 authors:
-  - JingjingZheng
+  - KevinKung
 
 # Is this the primary user of the site?
 superuser: false
