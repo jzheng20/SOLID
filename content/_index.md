@@ -317,11 +317,11 @@ sections:
           position: center
           color: '#333'
           background-size: contain
-        link:
-          icon: 
-          icon_pack: 
-          text: See Full Gallery
-          url: ../gallery/
+        #link:
+         # icon: 
+          #icon_pack: 
+          #text: See Full Gallery
+          #url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
