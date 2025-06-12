@@ -330,7 +330,7 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 100
       fit: contain
   
   - block: contact
