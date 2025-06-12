@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yankai Cao
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yankai
+last_name: Cao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The University of Britis Columbia
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning, Large-scale Optimization, Energy Systems, Process Control
+  - Large-scale Optimization
+  - Energy Systems
+  - Process Control
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctoral Associate
+      institution: University of Wisconsin Madison
+      year: 2018
+    - course: Ph.D.
+      institution: Purdue University
+      year: 2015
+    - course: B.E.
+      institution: Zhejiang University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +45,18 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'yankai.cao@ubc.ca'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=M-s3mjAAAAAJ&hl=en
+  - icon: phone
+    icon_pack: fas
+    link: 'tel:604-822-1346'
+  - icon: building
+    icon_pack: fas
+    link: 'Office: CHBE 237, UBC'
+    
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yankai.cao@ubc.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +75,8 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research group focuses on the design and implementation of large-scale local and global optimization algorithms to tackle problems that arise in diverse decision-making paradigms such as machine learning, stochastic optimization, and optimal control. Our algorithms combine mathematical techniques and emerging high-performance computing hardware to achieve computational scalability.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The problems that we are addressing are of unprecedented complexity and defy the state-of-the-art. For example, in our recent work, we developed a novel global optimization algorithm capable of solving k-center clustering problems (an unsupervised learning task) with up to 1 billion samples, while state-of-the-art approaches in the literature can only address several thousand samples.
+
+We are currently using our tools to address engineering and scientific questions that arise in diverse application domains, including optimal decision trees, optimal clustering, deep-learning-based control, optimal power system planning, AI for bioprocess operation, and optimal design of zero energy buildings.
