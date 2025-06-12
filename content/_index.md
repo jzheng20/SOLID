@@ -318,8 +318,8 @@ sections:
           color: '#333'
           background-size: contain
         link:
-          icon: graduation-cap
-          icon_pack: fas
+          icon: 
+          icon_pack: 
           text: See Full Gallery
           url: ../gallery/
     design:
