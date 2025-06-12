@@ -286,13 +286,13 @@ sections:
       slides:
       - title:  
         content: 🎉 Celebrate Jingyi’s Graduation (2025)
-        align: center
+        align: right
         background:
           image:
             filename: WechatIMG208-scaled.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
           background-size: contain
       - title:  
