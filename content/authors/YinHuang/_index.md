@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. student, started 2024
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Chemical and Biological Engineering at The University of Britis Columbia
-    url: 'https://www.chbe.ubc.ca/'
+  - name: Department of Mathematics at The University of Britis Columbia
+    url: 'https://www.math.ubc.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Global Optimal Decision Trees.
