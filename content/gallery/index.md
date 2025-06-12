@@ -6,6 +6,12 @@ type: landing
 
 sections: 
 
+
+  - block: markdown
+    content:
+      title: Gallery 
+ 
+
   - block: markdown
     content:
       title: Gallery
