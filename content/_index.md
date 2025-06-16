@@ -10,11 +10,12 @@ sections:
       title:
       image:
         filename: UBCVhomepage.jpg
+        placement: background 
       text:
     design:  
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: none
+        gradient_start: none
         text_color_light: true
 
   - block: hero
