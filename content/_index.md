@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: markdown
+    id: home
     content:
       title: 
       subtitle: ''
