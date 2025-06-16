@@ -56,7 +56,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: SOLID Lab News 
+      title: News 
       text: |
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
