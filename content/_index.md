@@ -52,12 +52,32 @@ sections:
         padding: ['80px', '0', '80px', '0']
 
 
+ 
+ 
+
+ 
+ 
+
+
   - block: markdown
     id: news
     content:
       title: SOLID Lab News 
       text: |
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+
+          <!-- News Item 1 -->
+          <div class="bg-white shadow-sm rounded-lg p-6 border border-gray-200">
+            <div class="text-sm text-blue-600 font-semibold uppercase tracking-wide mb-2">
+              21 February 2025
+            </div>
+            <div class="text-lg font-semibold text-gray-900 mb-1">
+              >> <span class="underline underline-offset-4 decoration-blue-500">Award for Ahmed at CHBE 3MT</span>
+            </div>
+            <div class="text-base text-gray-700">
+              Ahmed Abdalla wins 2nd place in the CHBE 3-Minute Thesis Competition.
+            </div>
+          </div>
 
           <!-- News Card 1 -->
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
@@ -69,6 +89,7 @@ sections:
               Our new lab website is officially online! Built with Hugo Blox, it showcases our research, team, and open opportunities.
             </p> 
           </div>
+    
 
           <!-- News Card 2 -->
           <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
