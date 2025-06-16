@@ -30,6 +30,7 @@ sections:
 
 
   - block: markdown
+    id: home
     content:
       title: |
           <strong>Now Solving:</strong>  Global Optimal AI
