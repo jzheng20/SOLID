@@ -63,13 +63,15 @@ sections:
           <!-- News Card 1 -->
           <div class="relative rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
             <img src="uploads/WechatIMG208-scaled.jpg" alt="Bookmark" style="width: 6rem; height: 6rem;" class="absolute top-4 left-4 w-4 h-4">
-            <p class="text-sm text-gray-500 mb-2">🔖 June 2025</p>
-            <p class="text-xl font-semibold text-gray-800 mb-2">
-              SOLID Lab Launches Research Website
-            </p>
-            <p class="text-sm text-gray-700 mb-4">
-              Our new lab website is officially online! Built with Hugo Blox, it showcases our research, team, and open opportunities.
-            </p> 
+            <div>
+              <p class="text-sm text-gray-500 mb-2">🔖 June 2025</p>
+              <p class="text-xl font-semibold text-gray-800 mb-2">
+                SOLID Lab Launches Research Website
+              </p>
+              <p class="text-sm text-gray-700 mb-4">
+                Our new lab website is officially online! Built with Hugo Blox, it showcases our research, team, and open opportunities.
+              </p>
+            </div>
           </div>
     
 
