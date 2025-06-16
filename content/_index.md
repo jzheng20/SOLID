@@ -49,12 +49,59 @@ sections:
       background:
         color: '#ffffff'   
       spacing:
-        padding: ['80px', '0', '80px', '0']   
+        padding: ['80px', '0', '80px', '0']
+
 
   - block: markdown
     id: news
     content:
-      title: '<p class="text-4xl font-bold">SOLID Lab News</p>'
+      title: SOLID Lab News 
+      text: |
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+
+          <!-- News Card 1 -->
+          <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
+            <p class="text-sm text-gray-500 mb-2">📅 June 2025</p>
+            <p class="text-xl font-semibold text-gray-800 mb-2">
+              SOLID Lab Launches Research Website
+            </p>
+            <p class="text-sm text-gray-700 mb-4">
+              Our new lab website is officially online! Built with Hugo Blox, it showcases our research, team, and open opportunities.
+            </p>
+            <a href="/gallery" class="text-sm text-blue-600 underline hover:text-blue-800">Explore Website →</a>
+          </div>
+
+          <!-- News Card 2 -->
+          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
+            <p class="text-sm text-gray-500 mb-2">📅 May 2025</p>
+            <p class="text-xl font-semibold text-gray-800 mb-2">
+            Two Papers Accepted at NeurIPS 2025
+            </p>
+            <p class="text-sm text-gray-700 mb-4">
+              Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.
+            </p>
+            <a href="/publications" class="text-sm text-green-600 underline hover:text-green-800">See Publications →</a>
+          </div>
+
+          <!-- News Card 3 -->
+          <div class="rounded-lg border-l-4 border-yellow-500 shadow p-6 bg-white">
+            <p class="text-sm text-gray-500 mb-2">📅 March 2025</p>
+            <p class="text-xl font-semibold text-gray-800 mb-2">
+              New Member: Dr. Jane Smith Joins as Postdoc
+            </p>
+            <p class="text-sm text-gray-700 mb-4">
+              We warmly welcome Dr. Jane Smith to SOLID Lab as a Postdoctoral Fellow. Her research focuses on learning-based process control.
+            </p>
+            <a href="/members" class="text-sm text-yellow-600 underline hover:text-yellow-800">Meet the Team →</a>
+          </div>
+
+        </div>
+
+
+  - block: markdown
+    id: news
+    content:
+      title: SOLID Lab News 
       text: |
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
           <!-- Right: Publication Card -->
