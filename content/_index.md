@@ -98,7 +98,7 @@ sections:
 
     design:
       view: card                    
-      columns: '5'   
+      columns: '3'   
 
 
   - block: markdown
