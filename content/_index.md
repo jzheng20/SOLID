@@ -5,17 +5,24 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title:
-      image:
-        filename: UBCVhomepage.jpg
+      title: Celebrate Jingyi’s Graduation (2025)
+      subtitle: ''
       text:
-    design:  
+    design:
+      columns: '2'
       background:
-        gradient_end: none
-        gradient_start: none
-        text_color_light: true
+        image: 
+          filename: UBCVhomepage.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: over
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
   - block: hero
