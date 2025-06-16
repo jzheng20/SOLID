@@ -75,10 +75,8 @@ sections:
 
           <!-- News Card 2 -->
           <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
-            <p class="text-sm text-gray-500 mb-2">📰 May 2025</p>
-            <p class="text-xl font-semibold text-gray-800 mb-2">
-            Two Papers Accepted at NeurIPS 2025
-            </p>
+            <p class="text-sm text-gray-500 mb-2">📰📌 12 May 2025</p>
+            <p<strong class="text-2xl font-bold">Two Papers Accepted at NeurIPS 2025</strong></p>
             <p class="text-sm text-gray-700 mb-4">
               Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.
             </p>
