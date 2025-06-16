@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Celebrate Jingyi’s Graduation (2025)
+      title: 
       subtitle: ''
       text:
     design:
