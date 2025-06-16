@@ -23,7 +23,7 @@ sections:
           size: over
           text_color_light: true
       spacing:
-        padding: ['250px', '0', '250px', '0']
+        padding: ['200px', '0', '200px', '0']
       css_class: narrow-hero
 
  
@@ -35,12 +35,13 @@ sections:
           <strong>Now Solving:</strong>  Global Optimal AI
       subtitle: ''
       text: |
+    <div class="text-center">
          <p class="text-base font-light">We focus on <strong class="text-2xl font-bold">S</strong>calable <strong class="text-2xl font-bold">O</strong>ptimization, <strong class="text-2xl font-bold">L</strong>earning, and <strong class="text-2xl font-bold">I</strong>ntelligent <strong class="text-2xl font-bold">D</strong>ecision-making (SOLID).</p>
          <p class="text-xs font-light" style="font-size: 18px;"><strong>SOLID Lab</strong> is embedded in the
          <a href="https://chbe.ubc.ca" class="text-blue-600 underline hover:text-blue-800" target="_blank">Department of Chemical and Biological Engineering</a> at <a href="https://www.ubc.ca/" class="text-blue-600 underline hover:text-blue-800" target="_blank">The University of Britis Columbia</a>.<br></p>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
-      design:
+    </div>
     background:
       color: '#ffffff'  # 白色背景
     
