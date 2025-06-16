@@ -67,8 +67,7 @@ sections:
             </p>
             <p class="text-sm text-gray-700 mb-4">
               Our new lab website is officially online! Built with Hugo Blox, it showcases our research, team, and open opportunities.
-            </p>
-            <a href="/gallery" class="text-sm text-blue-600 underline hover:text-blue-800">Explore Website →</a>
+            </p> 
           </div>
 
           <!-- News Card 2 -->
@@ -80,7 +79,6 @@ sections:
             <p class="text-sm text-gray-700 mb-4">
               Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.
             </p>
-            <a href="/publications" class="text-sm text-green-600 underline hover:text-green-800">See Publications →</a>
           </div>
 
           <!-- News Card 3 -->
@@ -92,7 +90,6 @@ sections:
             <p class="text-sm text-gray-700 mb-4">
               We warmly welcome Dr. Jane Smith to SOLID Lab as a Postdoctoral Fellow. Her research focuses on learning-based process control.
             </p>
-            <a href="/members" class="text-sm text-yellow-600 underline hover:text-yellow-800">Meet the Team →</a>
           </div>
 
         </div>
