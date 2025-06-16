@@ -51,13 +51,25 @@ sections:
       spacing:
         padding: ['80px', '0', '80px', '0']
 
-
- 
- 
-
- 
- 
-
+  - block: markdown
+    id: news
+    content:
+       title: "News"
+       text: |
+         <div class="rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-all duration-300 p-6 bg-white">
+           <div class="text-sm text-blue-600 font-semibold uppercase tracking-wide mb-2">
+             21 February 2025
+           </div>
+           <div class="text-lg font-semibold text-gray-900 mb-1">
+             &gt;&gt; <span class="underline underline-offset-4 decoration-blue-500">Award for Ahmed at CHBE 3MT</span>
+           </div>
+           <div class="text-base text-gray-700 leading-relaxed">
+             Ahmed Abdalla wins 2nd place in the CHBE 3-Minute Thesis Competition.
+           </div>
+         </div>
+    design:
+       background:
+         color: '#f9fafb'
 
   - block: markdown
     id: news
