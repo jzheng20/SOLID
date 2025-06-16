@@ -10,15 +10,13 @@ sections:
       title:
       image:
         filename: UBCVhomepage.jpg
-        placement: background
-        overlay_filter: "rgba(0,0,0,0.3)"
       text:
     design:  
       background:
         gradient_end: none
         gradient_start: none
         text_color_light: true
-    height: full_screen
+      css_class: fullscreen
 
   - block: hero
     content:
