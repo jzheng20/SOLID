@@ -62,6 +62,7 @@ sections:
 
           <!-- News Card 1 -->
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
+            <img src="uploads/picture2-e1745732281446.jpg" alt="Bookmark" class="absolute top-4 left-4 w-5 h-5">
             <p class="text-sm text-gray-500 mb-2">🔖 June 2025</p>
             <p class="text-xl font-semibold text-gray-800 mb-2">
               SOLID Lab Launches Research Website
