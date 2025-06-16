@@ -81,7 +81,7 @@ sections:
           <!-- News Item 1 -->
           <div class="bg-white shadow-sm rounded-lg p-6 border border-gray-200">
             <div class="text-sm text-blue-600 font-semibold uppercase tracking-wide mb-2">
-              U+1F516 21 February 2025
+              📰 21 February 2025
             </div>
             <div class="text-lg font-semibold text-gray-900 mb-1">
               >> <span class="underline underline-offset-4 decoration-blue-500">Award for Ahmed at CHBE 3MT</span>
@@ -93,7 +93,7 @@ sections:
 
           <!-- News Card 1 -->
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
-            <p class="text-sm text-gray-500 mb-2">U+1F4F0 June 2025</p>
+            <p class="text-sm text-gray-500 mb-2">🔖 June 2025</p>
             <p class="text-xl font-semibold text-gray-800 mb-2">
               SOLID Lab Launches Research Website
             </p>
