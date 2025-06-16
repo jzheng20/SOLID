@@ -22,7 +22,7 @@ sections:
           size: over
           text_color_light: true
       spacing:
-        padding: ['120px', '0', '120px', '0']
+        padding: ['200px', '0', '200px', '0']
       css_class: narrow-hero
 
   - block: hero
