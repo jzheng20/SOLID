@@ -62,7 +62,7 @@ sections:
 
           <!-- News Card 1 -->
           <div class="relative rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
-            <img src="uploads/WechatIMG208-scaled.jpg" alt="Bookmark" class="absolute top-4 left-4 w-4 h-4">
+            <img src="uploads/WechatIMG208-scaled.jpg" alt="Bookmark" style="width: 6rem; height: 6rem;" class="absolute top-4 left-4 w-4 h-4">
             <p class="text-sm text-gray-500 mb-2">🔖 June 2025</p>
             <p class="text-xl font-semibold text-gray-800 mb-2">
               SOLID Lab Launches Research Website
@@ -99,7 +99,7 @@ sections:
 
     design:
       view: card                    
-      columns: '3'   
+      columns: '2'   
 
 
   - block: markdown
@@ -123,25 +123,7 @@ sections:
         </div>
   
   
-  - block: collection
-    id:  
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+ 
 
   - block: markdown
     id: research
