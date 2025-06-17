@@ -60,24 +60,10 @@ sections:
       text: |
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
-     
+      
     
           <!-- News Card 2 -->
-          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
-            <img src="uploads/WechatIMG208-scaled.jpg" alt="Bookmark" style="width: 6rem; height: 6rem;" class="absolute top-4 left-4 w-4 h-4">
-            <p class="text-base"><strong class="italic underline"> 🔖  Two Papers Accepted at NeurIPS 2025</strong>
-            <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;">&nbsp;| 12 May 2025
-            </span>
-            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
-            </p>
-          </div>
-
-        
-
-          
-    
-          <!-- News Card 2 -->
-          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+          <div class="rounded-lg border-l-4 border-red-500 shadow p-6 bg-green" style="background-color:#eff6ff;">
          
             <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;"> &nbsp;| 12 May 2025 </span>
@@ -111,25 +97,7 @@ sections:
       columns: '2'   
 
 
-  - block: markdown
-    id: news
-    content:
-      title: SOLID Lab News 
-      text: |
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-          <!-- Right: Publication Card -->
-          <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
-            <p class="italic text-blue-700 mb-1">Journal Paper <span class="bg-blue-100 text-blue-700 text-xs px-2 py-1 rounded ml-2">Top 10% Most Downloaded</span></p>
-            <p class="text-lg font-bold text-gray-800 mb-2">
-              Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
-            </p>
-            <p class="text-sm text-gray-700">
-              Steven P. Spielberg, Aditya Tulsyan, <em class="underline text-red-600">Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni<br>
-              <em>AIChE Journal</em>. 2019 
-              <a href="https://example.com/paper-link" target="_blank" class="ml-2 px-2 py-1 text-white bg-blue-500 text-xs rounded">[Paper]</a>
-            </p>
-          </div>
-        </div>
+   
   
   
  
