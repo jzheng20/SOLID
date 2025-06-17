@@ -77,7 +77,7 @@ sections:
           
     
           <!-- News Card 2 -->
-          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
+          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white " style="background-color: #f3f4f6;">
             <div class="flex items-center justify-between">
             <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;"> &nbsp;| 12 May 2025 </span>
