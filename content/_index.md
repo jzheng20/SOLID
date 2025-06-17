@@ -75,7 +75,8 @@ sections:
           </div>
     
           <!-- News Card 2 -->
-          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white"> 
+          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
+            <img src="uploads/WechatIMG208-scaled.jpg" alt="Bookmark" style="width: 6rem; height: 6rem;" class="absolute top-4 left-4 w-4 h-4">
             <p class="text-base"><strong class="italic underline"> 🔖  Two Papers Accepted at NeurIPS 2025</strong>
             <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;">&nbsp;| 12 May 2025
             </span>
@@ -100,16 +101,7 @@ sections:
             </p>
           </div>
 
-          <!-- News Card 3 -->
-          <div class="rounded-lg border-l-4 border-yellow-500 shadow p-6 bg-white">
-            <p class="text-sm text-gray-500 mb-2">📌 March 2025</p>
-            <p class="text-xl font-semibold text-gray-800 mb-2">
-              New Member: Dr. Jane Smith Joins as Postdoc
-            </p>
-            <p class="text-sm text-gray-700 mb-4">
-              We warmly welcome Dr. Jane Smith to SOLID Lab as a Postdoctoral Fellow. Her research focuses on learning-based process control.
-            </p>
-          </div>
+     
 
         </div>
 
