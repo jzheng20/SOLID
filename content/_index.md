@@ -72,28 +72,19 @@ sections:
             </p>
           </div>
 
-          <div class="rounded-xl border-l-4 border-indigo-500 shadow-md p-6 bg-white hover:shadow-lg  transition">
-            <!-- 标题区 -->
-            <p class="text-sm text-red-600 font-semibold uppercase tracking-wide">📢 News</p>
-            <h3 class="text-xl font-bold text-gray-800 mt-1">Two Papers Accepted at NeurIPS 2025</h3>
-            <span class="text-sm text-gray-500">12 May 2025</span>
-  
-            <!-- 内容区 -->
-            <p class="mt-3 text-gray-600">
-            Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include 
-            <span class="font-medium text-gray-700">global optimization</span> and 
-            <span class="font-medium text-gray-700">decision transformers</span>.
-            </p>
-          </div>
+        
 
           
     
           <!-- News Card 2 -->
-          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white"> 
-            <p class="text-base">  <em style="color: red;">News!</em> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white">
+            <div class="flex items-center justify-between">
+            <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;"> &nbsp;| 12 May 2025 </span>
+            </div>
             <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
             </p>
+            
           </div>
           <!-- News Card 2 -->
           <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white"> 
