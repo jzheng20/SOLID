@@ -36,6 +36,26 @@
 
 - Deep Learning for Control, *AI Journal*, 2024
 - Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
+- - Deep Learning for Control, *AI Journal*, 2024
+- Reinforcement Learning in Process Industry, *NeurIPS*, 2023
 
 ---
 
@@ -44,6 +64,28 @@
 <a name="conferences"></a>
 
 - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
+- IFAC 2021: “Soft Sensors in Chemical Systems”
+- - IEEE CDC 2022: “Process Modeling with GNNs”
 - IFAC 2021: “Soft Sensors in Chemical Systems”
 
 ---
