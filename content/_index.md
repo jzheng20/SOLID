@@ -273,13 +273,13 @@ sections:
           </p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
-            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class=" hover:text-blue-600"><u>UBC Graduate School</u></a>.
+            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit; hover:text-blue-600"><u>UBC Graduate School</u></a>.
           </p>
 
           <a href="/funding/" class="btn btn-primary">Funding Opportunities</a>
 
- 
-          <div class="news-card rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
+    
+          <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
           <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
@@ -289,6 +289,39 @@ sections:
             Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
           </p>
           </div>
+          </div>
+
+
+  - block: markdown
+    id: positions
+    content:
+      title: Positions
+      text: |
+        <!-- 白色背景是默认的，无需加 -->
+
+          <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
+
+          <p class="text-2xl font-light" style="text-indent: 2em;">
+             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).
+          </p>
+
+          <p class="text-2xl font-light" style="text-indent: 2em;">
+            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit; hover:text-blue-600"><u>UBC Graduate School</u></a>.
+          </p>
+
+          <a href="/funding/" class="btn btn-primary">Funding Opportunities</a>
+
+          <hr class="section-divider">
+    
+
+          <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
+          <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
+            <strong>To Ph.D./ Master Candidates:</strong>
+          </p>
+
+          <p class="text-2xl font-light italic" style="font-family:Times New Roman, serif;">
+            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
+          </p>
           </div>
 
   - block: slider
