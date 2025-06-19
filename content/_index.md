@@ -44,7 +44,6 @@ sections:
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
-        <hr class="section-divider">
     design:
       columns: '1'
       background:
@@ -59,6 +58,7 @@ sections:
     content:
       title: Lab News 
       text: |
+        <hr class="section-divider">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
          <!-- News Card 1 -->
