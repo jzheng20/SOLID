@@ -124,7 +124,7 @@ sections:
 
           <!-- Left: Image Panel -->
           <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
-            <h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>
+            <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
             <p class="text-sm text-blue-600 mt-2">Spielberg et al. 2019</p>
           </div>
