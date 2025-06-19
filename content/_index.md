@@ -52,24 +52,14 @@ sections:
         padding: ['80px', '0', '80px', '0']
 
 
-  - block: markdown 
-    content:
-      title: |
-          <strong>Now Solving:</strong>  Global Optimal AI
-      subtitle: ''
-      text: |
-        <div style="display: flex; align-items: center; gap: 2rem;">
-        <div>Left block</div>
-        <div class="vertical-line" style="height: 100px;"></div>
-        <div>Right block</div>
-        </div>
+ 
 
  
     
   - block: markdown
     id: news
     content:
-      title: Lab News 
+      title: <hr class="section-divider"> Lab News 
       text: |
         <hr class="section-divider">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
@@ -198,7 +188,17 @@ sections:
                </div>
               </div>
 
-  
+  - block: markdown 
+    content:
+      title: |
+          <strong>Now Solving:</strong>  Global Optimal AI
+      subtitle: ''
+      text: |
+        <div style="display: flex; align-items: center; gap: 2rem;">
+        <div>Left block</div>
+        <div class="vertical-line" style="height: 100px;"></div>
+        <div>Right block</div>
+        </div>
     
     
 
