@@ -117,7 +117,7 @@ sections:
       title:  Research
       text: |
         <p class="text-xl font-light mt-2">SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries.</p>
-        <br><p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
+    <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
@@ -129,18 +129,7 @@ sections:
             <p class="text-sm text-blue-600 mt-2">Spielberg et al. 2019</p>
           </div>
 
-          <!-- Right: Publication Card -->
-          <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
-            <p class="italic text-blue-700 mb-1">Journal Paper <span class="bg-blue-100 text-blue-700 text-xs px-2 py-1 rounded ml-2">Top 10% Most Downloaded</span></p>
-            <p class="text-lg font-bold text-gray-800 mb-2">
-              Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
-            </p>
-            <p class="text-sm text-gray-700">
-              Steven P. Spielberg, Aditya Tulsyan, <em class="underline text-red-600">Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni<br>
-              <em>AIChE Journal</em>. 2019 
-              <a href="https://example.com/paper-link" target="_blank" class="ml-2 px-2 py-1 text-white bg-blue-500 text-xs rounded">[Paper]</a>
-            </p>
-          </div>
+       
 
         </div>
 
