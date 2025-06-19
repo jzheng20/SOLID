@@ -132,13 +132,11 @@ sections:
             <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
           </div>
-
+          <h3 class="text-xl font-bold text-blue-700 mb-4">Selected Publications</h3>
           <!-- Right: Publication Card -->
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
             <p class="italic text-blue-700 mb-1">Journal Paper <span class="bg-blue-100 text-blue-700 text-xs px-2 py-1 rounded ml-2">Top 10% Most Downloaded</span></p>
-            <p class="text-lg font-bold text-gray-800 mb-2">
-              Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
-            </p> 
+        
           </div>
 
          </div>
@@ -155,37 +153,9 @@ sections:
         publication_type: 'article'
     design:
       view: table
-      columns: '1'
+      columns: '1' 
 
  
-
-  
-
- 
-
-  - block: markdown
-    id: publications
-    content:
-      title: Latest Preprints
-      text: >
-            <div class="bg-white rounded-xl shadow-md p-6 mb-6 grid grid-cols-[1fr_96px] gap-4 items-start">
-            <!-- 左边内容 -->
-               <div>
-               <h3 class="text-xl font-bold">An example journal article</h3>
-               <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
-               <p class="text-sm text-gray-500 mt-2">Nelson Bighetti <span class="text-gray-400">•</span> Robert Ford <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></p><img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
-               <div class="mt-3 flex gap-2">
-               <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">PDF</a>
-               <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Cite</a>
-               <a href="#" class="px-3 py-1 border border-blue-500 text-blue-600 text-sm rounded hover:bg-blue-50">Code</a>
-               <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
-               </div>
-               </div>
-               <!-- 右边图片 -->
-               <div class="w-[96px] h-[72px] overflow-hidden rounded shadow-sm">
-               <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover">
-               </div>
-              </div>
 
   - block: markdown 
     content:
@@ -221,7 +191,7 @@ sections:
  
   - block: markdown
     id: positions
-    content:
+    content: 
       title: Positions
       text: |
         <!-- 白色背景是默认的，无需加 -->
