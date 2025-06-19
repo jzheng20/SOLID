@@ -49,10 +49,7 @@ sections:
       spacing:
         padding: ['80px', '0', '80px', '0']
 
-  - block: markdown
-    id: home
-    content:
-      title: <hr class="section-divider"> 
+  
   
 
   - block: markdown
