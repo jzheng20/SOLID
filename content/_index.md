@@ -107,7 +107,7 @@ sections:
 
         </div>
         <div class="vertical-line" style="height: 100px;"></div>
-        <div> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></div>
+        <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
         </div>
 
     design:
