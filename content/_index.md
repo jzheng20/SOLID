@@ -269,20 +269,15 @@ sections:
           <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
-              Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>.
+             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).
           </p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
-            👉 Please <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).
+            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class=" hover:text-blue-600"><u>UBC Graduate School</u></a>.
           </p>
 
-          <p class="text-2xl font-light" style="text-indent: 2em;">
-            👉 Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="underline text-blue-600 hover:text-blue- 800">UBC Graduate School</a>.
-          </p>
+          <a href="/funding/" class="btn btn-primary">Funding Opportunities</a>
 
-          <p class="text-2xl font-light mb-6" style=" text-indent: 2em;">
-            👉 <a href="/funding/" class="underline text-blue-600 hover:text-blue-800">Here is for Funding Opportunities</a>.
-          </p>
  
           <div class="news-card rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
           <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
