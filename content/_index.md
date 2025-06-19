@@ -25,9 +25,7 @@ sections:
         padding: ['150px', '0', '150px', '0']
       css_class: narrow-hero
 
- 
-
-
+      
   - block: markdown
     id: home
     content:
@@ -51,15 +49,16 @@ sections:
       spacing:
         padding: ['80px', '0', '80px', '0']
 
-
- 
-
- 
+  - block: markdown
+    id: home
+    content:
+      title: <hr class="section-divider"> 
+  
     
   - block: markdown
     id: news
     content:
-      title: <hr class="section-divider"> Lab News 
+      title: Lab News 
       text: |
         <hr class="section-divider">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
