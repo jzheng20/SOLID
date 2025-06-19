@@ -44,6 +44,7 @@ sections:
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
+        <hr class="section-divider">
     design:
       columns: '1'
       background:
