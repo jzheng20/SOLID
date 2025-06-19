@@ -73,7 +73,15 @@ sections:
            <!-- News Card 2 -->
           <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
             <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| <span style="background-color:rgb(160,120,0,0.85)">12 May 2025</span> </span>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| <span style="background-color:rgb(180,140,20,0.8)">12 May 2025</span> </span>
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+         </div>
+    
+          <!-- News Card 2 -->
+          <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| <span style="background-color:rgb(130,110,30,0.9)">12 May 2025</span> </span>
             <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
             </p>
          </div>
