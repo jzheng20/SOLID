@@ -63,9 +63,6 @@ sections:
         <div style="display: flex; align-items: center; gap: 2rem;">
         <div> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></div>
         <div class="vertical-line" style="height: 100px;"></div>
-        <div>               <h3 class="text-xl font-bold">An example journal article</h3>
-               <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> </div>
-        <div class="vertical-line" style="height: 100px;"></div>
     
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
