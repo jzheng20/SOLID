@@ -190,14 +190,14 @@ sections:
 
   - block: markdown 
     content:
-      title: |
-          <strong>Now Solving:</strong>  Global Optimal AI
+      title:  
       subtitle: ''
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
-        <div>Left block</div>
+        <div> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></div>
         <div class="vertical-line" style="height: 100px;"></div>
-        <div>Right block</div>
+        <div>               <h3 class="text-xl font-bold">An example journal article</h3>
+               <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></div>
         </div>
     
     
