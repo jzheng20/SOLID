@@ -266,7 +266,7 @@ sections:
       text: |
         <!-- 白色背景是默认的，无需加 -->
 
-          <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.<\strong></p>
+          <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
               Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>.
