@@ -89,8 +89,8 @@ sections:
           </div>
           <!-- News Card 2 -->
           <div class="rounded-lg border-l-4 border-green-500 shadow p-6 bg-white"> 
-            <p class="text-base">  <em style="color: red;">News!</em> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;"> &nbsp;| 12 May 2025 </span>  
+            <p class="text-base">   Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;"> &nbsp;| <span style="background-color:rgb(100,200,200,0.5)">12 May 2025</span> </span>  
             <p class="text-sm"><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p></p>
           </div>
     
