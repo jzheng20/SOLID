@@ -25,3 +25,9 @@ hr.section-divider {
 }
 
 
+.vertical-line {
+  width: 1px;
+  height: 80px;             // 或你想要的高度
+  background-color: #ccc;   // 可自定义颜色
+  margin: 0 auto;           // 居中
+}
