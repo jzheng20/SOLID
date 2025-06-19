@@ -60,7 +60,6 @@ sections:
     content:
       title: <hr class="section-divider">  Lab News 
       text: |
-        <hr class="section-divider">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
          <!-- News Card 1 -->
