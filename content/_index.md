@@ -66,7 +66,7 @@ sections:
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 1px solid #dc2626; padding-left: 3rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+            <p style="border-left: 10px solid #dc2626; padding-left: 5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span>
             <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
             </p>
