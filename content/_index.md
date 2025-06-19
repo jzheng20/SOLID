@@ -114,10 +114,10 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '<p class="text-4xl font-bold">DAIS Lab Research</p>'
+      title:  Research
       text: |
         <p class="text-xl font-light mt-2">
-          Our research lies at the intersection of <em>industrial process control</em>, <em>data analytics</em> and <em>machine learning</em>.
+          SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  
         </p>
         <p class="text-md mt-4">Recent representative publications in these areas:</p>
 
@@ -126,7 +126,7 @@ sections:
           <!-- Left: Image Panel -->
           <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
             <h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>
-            <img src="/media/actor-critic.png" alt="Actor-Critic Diagram" class="mx-auto w-full max-w-xs rounded">
+            <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
             <p class="text-sm text-blue-600 mt-2">Spielberg et al. 2019</p>
           </div>
 
