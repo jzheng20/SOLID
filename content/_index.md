@@ -54,6 +54,63 @@ sections:
     content:
       title: <hr class="section-divider"> 
   
+
+  - block: markdown
+    id: news
+    content:
+      title: Lab News 
+      text: |
+        <hr class="section-divider">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
+
+         <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| <span style="background-color:rgb(255, 240, 100, 0.8)">12 May 2025</span> </span>
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+          </div>
+         </a>
+    
+          <!-- News Card 2 -->
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| <span style="background-color:rgb(255, 100, 50, 0.8)">12 May 2025</span> </span>
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+         </div>
+
+          <!-- News Card 3 -->
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p class="text-base">  <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp; <span style="background-color:rgb(255, 240, 100, 0.8)">12 May 2025</span> ｜ <strong class="italic underline">Two Papers Accepted at  NeurIPS 2025 </strong> 
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+         </div>
+
+          <!-- News Card 4 -->
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p class="text-base">  <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp; <span style="background-color:rgb(255, 100, 50, 0.8)">12 May 2025</span> ｜ <strong class="italic underline">Two Papers Accepted at  NeurIPS 2025 </strong> 
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+         </div>
+    
+          <!-- News Card 5 -->
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p style="border-left: 4px solid #dc2626; padding-left: 1rem; class="text-base">  <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp; <span style="background-color:rgb(255, 100, 50, 0.8)">12 May 2025</span> ｜ <strong class="italic underline">Two Papers Accepted at  NeurIPS 2025 </strong> 
+            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
+            </p>
+         </div>
+
+     
+
+        </div>
+
+    design:
+      view: card                    
+      columns: '1' 
+
+
     
   - block: markdown
     id: news
