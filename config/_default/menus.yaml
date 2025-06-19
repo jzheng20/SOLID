@@ -8,12 +8,12 @@ main:
   - name: Research
     url: /#research
     weight: 30
-  - name: Members
-    url: /#members
-    weight: 40
   - name: Publications
     url: /#publications
-    weight: 50 
+    weight: 40 
+  - name: Members
+    url: /#members
+    weight: 50
   - name: Opportunities
     weight: 60
     hasChildren: true
