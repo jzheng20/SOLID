@@ -285,16 +285,13 @@ sections:
           <p class="text-2xl font-light" style="text-indent: 2em;">
             ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit; hover:text-blue-600"><u>UBC Graduate School</u></a>.
           </p>
-
-          <p class="text-2xl font-light" style="text-indent: 2em;">
-            ➤ <a href="/funding/" >Funding Opportunities</a>.   
-          </p>
+ 
 
           <a href="/#positions" class="btn btn-outline">Funding Opportunities →</a>
 
     
           <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
-          <div class="bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
+          <div class="border-left: 8px solid #dc2626; padding-left: 0.5rem; bg-gray-100 rounded-xl shadow p-6 space-y-4"> 
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
           </p>
