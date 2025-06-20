@@ -222,7 +222,7 @@ sections:
           </p>
  
 
-          <a href="/#positions" class="btn btn-outline">Funding Opportunities →</a>
+          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities →</a>
 
     
           <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
