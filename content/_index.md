@@ -59,7 +59,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
         <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
-        <div class="vertical-line" style="height: 1000px;"></div>
+        <div class="vertical-line" style="height: 600px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
 
