@@ -303,6 +303,9 @@ sections:
           </div>
           </div>
 
+         <a href="/#research" class="btn btn-primary">Learn Us</a>
+         <a href="/#positions" class="btn btn-outline">Join Us →</a>
+
 
   - block: markdown
     id: positions
@@ -335,6 +338,9 @@ sections:
           <p class="text-2xl font-light italic" style="font-family:Times New Roman, serif;">
             Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
           </p>
+
+         <a href="/#research" class="btn btn-primary">Learn Us</a>
+         <a href="/#positions" class="btn btn-outline">Join Us →</a>
 
 
   - block: slider
