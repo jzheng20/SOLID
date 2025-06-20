@@ -279,7 +279,7 @@ sections:
           <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
-             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs).
+             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). 
           </p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
@@ -316,10 +316,9 @@ sections:
           </p>
 
           <p class="text-2xl font-light" style="text-indent: 2em;">
-            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit; hover:text-blue-600"><u>UBC Graduate School</u></a>.
+            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit; hover:text-blue-600"><u>UBC Graduate School</u></a>. See <a href="/funding/" >Funding Opportunities</a>   
           </p>
-
-          <a href="/funding/" class="btn btn-primary">Funding Opportunities</a>   <a href="/#publications" class="btn btn-outline">Meet Us</a>
+ 
 
           <hr class="section-divider">
      
