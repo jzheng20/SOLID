@@ -76,18 +76,10 @@ sections:
         <p>Steven P. Spielberg, Aditya Tulsyan, <em>Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni</p>
 
         <p><em>AIChE Journal.</em> 2019</p>
-        <a href="your-pdf-link.pdf" target="_blank"
-        class="px-4 py-2 text-blue-600 border border-blue-600 rounded hover:bg-blue-50">
-        PDF
-        </a>
-        <a href="your-cite-link.bib" target="_blank"
-        class="px-4 py-2 text-blue-600 border border-blue-600 rounded hover:bg-blue-50">
-        Cite
-        </a>
-        <a href="https://github.com/your-repo" target="_blank"
-        class="px-4 py-2 text-blue-600 border border-blue-600 rounded hover:bg-blue-50">
-        Code
-        </a>
+        <a href="/#research" class="btn btn-primary">PDF</a>
+        <a href="/#research" class="btn btn-light">CODE</a>
+        <a href="/#research" class="btn btn-info">CITE</a>
+        
 
  
         </div>
