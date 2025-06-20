@@ -141,7 +141,7 @@ sections:
           <!-- Right: Publication Card -->
           
           <div style="display: flex; align-items: center; gap: 2rem;">
-          <div> <img src="/uploads/logo2.png" style="width: 6rem; height: 6rem;" class="rounded-full object-cover"></div>
+          <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
           <div class="vertical-line" style="height: 100px;"></div>
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
           <div>    <h3 class="text-xl font-bold">An example journal article</h3>
