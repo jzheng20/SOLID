@@ -67,7 +67,7 @@ sections:
         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
         <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
         <p style="font-style: italic; font-weight: 600; color: #1e40af;">Journal Paper</p>
-        <img src="https://img.shields.io/badge/Top%2010%%20Most%20Downloaded-lightblue" alt="Top 10% Most Downloaded" style="display:inline; margin-left: 8px;">
+        <img src="https://img.shields.io/badge/Top%2010%25%20Most%20Downloaded-lightblue" alt="Top 10% Most Downloaded" style="display:inline; margin-left: 8px;">
 
         <h3 style="font-weight: bold; font-size: 1.25rem; margin-top: 0.75rem;">
         Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
