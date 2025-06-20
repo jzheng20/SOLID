@@ -64,26 +64,19 @@ sections:
 
 
         <!-- News Card 0 -->
-        <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
         <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-        <p style="font-style: italic; font-weight: 600; color: #1e40af;">Journal Paper</p>
-        <img src="https://img.shields.io/badge/Top%2010%25%20Most%20Downloaded-lightblue" alt="Top 10% Most Downloaded" style="display:inline; margin-left: 8px;">
+        <p style="font-style: italic; font-weight: 600; color: #1e40af;">Journal Paper</p><img src="https://img.shields.io/badge/Top%2010%25%20Most%20Downloaded-lightblue" alt="Top 10% Most Downloaded" style="display:inline; margin-left: 8px;">
 
-        <h3 style="font-weight: bold; font-size: 1.25rem; margin-top: 0.75rem;">
-        Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
-        </h3>
-
+        <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control</strong>
+        </p>
         <p>Steven P. Spielberg, Aditya Tulsyan, <em>Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni</p>
 
         <p><em>AIChE Journal.</em> 2019</p>
         <a href="/#research" class="btn btn-primary">PDF</a>
         <a href="/#research" class="btn btn-light">CODE</a>
         <a href="/#research" class="btn btn-info">CITE</a>
-        
-
- 
         </div>
-        </a>
+
 
     
          <!-- News Card 1 -->
