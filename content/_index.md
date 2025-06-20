@@ -58,7 +58,7 @@ sections:
       title: <hr class="section-divider">  Lab News 
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
-    
+        <div class="vertical-line" style="height: 600px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
 
