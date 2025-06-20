@@ -63,7 +63,27 @@ sections:
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
 
+        <!-- News Card 0 -->
+        <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+        <p style="font-style: italic; font-weight: 600; color: #1e40af;">Journal Paper</p>
+        <img src="https://img.shields.io/badge/Top%2010%%20Most%20Downloaded-lightblue" alt="Top 10% Most Downloaded" style="display:inline; margin-left: 8px;">
 
+        <h3 style="font-weight: bold; font-size: 1.25rem; margin-top: 0.75rem;">
+        Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control
+        </h3>
+
+        <p>Steven P. Spielberg, Aditya Tulsyan, <em>Nathan P. Lawrence</em>, Philip D. Loewen, R. Bhushan Gopaluni</p>
+
+        <p><em>AIChE Journal.</em> 2019</p>
+
+        <a href="https://your-pdf-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/PDF-blue" alt="PDF">
+        </a>
+        </div>
+        </a>
+
+    
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
