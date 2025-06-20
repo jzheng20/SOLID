@@ -142,8 +142,17 @@ sections:
           
           <div style="display: flex; align-items: center; gap: 2rem;">
           <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
-          <div class="vertical-line" style="height: 100px;"></div>
+          <div class="vertical-line" style="height: 150px;"></div>
           <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
+          <div>    <h3 class="text-xl font-bold">An example journal article</h3>
+               <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> </div>
+          </div>
+          </div>
+
+          <div class="rounded-lg border-l-4 border-blue-500 shadow p-6 bg-white">
+          <div style="display: flex; align-items: center; gap: 2rem;">
+          <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
+          <div class="vertical-line" style="height: 150px;"></div>
           <div>    <h3 class="text-xl font-bold">An example journal article</h3>
                <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p> </div>
           </div>
