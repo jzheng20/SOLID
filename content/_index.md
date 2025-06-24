@@ -328,8 +328,8 @@ sections:
         country: Canada
         country_code: CA
       coordinates:
-        latitude: '49.2606'
-        longitude: '-123.2460'
+        latitude: '49.26262'
+        longitude: '-123.24766'
       directions: Enter Building and take the stairs to Floor 2 (CHBE 237)
       office_hours:
         - 'Monday 10:00 to 13:00'
