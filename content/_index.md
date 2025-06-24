@@ -78,7 +78,7 @@ sections:
       background:
         color: '#ffffff'   
       spacing:
-        padding: ['80px', '0', '80px', '0']
+        padding: ['80px', '0', '10px', '0']
 
   
   
