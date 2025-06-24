@@ -302,7 +302,8 @@ sections:
           <div class="vertical-line" style="height: 200px;"></div>
           <div>
           <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities</a>
-          <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;" class="btn btn-outline">→ Apply through UBC Graduate School</a>
+    
+          <a href="https://www.grad.ubc.ca/prospective-students/application-admission" class="btn btn-outline">→ Apply through UBC Graduate School</a>
           </div>
           </div>
     
