@@ -157,8 +157,7 @@ sections:
     id: publications
     content:
       title: Selected Publications  <a href="/#positions" class="btn btn-outline">→ See More Publication </a>
-      text: |
-            <a href="/#positions" class="btn btn-outline">→ See More Publication
+      text: ""
       count: 5
       filters:
         folders:
