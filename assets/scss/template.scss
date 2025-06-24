@@ -50,3 +50,13 @@ hr.section-divider {
   margin: 1.5rem auto;          /* 上下边距 + 居中 */
 }
 
+.custom-link {
+  color: inherit; /* 继承父级颜色 */
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.custom-link:hover {
+  color: #1e40af; /* 蓝色，等价于 Tailwind 的 text-blue-800 */
+}
+
