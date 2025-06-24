@@ -286,9 +286,7 @@ sections:
              ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). 
           </p>
 
-          <p class="text-2xl font-light" style="text-indent: 2em;">
-            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;"><u>UBC Graduate School</u></a>.
-          </p>
+     
  
           <div class="horizontal-line"></div>
           <div style="display: flex; align-items: center; gap: 2rem;">
@@ -302,7 +300,10 @@ sections:
           </p>
           </div>
           <div class="vertical-line" style="height: 200px;"></div>
-          <div> <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities</a> </div>
+          <div>
+          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities</a>
+          <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;" class="btn btn-outline">→ Apply through UBC Graduate School</a>
+          </div>
           </div>
     
     design:
