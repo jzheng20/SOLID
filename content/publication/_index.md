@@ -1,23 +1,12 @@
 ---
-title: "Publications"
-subtitle: "Grouped by category"
-widget: blank  # 使用通用 blank widget
-headless: false
-weight: 70
+title: Publications
+
+# Listing view
+view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
-
-## 📘 Journal Papers
-
-{{< publication_list type="journal-article" >}}
-
----
-
-## 🧾 Conference Papers
-
-{{< publication_list type="conference-paper" >}}
-
----
-
-## 🧪 Patents
-
-{{< publication_list type="patent" >}}
+ 
