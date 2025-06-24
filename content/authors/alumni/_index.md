@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Colson Kroeker
+title: SOLID Lab alumni
 
 # Full name (for SEO)
-first_name: Colson
-last_name: Kroeker
+first_name: 
+last_name:  
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: SOLID Lab alumni
+role: See our previous lab members
 
 # Organizations/Affiliations
 organizations:
