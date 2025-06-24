@@ -210,9 +210,7 @@ sections:
             ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;"><u>UBC Graduate School</u></a>.
           </p>
  
-
-          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities </a>
-
+ 
     
           <hr class="section-divider">
      
@@ -225,7 +223,7 @@ sections:
           </p>
 
          
-         <a href="/#positions" class="btn btn-outline">Funding Opportunities →</a>
+         <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities →</a>
 
  
  
