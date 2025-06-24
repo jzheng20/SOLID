@@ -14,10 +14,10 @@ All graduate students are financially supported by either PI’s research funds 
 
 ---
 
-
+<a name="Postdocs"></a>
 ## For Postdocs
 
-<a name="Postdocs"></a>
+ 
 
 - [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/awards-funding)
 - [NSERC Postdoctoral Fellowships Program](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp)
@@ -28,9 +28,9 @@ All graduate students are financially supported by either PI’s research funds 
 
 ---
 
+<a name="Graduate"></a>
 ## For Graduate Students
 
-<a name="Graduate"></a>
 
 - [Graduate Student Office](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 - [Department of Chemical and Biological Engineering](https://chbe.ubc.ca/graduate/awards-and-funding-opportunities/)
@@ -43,13 +43,14 @@ All graduate students are financially supported by either PI’s research funds 
 - [UBC Killam Scholarship](https://www.grad.ubc.ca/awards/killam-doctoral-scholarships)
 - [China Scholarship Council Doctoral Scholarships](https://www.grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships)
 - [India SERB-UBC Scholarships](https://www.grad.ubc.ca/awards/serb-ubc-scholarship)
-- 
+ 
 
 ---
 
+<a name="Undergraduate"></a>
 ## For Undergraduate Students
 
-<a name="Undergraduate"></a>
+ 
 
 - [NSERC Undergraduate Student Research Awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 - [Work Learn International Undergraduate Research Awards](https://students.ubc.ca/career/ubc-experiences/work-learn-international-undergraduate-research-awards/)
