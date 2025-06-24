@@ -185,7 +185,7 @@ sections:
         folders:
           - publication/conference_paper2
           - publication/conference_paper
-        publication_type: 'article'
+        publication_type: 'paper-conference'
     design:
       view: table
       columns: '1' 
