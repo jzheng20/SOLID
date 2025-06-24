@@ -7,8 +7,25 @@ All graduate students are financially supported by either PI’s research funds 
 
 
 
-<div class="horizontal-line"></div>
+# Publications
+
+👉 Go to:
+[All](#all) | [Funding Opportunities for Postdocs](#Postdocs) | [Funding Opportunities for Graduate Students](#Graduate) | [Funding Opportunities for Undergraduate Students](#Undergraduate)
+
+---
+
+## All
+
+- Paper A (2024)
+- Conference B (2023)
+- Patent C (2022)
+
+---
+
+
 ## Funding Opportunities for Postdocs
+
+<a name="Postdocs"></a>
 
 - [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/awards-funding)
 - [NSERC Postdoctoral Fellowships Program](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp)
@@ -17,8 +34,11 @@ All graduate students are financially supported by either PI’s research funds 
 - [China Scholarship Council Postdoctoral Scholarship](https://www.postdocs.ubc.ca/award/ubc-healthy-aging-postdoctoral-fellowship)
 - [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate/program-details)
 
-<div class="horizontal-line"></div>
+---
+
 ## Funding Opportunities for Graduate Students
+
+<a name="Graduate"></a>
 
 - [Graduate Student Office](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 - [Department of Chemical and Biological Engineering](https://chbe.ubc.ca/graduate/awards-and-funding-opportunities/)
@@ -32,8 +52,12 @@ All graduate students are financially supported by either PI’s research funds 
 - [China Scholarship Council Doctoral Scholarships](https://www.grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships)
 - [India SERB-UBC Scholarships](https://www.grad.ubc.ca/awards/serb-ubc-scholarship)
 - 
-<div class="horizontal-line"></div>
+
+---
+
 ## Funding Opportunities for Undergraduate Students
+
+<a name="Undergraduate"></a>
 
 - [NSERC Undergraduate Student Research Awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 - [Work Learn International Undergraduate Research Awards](https://students.ubc.ca/career/ubc-experiences/work-learn-international-undergraduate-research-awards/)
