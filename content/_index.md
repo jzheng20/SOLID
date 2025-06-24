@@ -183,11 +183,11 @@ sections:
       count: 5
       filters:
         folders:
-          - publication/conference_paper2
+          - publication
         publication_type: 'paper-conference'
     design:
       view: table
-      columns: '3' 
+      columns: '2' 
 
 
 
