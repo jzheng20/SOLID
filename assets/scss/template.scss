@@ -31,3 +31,11 @@ hr.section-divider {
   background-color: #ccc;   // 可自定义颜色
   margin: 0 auto;           // 居中
 }
+
+.horizontal-line {
+  width: 100%;                  /* 或固定宽度，如 80% */
+  height: 1px;                  /* 横线的厚度 */
+  background-color: #ccc;       /* 线的颜色 */
+  margin: 1.5rem auto;          /* 上下边距 + 居中 */
+}
+
