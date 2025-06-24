@@ -56,7 +56,7 @@ sections:
          <br>
           <!-- News Card 2 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card" style="background-color:#eff6ff;">
+          <div class="events-card">
             <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
@@ -65,7 +65,7 @@ sections:
          <br>
          <!-- News Card 3 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card" style="background-color:#eff6ff;">
+          <div class="events-card">
             <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
