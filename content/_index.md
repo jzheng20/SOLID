@@ -329,7 +329,7 @@ sections:
         country_code: US
       coordinates:
         latitude: '49.2606'
-        longitude: '123.2460'
+        longitude: '-123.2460'
       directions: Enter Building and take the stairs to Floor 2 (CHBE 237)
       office_hours:
         - 'Monday 10:00 to 13:00'
