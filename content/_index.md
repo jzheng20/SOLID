@@ -42,7 +42,7 @@ sections:
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
-        <div class="vertical-line" style="height: 400px;"></div>
+        <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
         <h2><strong> Lab Events</strong> </h2>
          <!-- News Card 1 -->
