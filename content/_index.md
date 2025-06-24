@@ -29,7 +29,7 @@ sections:
   - block: markdown
     id: home
     content:
-      title: cNow Solving:</strong>  Global Optimal AI
+      title: <strong>Now Solving:</strong>  Global Optimal AI
       subtitle: ''
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
@@ -175,7 +175,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Selected Publications  <a href="/#positions" class="btn btn-outline">→ See More Publication </a>
+      title: Selected Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
       text: ""
       count: 5
       filters:
