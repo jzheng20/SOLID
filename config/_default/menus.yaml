@@ -12,7 +12,7 @@ main:
     url: publication/
     weight: 40 
   - name: Members
-    url: /#peoples
+    url: /#members
     weight: 50
   - name: Opportunities
     weight: 60
