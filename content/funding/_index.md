@@ -5,6 +5,9 @@ title: Funding Opportunities
 All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from PI’s research funds.
 
 
+
+
+<div class="horizontal-line"></div>
 ## Funding Opportunities for Postdocs
 
 - [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/awards-funding)
@@ -14,7 +17,7 @@ All graduate students are financially supported by either PI’s research funds 
 - [China Scholarship Council Postdoctoral Scholarship](https://www.postdocs.ubc.ca/award/ubc-healthy-aging-postdoctoral-fellowship)
 - [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate/program-details)
 
-
+<div class="horizontal-line"></div>
 ## Funding Opportunities for Graduate Students
 
 - [Graduate Student Office](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
@@ -28,7 +31,8 @@ All graduate students are financially supported by either PI’s research funds 
 - [UBC Killam Scholarship](https://www.grad.ubc.ca/awards/killam-doctoral-scholarships)
 - [China Scholarship Council Doctoral Scholarships](https://www.grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships)
 - [India SERB-UBC Scholarships](https://www.grad.ubc.ca/awards/serb-ubc-scholarship)
-
+- 
+<div class="horizontal-line"></div>
 ## Funding Opportunities for Undergraduate Students
 
 - [NSERC Undergraduate Student Research Awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
