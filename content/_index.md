@@ -319,6 +319,7 @@ sections:
 
   
   - block: contact
+    id: contact
     content:
       title: <hr class="section-divider"> Contact
       text: |-
