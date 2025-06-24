@@ -53,7 +53,7 @@ sections:
             </p>
           </div>
          </a>
-         
+         <br>
           <!-- News Card 2 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
@@ -62,7 +62,7 @@ sections:
             </p>
           </div>
          </a>
-         
+         <br>
          <!-- News Card 3 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
