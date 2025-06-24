@@ -75,7 +75,7 @@ sections:
         </div>
         </div>
     design:
-      columns: '2'
+      columns: '1'
       background:
         color: '#ffffff'   
       spacing:
@@ -305,6 +305,12 @@ sections:
 
          
          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities</a>
+    design:
+      columns: '1'
+      background:
+        color: '#ffffff'   
+      spacing:
+        padding: ['80px', '0', '80px', '0']
 
  
  
