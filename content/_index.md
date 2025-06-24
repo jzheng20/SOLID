@@ -29,7 +29,7 @@ sections:
   - block: markdown
     id: home
     content:
-      title: 
+      title: <strong>Now Solving:</strong>  Global Optimal AI
       subtitle: ''
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
@@ -75,7 +75,7 @@ sections:
         </div>
         </div>
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#ffffff'   
       spacing:
