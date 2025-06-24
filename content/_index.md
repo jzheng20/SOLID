@@ -33,6 +33,8 @@ sections:
           <strong>Now Solving:</strong>  Global Optimal AI
       subtitle: ''
       text: |
+        <div style="display: flex; align-items: center; gap: 2rem;">
+        <div> <img src="/uploads/logo2.png" style="width: 10rem; height: 10rem;" class="rounded-full object-cover"></div>
         <br>
         <div class="text-center">
          <p class="text-base font-light">We focus on <strong class="text-2xl font-bold">S</strong>calable <strong class="text-2xl font-bold">O</strong>ptimization, <strong class="text-2xl font-bold">L</strong>earning, and <strong class="text-2xl font-bold">I</strong>ntelligent <strong class="text-2xl font-bold">D</strong>ecision-making (SOLID).</p>
@@ -41,6 +43,7 @@ sections:
          <br><br>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
+        </div>
         </div>
     design:
       columns: '1'
