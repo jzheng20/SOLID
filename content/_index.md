@@ -178,17 +178,16 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Latest Preprints
+      title: Selected Publications
       text: ""
       count: 5
       filters:
         folders:
           - publication/conference_paper2
-          - publication/conference_paper
         publication_type: 'paper-conference'
     design:
       view: table
-      columns: '1' 
+      columns: '3' 
 
 
 
