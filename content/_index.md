@@ -207,7 +207,7 @@ sections:
       view: citation
       columns: '1'
 
-    - block: people
+  - block: people
     id: members
     content:
       title: Members
