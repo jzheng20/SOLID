@@ -44,6 +44,17 @@ sections:
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
+        <div class="vertical-line" style="height: 600px;"></div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+         <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+            <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at NeurIPS 2025</strong>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            </p>
+          </div>
+         </a>
+        </div>
         </div>
     design:
       columns: '1'
