@@ -156,13 +156,14 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Selected Publications
-      text: ""
+      title: Selected Publications  <a href="/#positions" class="btn btn-outline">→ See More Publication </a>
+      text: |
+            <a href="/#positions" class="btn btn-outline">→ See More Publication
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'paper-conference'
+        publication_type: 'publications-highlight'
     design:
       view: table
       columns: '2' 
@@ -211,7 +212,7 @@ sections:
           </p>
  
 
-          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities →</a>
+          <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities </a>
 
     
           <div class="rounded-xl shadow p-6 max-w-4xl mx-auto" style="background-color: #f3f4f6;"> <!-- 灰色卡片 -->
