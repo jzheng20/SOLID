@@ -323,10 +323,10 @@ sections:
       address:
         street: 2360 East Mall
         city: Vancouver
-        region: CA
+        region: BC
         postcode: 'V6T 1Z3'
         country: Canada
-        country_code: US
+        country_code: CA
       coordinates:
         latitude: '49.2606'
         longitude: '-123.2460'
