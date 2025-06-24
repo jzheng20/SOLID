@@ -292,7 +292,7 @@ sections:
  
           <div class="horizontal-line"></div>
           <div style="display: flex; align-items: center; gap: 2rem;">
-          <div> 
+          <div style="max-width: 600px;"> 
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
           </p>
