@@ -292,7 +292,7 @@ sections:
  
  
     
-          <hr class="section-divider">
+          <hr class="border-t border-gray-100 my-6">
      
           <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
             <strong>To Ph.D./ Master Candidates:</strong>
