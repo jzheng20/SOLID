@@ -1,10 +1,4 @@
----
-widget: blank
-headless: true
-title: "Publications"
-weight: 70
----
-
+ 
 <div class="accordion" id="pubAccordion">
 
   <!-- Journal Section -->
