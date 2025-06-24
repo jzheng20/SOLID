@@ -211,45 +211,6 @@ sections:
       show_social: true 
       view: card 
  
-
- 
-  - block: markdown
-    id: positions
-    content: 
-      title: Positions
-      text: |
-        <!-- 白色背景是默认的，无需加 -->
-
-          <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
-
-          <p class="text-2xl font-light" style="text-indent: 2em;">
-             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). 
-          </p>
-
-          <p class="text-2xl font-light" style="text-indent: 2em;">
-            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;"><u>UBC Graduate School</u></a>.
-          </p>
- 
- 
-    
-          <hr class="section-divider">
-     
-          <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
-            <strong>To Ph.D./ Master Candidates:</strong>
-          </p>
-
-          <p class="text-2xl font-light italic" style="font-family:Times New Roman, serif;">
-            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
-          </p>
-
-         
-         <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities →</a>
-
- 
- 
- 
-
-
   - block: slider
     id: gallery
     content:
@@ -312,6 +273,45 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 100
       fit: contain
+ 
+  - block: markdown
+    id: positions
+    content: 
+      title: Positions
+      text: |
+        <!-- 白色背景是默认的，无需加 -->
+
+          <p class="text-2xl font-bold"><strong>We are actively seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students.</strong></p>
+
+          <p class="text-2xl font-light" style="text-indent: 2em;">
+             ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). 
+          </p>
+
+          <p class="text-2xl font-light" style="text-indent: 2em;">
+            ➤ Please apply through <a href="https://www.grad.ubc.ca/prospective-students/application-admission" target="_blank" class="text-decoration: none; color: inherit;"><u>UBC Graduate School</u></a>.
+          </p>
+ 
+ 
+    
+          <hr class="section-divider">
+     
+          <p class="text-3xl font-bold" style="font-family:Times New Roman, serif;">
+            <strong>To Ph.D./ Master Candidates:</strong>
+          </p>
+
+          <p class="text-2xl font-light italic" style="font-family:Times New Roman, serif;">
+            Ideal candidates will have a strong background in process modeling, control, optimization, and excellent communication skills. Students with a major in Control Engineering, Chemical Engineering, Automation Engineering, Systems Engineering, Industrial Engineering, Computer Science or Applied Mathematics are preferred.
+          </p>
+
+         
+         <a href="/#positions" class="btn btn-outline">→ See Funding Opportunities</a>
+
+ 
+ 
+ 
+
+
+
   
   - block: contact
     content:
@@ -321,16 +321,16 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: 2360 East Mall
+        city: Vancouver
         region: CA
-        postcode: '94305'
-        country: United States
+        postcode: 'V6T 1Z3'
+        country: Canada
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '49.2606'
+        longitude: '123.2460'
+      directions: Enter Building and take the stairs to Floor 2 (CHBE 237)
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
