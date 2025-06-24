@@ -183,29 +183,14 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - publication/conference_paper2
+          - publication/conference_paper
         publication_type: 'article'
     design:
       view: table
       columns: '1' 
 
- 
 
- 
-
-  - block: collection
-    id: publications
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: people
     id: members
