@@ -1,24 +1,16 @@
 ---
 title: Funding Opportunities 
 ---
+# Funding Opportunities 
+
 
 All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from PI’s research funds.
 
 
 
-
-# Publications
-
 👉 Go to:
-[All](#all) | [Funding Opportunities for Postdocs](#Postdocs) | [Funding Opportunities for Graduate Students](#Graduate) | [Funding Opportunities for Undergraduate Students](#Undergraduate)
+[Funding Opportunities for Postdocs](#Postdocs) | [Funding Opportunities for Graduate Students](#Graduate) | [Funding Opportunities for Undergraduate Students](#Undergraduate)
 
----
-
-## All
-
-- Paper A (2024)
-- Conference B (2023)
-- Patent C (2022)
 
 ---
 
