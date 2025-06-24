@@ -48,7 +48,7 @@ sections:
         <h2>Lab News</h2>
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
+          <div class="news-card" style="background-color:#eff6ff;">
             <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
@@ -58,7 +58,7 @@ sections:
           <!-- News Card 2 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-base"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+            <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
           </div>
@@ -67,7 +67,7 @@ sections:
          <!-- News Card 3 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-base"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+            <p style="border-left: 8px solid #dc2626; padding-left: 0.5rem;” class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
           </div>
