@@ -47,7 +47,7 @@ sections:
             <tbody>
               <!-- 2024 年分组 -->
               <tr style="background-color: #e5e5e5;">
-                <td colspan="4" style="border: 1px solid #ccc; padding: 6px;"><strong>2024</strong></td>
+                <td colspan="5" style="border: 1px solid #ccc; padding: 6px;"><strong>2024</strong></td>
               </tr>
               <tr>
                 <td style="border: 1px solid #ccc; padding: 6px;"><img src="/uploads/Alumni_img/avatar.png" width="36" style="border-radius: 50%;"></td>
@@ -58,7 +58,7 @@ sections:
               </tr>
               <!-- 2023 年分组 -->
               <tr style="background-color: #e5e5e5;">
-                <td colspan="4" style="border: 1px solid #ccc; padding: 6px;"><strong>2023</strong></td>
+                <td colspan="5" style="border: 1px solid #ccc; padding: 6px;"><strong>2023</strong></td>
               </tr>
               <tr>
                 <td style="border: 1px solid #ccc; padding: 6px;"><img src="/uploads/Alumni_img/avatar.png" width="36" style="border-radius: 50%;"></td>
