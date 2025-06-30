@@ -113,7 +113,7 @@ sections:
                 <td>Postdoctoral Researcher (UBC)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/yupeng.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yupeng Li</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yupeng Li</td>
                 <td>PhD (Visiting)</td>
                 <td>China University of Geosciences</td>
               </tr>
