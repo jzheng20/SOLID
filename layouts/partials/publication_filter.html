@@ -1,23 +1,12 @@
-<div class="pub-filters">
-  <div class="form-row">
-    <div class="col-auto">
-      <input type="search" class="pub-search form-control" placeholder="Search...">
-    </div>
-    <div class="col-auto">
-      <select class="pub-type-select form-select">
-        <option value="0">Type</option>
-        <option value="1">Preprint</option>
-        <option value="2">Journals</option>
-        <option value="3">Conference paper</option>
-        <option value="4">Publications-Highlight</option>
-        <option value="9">Workshop</option> <!-- ✅ 新增的自定义分类 -->
-      </select>
-    </div>
-    <div class="col-auto">
-      <select class="pub-sort-select form-select">
-        <option value="date_desc">Date</option>
-        <option value="date_asc">Date (oldest)</option>
-      </select>
-    </div>
-  </div>
-</div>
+{{- $type := index .Params.publication_types 0 -}}
+{{- if eq $type "1" -}}Preprint
+{{- else if eq $type "2" -}}Journal
+{{- else if eq $type "3" -}}Conference paper
+{{- else if eq $type "4" -}}Highlight
+{{- else if eq $type "5" -}}Book
+{{- else if eq $type "6" -}}Book section
+{{- else if eq $type "7" -}}Thesis
+{{- else if eq $type "8" -}}Patent
+{{- else if eq $type "9" -}}Workshop
+{{- else -}}Uncategorized
+{{- end -}}
