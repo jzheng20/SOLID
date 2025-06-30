@@ -26,9 +26,7 @@ abstract: To facilitate the real-time implementation of nonlinear model predicti
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+ 
 
 # links:
 # - name: ""
@@ -58,7 +56,19 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+@article{LI2022110665,
+title = {Using stochastic programming to train neural network approximation of nonlinear MPC laws},
+journal = {Automatica},
+volume = {146},
+pages = {110665},
+year = {2022},
+issn = {0005-1098},
+doi = {https://doi.org/10.1016/j.automatica.2022.110665},
+url = {https://www.sciencedirect.com/science/article/pii/S0005109822005295},
+author = {Yun Li and Kaixun Hua and Yankai Cao},
+keywords = {Model predictive control, Stochastic optimization, Deep neural networks, Nonlinear systems, Policy learning, Parallel computation},
+abstract = {To facilitate the real-time implementation of nonlinear model predictive control (NMPC), this paper proposes a deep learning-based NMPC scheme, in which the NMPC law is approximated via a deep neural network (DNN). To optimize the DNN controller, a novel “optimize and train” architecture is designed, where the processes of data generation and neural network training are combined together to result in a single large-scale stochastic optimization problem. Unlike the conventional “optimize then train” approach, our proposed one directly optimizes the closed-loop performance of the DNN controller over a finite horizon for a number of initial states. The important features of our proposed scheme are that it can deal with set-valued optimal MPC input, and a probabilistic guarantee of constraint satisfaction can be concluded for the closed-loop system without simulating the DNN controller. With our proposed scheme, an increased number of training scenarios leads to improved constraint satisfaction of the derived DNN controller, which is not necessarily true for the “optimize then train” approach. Statistical approaches for validating closed-loop control performance are also discussed. Furthermore, computational methods are introduced to efficiently solve the resulting stochastic optimization problem. The effectiveness of the proposed scheme is extensively illustrated with several numerical simulations. Compared with the conventional “optimize then train” approach, our proposed approach exhibits better closed-loop constraint satisfaction for all considered case studies.}
+}
 {{% /callout %}}
 
 {{% callout note %}}
