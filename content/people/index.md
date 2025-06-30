@@ -54,7 +54,6 @@ sections:
                 <td style="border: 1px solid #ccc; padding: 6px;"><em>Postdoc</em></td>
                 <td style="border: 1px solid #ccc; padding: 6px;">Postdoctoral Researcher (UC San Diego)</td>
               </tr>
-
               <!-- 2023 年分组 -->
               <tr style="background-color: #e5e5e5;">
                 <td colspan="4" style="border: 1px solid #ccc; padding: 6px;"><strong>2023</strong></td>
