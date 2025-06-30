@@ -54,10 +54,9 @@ sections:
                 <td style="border: 1px solid #ccc;"><em>Postdoc</em></td>
                 <td style="border: 1px solid #ccc;">Postdoctoral Researcher (UC San Diego)</td>
               </tr>
-
               <!-- 2024 年分组行 -->
               <tr style="background-color: #e5e5e5;">
-                <td colspan="4" style="border: 1px solid #ccc;"><strong>2024</strong></td>
+                <td colspan="4" style="border: 1px solid #ccc;"><strong>2023</strong></td>
               </tr>
               <tr>
                 <td style="border: 1px solid #ccc;"><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
