@@ -1,6 +1,23 @@
-<option value="0">Type</option>
-<option value="1">Preprint</option>
-<option value="2">Journals</option>
-<option value="3">Conference paper</option>
-<option value="4">Publications-Highlight</option>
-
+<div class="pub-filters">
+  <div class="form-row">
+    <div class="col-auto">
+      <input type="search" class="pub-search form-control" placeholder="Search...">
+    </div>
+    <div class="col-auto">
+      <select class="pub-type-select form-select">
+        <option value="0">Type</option>
+        <option value="1">Preprint</option>
+        <option value="2">Journals</option>
+        <option value="3">Conference paper</option>
+        <option value="4">Publications-Highlight</option>
+        <option value="9">Workshop</option> <!-- ✅ 新增的自定义分类 -->
+      </select>
+    </div>
+    <div class="col-auto">
+      <select class="pub-sort-select form-select">
+        <option value="date_desc">Date</option>
+        <option value="date_asc">Date (oldest)</option>
+      </select>
+    </div>
+  </div>
+</div>
