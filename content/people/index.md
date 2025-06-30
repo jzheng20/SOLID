@@ -38,15 +38,16 @@ sections:
           <table class="table table-hover">
             <thead>
               <tr>
-                <th>Photo</th>
+                <th> </th>
                 <th>Name</th>
                 <th>Degree</th>
                 <th>Position After Leaving/Now At</th>
               </tr>
             </thead>
             <tbody>
-              <tr>
-               <h3>2024</h3>
+              <!-- 2024 年分组行 -->
+              <tr style="background-color: #e5e5e5;">
+                <td colspan="4"><strong>2024</strong></td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
@@ -68,32 +69,7 @@ sections:
               </tr>   
             </tbody>
           </table>
-
-          <h3>2023</h3>
-          <table class="table table-hover">
-            <thead>
-              <tr>
-                <th>Photo</th>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <th>Position After Leaving/Now At</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <td>PhD (Oxford)</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <td>MSc (McGill)</td>
-              </tr>  
-            </tbody>
-          </table>
+ 
         </div>
     design:
       columns: '1'
