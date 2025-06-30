@@ -40,7 +40,8 @@ sections:
                 <th style="border: 1px solid #ccc; padding: 6px;"> </th>
                 <th style="border: 1px solid #ccc; padding: 6px;">Name</th>
                 <th style="border: 1px solid #ccc; padding: 6px;">Degree</th>
-                <th style="border: 1px solid #ccc; padding: 6px;">Position After Leaving/Now At</th>
+                <th style="border: 1px solid #ccc; padding: 6px;">Current Status</th>
+                <th style="border: 1px solid #ccc; padding: 6px;">Project</th>
               </tr>
             </thead>
             <tbody>
@@ -53,6 +54,7 @@ sections:
                 <td style="border: 1px solid #ccc; padding: 6px;">Nathan Lawrence</td>
                 <td style="border: 1px solid #ccc; padding: 6px;"><em>Postdoc</em></td>
                 <td style="border: 1px solid #ccc; padding: 6px;">Postdoctoral Researcher (UC San Diego)</td>
+                <td style="border: 1px solid #ccc; padding: 6px;"></td>
               </tr>
               <!-- 2023 年分组 -->
               <tr style="background-color: #e5e5e5;">
@@ -63,6 +65,7 @@ sections:
                 <td style="border: 1px solid #ccc; padding: 6px;">Nathan Lawrence</td>
                 <td style="border: 1px solid #ccc; padding: 6px;"><em>Postdoc</em></td>
                 <td style="border: 1px solid #ccc; padding: 6px;">Postdoctoral Researcher (UC San Diego)</td>
+                <td style="border: 1px solid #ccc; padding: 6px;"></td>
               </tr>
             </tbody>
           </table>
