@@ -78,5 +78,9 @@ sections:
                 </tr>
               </tbody>
             </table>
+    design:
+      columns: '1'
+      background:
+        color: '#ffffff'  
 
 ---
