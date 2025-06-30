@@ -16,7 +16,7 @@ sections:
           - Master Students
           - Undergraduate Students
           - Visitors
-          - Alumni
+          - Alumni0
       sort_by: Params.last_name
       sort_ascending: true
     design:
