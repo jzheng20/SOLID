@@ -28,7 +28,7 @@ sections:
   - block: markdown
     id: alumni
     content:
-      title: Alumni
+      title: <hr class="section-divider">  
       text: |
         <div class="alumni-section">
           <h2>Alumni</h2>
