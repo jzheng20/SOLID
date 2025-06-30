@@ -30,7 +30,7 @@ summary: To facilitate the real-time implementation of nonlinear model predictiv
 # links:
 # - name: ""
 #   url: ""
-url_link: https://www.sciencedirect.com/science/article/abs/pii/S0005109822005295?via%3Dihub
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0005109822005295?via%3Dihub
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
