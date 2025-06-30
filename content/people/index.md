@@ -45,32 +45,32 @@ sections:
             </thead>
             <tbody>
               <tr>
-                <td><img src="/images/alumni/atefeh.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Atefeh Daemi</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Atefeh Daemi</td>
                 <td>PhD</td>
                 <td>Postdoctoral Researcher (UC San Diego)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/nathan.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Nathan Lawrence</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Nathan Lawrence</td>
                 <td>Postdoc</td>
                 <td>Postdoctoral Researcher (UC Berkeley, Mesbah Group)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/christina.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Christina Maag</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Christina Maag</td>
                 <td>Undergraduate</td>
                 <td></td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/vijay.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Vijay Kumar Pediredla</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Vijay Kumar Pediredla</td>
                 <td>Postdoc</td>
                 <td>Alberta News Corp</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/yixiu.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yixiu Wang</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yixiu Wang</td>
                 <td>PhD</td>
                 <td>Huawei, Research Engineer</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/liang.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Liang Cao</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Liang Cao</td>
                 <td>PhD</td>
                 <td>Postdoctoral Researcher (MIT, Braatz Group)</td>
               </tr>
@@ -88,27 +88,27 @@ sections:
             </thead>
             <tbody>
               <tr>
-                <td><img src="/images/alumni/aria.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Aria Azari</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Aria Azari</td>
                 <td>Undergraduate</td>
                 <td>PhD (Oxford)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/thomas.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Thomas Lai</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Thomas Lai</td>
                 <td>Undergraduate</td>
                 <td>MSc (McGill)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/siddharth.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Siddharth Grover</td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Siddharth Grover</td>
                 <td>Undergraduate</td>
                 <td>MS Data Science (UBC)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/yiting.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yiting Tsai <a href="https://www.linkedin.com/in/yiting-tsai/" target="_blank">🔗</a></td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Yiting Tsai <a href="https://www.linkedin.com/in/yiting-tsai/" target="_blank">🔗</a></td>
                 <td>PhD</td>
                 <td>Postdoctoral Researcher (McMaster)</td>
               </tr>
               <tr>
-                <td><img src="/images/alumni/nathan.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Nathan Lawrence <a href="https://www.linkedin.com/in/nathan-lawrence/" target="_blank">🔗</a></td>
+                <td><img src="/uploads/Alumni_img/avatar.png" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> Nathan Lawrence <a href="https://www.linkedin.com/in/nathan-lawrence/" target="_blank">🔗</a></td>
                 <td>PhD</td>
                 <td>Postdoctoral Researcher (UBC)</td>
               </tr>
