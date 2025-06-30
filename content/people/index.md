@@ -39,39 +39,46 @@ sections:
             <thead>
               <tr>
                 <th>Photo</th>
-                <th>Name & Degree</th>
+                <th>Name</th>
+                <th>Degree</th>
                 <th>Position After Leaving/Now At</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Atefeh Daemi<br><em>PhD</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>Postdoctoral Researcher (UC San Diego)</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence<br><em>Postdoc</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>Postdoctoral Researcher (UC Berkeley, Mesbah Group)</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Christina Maag<br><em>Undergraduate</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td></td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Vijay Kumar Pediredla<br><em>Postdoc</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>Alberta News Corp</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Yixiu Wang<br><em>PhD</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>Huawei, Research Engineer</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Liang Cao<br><em>PhD</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>Postdoctoral Researcher (MIT, Braatz Group)</td>
               </tr>
             </tbody>
@@ -82,31 +89,24 @@ sections:
             <thead>
               <tr>
                 <th>Photo</th>
-                <th>Name & Degree</th>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <th>Position After Leaving/Now At</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Aria Azari<br><em>Undergraduate</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>PhD (Oxford)</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Thomas Lai<br><em>Undergraduate</em></td>
+                <td>Nathan Lawrence</td>
+                <th><em>Postdoc</em></th>
                 <td>MSc (McGill)</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Siddharth Grover<br><em>Undergraduate</em></td>
-                <td>MS Data Science (UBC)</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Yiting Tsai <a href="https://www.linkedin.com/in/yiting-tsai/" target="_blank">🔗</a><br><em>PhD</em></td>
-                <td>Postdoctoral Researcher (McMaster)</td>
-              </tr>
+              </tr> 
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
                 <td>Nathan Lawrence <a href="https://www.linkedin.com/in/nathan-lawrence/" target="_blank">🔗</a><br><em>PhD</em></td>
