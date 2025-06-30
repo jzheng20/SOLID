@@ -46,41 +46,26 @@ sections:
             </thead>
             <tbody>
               <tr>
+               <h3>2024</h3>
+              </tr>
+              <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
                 <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
+                <td><em>Postdoc</em></td>
                 <td>Postdoctoral Researcher (UC San Diego)</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
                 <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
+                <td><em>Postdoc</em></td>
                 <td>Postdoctoral Researcher (UC Berkeley, Mesbah Group)</td>
               </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
                 <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
+                <td><em>Postdoc</em></td>
                 <td></td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <td>Alberta News Corp</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <td>Huawei, Research Engineer</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <th><em>Postdoc</em></th>
-                <td>Postdoctoral Researcher (MIT, Braatz Group)</td>
-              </tr>
+              </tr>   
             </tbody>
           </table>
 
@@ -106,17 +91,7 @@ sections:
                 <td>Nathan Lawrence</td>
                 <th><em>Postdoc</em></th>
                 <td>MSc (McGill)</td>
-              </tr> 
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence <a href="https://www.linkedin.com/in/nathan-lawrence/" target="_blank">🔗</a><br><em>PhD</em></td>
-                <td>Postdoctoral Researcher (UBC)</td>
-              </tr>
-              <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Yupeng Li<br><em>PhD (Visiting)</em></td>
-                <td>China University of Geosciences</td>
-              </tr>
+              </tr>  
             </tbody>
           </table>
         </div>
