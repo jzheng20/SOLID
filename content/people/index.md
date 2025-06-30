@@ -33,49 +33,51 @@ sections:
         <div class="alumni-section">
           <h2>Alumni</h2>
           <p>Former students, researchers and visitors in the DAIS Lab</p>
- 
-          <table class="table table-hover">
+
+          <table class="table table-hover" style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
             <thead>
-              <tr>
-                <th> </th>
-                <th>Name</th>
-                <th>Degree</th>
-                <th>Position After Leaving/Now At</th>
+              <tr style="border-bottom: 2px solid #ccc;">
+                <th style="border: 1px solid #ccc;"> </th>
+                <th style="border: 1px solid #ccc;">Name</th>
+                <th style="border: 1px solid #ccc;">Degree</th>
+                <th style="border: 1px solid #ccc;">Position After Leaving/Now At</th>
               </tr>
             </thead>
             <tbody>
               <!-- 2024 年分组行 -->
               <tr style="background-color: #e5e5e5;">
-                <td colspan="4"><strong>2024</strong></td>
+                <td colspan="4" style="border: 1px solid #ccc;"><strong>2024</strong></td>
               </tr>
               <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <td><em>Postdoc</em></td>
-                <td>Postdoctoral Researcher (UC San Diego)</td>
+                <td style="border: 1px solid #ccc;"><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
+                <td style="border: 1px solid #ccc;">Nathan Lawrence</td>
+                <td style="border: 1px solid #ccc;"><em>Postdoc</em></td>
+                <td style="border: 1px solid #ccc;">Postdoctoral Researcher (UC San Diego)</td>
               </tr>
+
               <!-- 2023 年分组行 -->
               <tr style="background-color: #e5e5e5;">
-                <td colspan="4"><strong>2024</strong></td>
+                <td colspan="4" style="border: 1px solid #ccc;"><strong>2023</strong></td>
               </tr>
               <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <td><em>Postdoc</em></td>
-                <td>Postdoctoral Researcher (UC Berkeley, Mesbah Group)</td>
+                <td style="border: 1px solid #ccc;"><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
+                <td style="border: 1px solid #ccc;">Nathan Lawrence</td>
+                <td style="border: 1px solid #ccc;"><em>Postdoc</em></td>
+                <td style="border: 1px solid #ccc;">Postdoctoral Researcher (UC Berkeley, Mesbah Group)</td>
               </tr>
               <tr>
-                <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
-                <td>Nathan Lawrence</td>
-                <td><em>Postdoc</em></td>
-                <td></td>
+                <td style="border: 1px solid #ccc;"><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
+                <td style="border: 1px solid #ccc;">Nathan Lawrence</td>
+                <td style="border: 1px solid #ccc;"><em>Postdoc</em></td>
+                <td style="border: 1px solid #ccc;"></td>
               </tr>   
             </tbody>
           </table>
- 
+
         </div>
     design:
       columns: '1'
       background:
         color: '#ffffff'
 ---
+
