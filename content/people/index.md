@@ -33,8 +33,7 @@ sections:
         <div class="alumni-section">
           <h2>Alumni</h2>
           <p>Former students, researchers and visitors in the DAIS Lab</p>
-
-          <h3>2024</h3>
+ 
           <table class="table table-hover">
             <thead>
               <tr>
