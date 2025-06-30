@@ -64,7 +64,6 @@ sections:
                 <td style="border: 1px solid #ccc;"><em>Postdoc</em></td>
                 <td style="border: 1px solid #ccc;">Postdoctoral Researcher (UC San Diego)</td>
               </tr>
-                
             </tbody>
           </table>
 
