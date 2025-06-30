@@ -55,6 +55,10 @@ sections:
                 <td><em>Postdoc</em></td>
                 <td>Postdoctoral Researcher (UC San Diego)</td>
               </tr>
+              <!-- 2023 年分组行 -->
+              <tr style="background-color: #e5e5e5;">
+                <td colspan="4"><strong>2024</strong></td>
+              </tr>
               <tr>
                 <td><img src="/uploads/Alumni_img/avatar.png" width="40" style="border-radius: 50%;"></td>
                 <td>Nathan Lawrence</td>
