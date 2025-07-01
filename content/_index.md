@@ -114,7 +114,7 @@ sections:
   - block: collection
     id: events
     content:
-      title: <hr class="section-divider"> Lab Events  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      title: <hr class="section-divider"> Lab Events   
       text: ""
       count: 5
       filters:
@@ -122,68 +122,8 @@ sections:
           - event 
     design:
       view: table
-      columns: '1' 
-  
-
-  - block: markdown
-    id: news
-    content:
-      title: <hr class="section-divider">  Lab News
-      text: |
-        <div style="display: flex; align-items: center; gap: 2rem;">
-        <!--<div style="max-width: 200px;"> <h1> Lab News </h1> </div>-->
-         <div class="vertical-line" style="height: 300px;"></div>
-         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
- 
-         <!-- News Card 1 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #94a3b8; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span>
-            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
-            </p>
-          </div>
-         </a> 
-         <!-- News Card 1 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #3b82f6; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span>
-            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
-            </p>
-          </div>
-         </a> 
-        </div>
-        <div class="vertical-line" style="height: 300px;"></div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
- 
+      columns: '2' 
     
-         <!-- News Card 1 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #94a3b8; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span>
-            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
-            </p>
-          </div>
-         </a>
-
-         <!-- News Card 1 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="news-card rounded-lg border-l-4 border-green-500 shadow p-6 bg-white" style="background-color:#eff6ff;">
-            <p style="border-left: 8px solid #1e40af; padding-left: 0.5rem;” class="text-base"> <strong class="italic underline">  Two Papers Accepted at <span class="text-indigo-600">NeurIPS 2025</span></strong>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span>
-            <p><em>Congratulations to our team on getting two papers accepted to NeurIPS 2025! Topics include global optimization and decision transformers.</em></p>
-            </p>
-          </div>
-         </a> 
-        </div>
-        </div>
-
-    design:
-      view: card                    
-      columns: '1' 
-
  
 
   - block: markdown
