@@ -197,7 +197,7 @@ sections:
   - block: people
     id: members
     content:
-      title: <hr class="section-divider">  Current Members
+      title:   Current Members
       subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
