@@ -115,7 +115,7 @@ sections:
     
  
 
-  - block: markdown
+  - block: tag_cloud
     id: research
     content:
       title:  Research
@@ -131,12 +131,21 @@ sections:
             <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
           </div>
+    
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 20
     design:
       columns: '2'
       background:
-        color: '#ffffff'   
+        color: '#ffffff'
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0  
       spacing:
         padding: ['80px', '40px', '10px', '0']
+
+    
   - block: markdown
     id: positions
     content: 
