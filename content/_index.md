@@ -120,20 +120,21 @@ sections:
     content:
       title:  Research
       text: |
+         <p class="text-xl font-light mt-2">SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries.</p>
+         <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
+            domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
+            large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
+
          <!-- Left: Image Panel -->
          <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
             <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
          </div>
-         <p class="text-xl font-light mt-2">SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries.</p>
-         <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
-            domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
-            large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
  
     
       taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
-      count: 20
+      count: 0
     design:
       columns: '2'
       background:
@@ -184,19 +185,7 @@ sections:
       spacing:
         padding: ['80px', '40px', '10px', '0']
           
-  - block: tag_cloud
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 20
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0
+
 
   - block: people
     id: members
@@ -234,7 +223,10 @@ sections:
           - event 
     design:
       view: table
-      columns: '2'
+      columns: '2' 
+      background:
+        color: '#ffffff'   
+ 
  
   - block: slider
     id: gallery
@@ -373,6 +365,24 @@ sections:
       #    link: 'https://discourse.gohugo.io'
     design:
       columns: '3'
+      background:
+        color: '#f5f5f5'
+
+  - block: tag_cloud
+    content:
+      title: 
+      subtitle:
+      text: 
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 20
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
+    design:
+      columns: '1'
       background:
         color: '#f5f5f5'
  
