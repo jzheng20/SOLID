@@ -97,28 +97,19 @@ sections:
 
 
      
-  - block: people
-    id: members
+  - block: collection
+    id: publications
     content:
-      title:   Current Members
-      subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigator
-          - Postdoctoral Researchers
-          - PhD Students
-          - Master Students
-          - Undergraduate Students
-          - Visitors
-          - Alumni0
-      sort_by: Params.last_name
-      sort_ascending: true
+      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'paper-conference'
     design:
-      show_interests: true
-      show_role: true
-      show_social: true 
-      view: card
+      view: table
+      columns: '2'
       background:
         color: '#f5f5f5'
     
@@ -187,19 +178,30 @@ sections:
       spacing:
         padding: ['80px', '40px', '10px', '0']
           
-  - block: collection
-    id: publications
+
+
+      - block: people
+    id: members
     content:
-      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'paper-conference'
+      title:   Current Members
+      subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigator
+          - Postdoctoral Researchers
+          - PhD Students
+          - Master Students
+          - Undergraduate Students
+          - Visitors
+          - Alumni0
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      view: table
-      columns: '2'
+      show_interests: true
+      show_role: true
+      show_social: true 
+      view: card
       background:
         color: '#f5f5f5'
 
