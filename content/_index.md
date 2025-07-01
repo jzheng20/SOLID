@@ -33,7 +33,7 @@ sections:
       subtitle: ''
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
-        <div class="text-center" style="max-width: 700px;">
+        <div class="text-center" style="max-width: 600px;">
          <h2>We focus on <strong class="text-2xl font-bold">S</strong>calable <strong class="text-2xl font-bold">O</strong>ptimization, <strong class="text-2xl font-bold">L</strong>earning, and <strong class="text-2xl font-bold">I</strong>ntelligent <strong class="text-2xl font-bold">D</strong>ecision-making (SOLID).</h2>
          <br>
          <p class="text-xs font-light" style="font-size: 18px;"><strong>SOLID Lab</strong> is embedded in the
@@ -89,7 +89,7 @@ sections:
       title: <hr class="section-divider">  
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
-        <div> <h1> Lab News </h1> </div>
+        <div style="max-width: 300px;"> <h1> Lab News </h1> </div>
         <div class="vertical-line" style="height: 600px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
 
