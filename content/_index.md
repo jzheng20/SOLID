@@ -132,7 +132,7 @@ sections:
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
           </div>
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#ffffff'   
       spacing:
@@ -150,8 +150,6 @@ sections:
              ➤ Please <strong>send your CV to</strong> <u>yankai.cao@ubc.ca</u>, and <strong>provide the following information:</strong> degree program and university, graduation year, GPA, class rank, English proficiency test score, desired start date, research summary, and future research plans (for postdocs). 
           </p>
 
-     
- 
           <div class="horizontal-line"></div>
           <div style="display: flex; align-items: center; gap: 2rem;">
           <div style="max-width: 700px;"> 
