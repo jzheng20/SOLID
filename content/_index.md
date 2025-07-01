@@ -355,7 +355,7 @@ sections:
   
         </div>
     design:
-      columns: '3'
+      columns: '1'
       background:
         color: '#f5f5f5'
 
