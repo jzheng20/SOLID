@@ -336,20 +336,16 @@ sections:
             V6T 1Z4</p>
           </div>
   
-          <!-- Right: Navigation -->
+          <!-- Right: Affiliations -->
           <div style="flex: 1; min-width: 200px;">
-            <h3 style="color: #0055A5;">Navigation</h3>
+            <h3 style="color: #0055A5;">Affiliations</h3>
             <ul style="list-style: none; padding-left: 0;">
               <li><strong>HOME</strong></li>
-              <li><a href="/about">ABOUT</a></li>
-              <li><a href="/research">RESEARCH</a></li>
-              <li><a href="/people">PEOPLE</a></li>
-              <li><a href="/publications">PUBLICATIONS</a></li>
+              <li><a href="https://chbe.ubc.ca/">Chemical & Biological Engineering</a></li>
+              <li><a href="/research">Clean Energy Research Center</a></li>
+              <li><a href="/people">Institute of Applied Mathematics</a></li>
+              <li><a href="/publications">Green College</a></li>
               <li><a href="/news">NEWS</a></li>
-              <li><a href="/teaching">TEACHING</a></li>
-              <li><a href="/opportunities">OPPORTUNITIES</a></li>
-              <li><a href="/resources">RESOURCES</a></li>
-              <li><a href="/videos">VIDEOS</a></li>
             </ul>
           </div>
   
