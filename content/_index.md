@@ -122,7 +122,7 @@ sections:
           - event 
     design:
       view: table
-      columns: '2' 
+      columns: '1' 
     
  
 
