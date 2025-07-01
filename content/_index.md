@@ -345,7 +345,7 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '1'
+      columns: '3'
       background:
         color: '#f5f5f5'
  
