@@ -122,7 +122,32 @@ sections:
           - event 
     design:
       view: table
-      columns: '1' 
+      columns: '1'
+     
+  - block: people
+    id: members
+    content:
+      title:   Current Members
+      subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigator
+          - Postdoctoral Researchers
+          - PhD Students
+          - Master Students
+          - Undergraduate Students
+          - Visitors
+          - Alumni0
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: true
+      show_role: true
+      show_social: true 
+      view: card
+      background:
+        color: '#f5f5f5'
     
  
 
@@ -206,31 +231,6 @@ sections:
         color: '#f5f5f5'
 
 
-
-  - block: people
-    id: members
-    content:
-      title:   Current Members
-      subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigator
-          - Postdoctoral Researchers
-          - PhD Students
-          - Master Students
-          - Undergraduate Students
-          - Visitors
-          - Alumni0
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: true
-      show_role: true
-      show_social: true 
-      view: card
-      background:
-        color: '#f5f5f5'
  
   - block: slider
     id: gallery
@@ -346,5 +346,7 @@ sections:
           captcha: false
     design:
       columns: '1'
+      background:
+        color: '#f5f5f5'
  
 ---
