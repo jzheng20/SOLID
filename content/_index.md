@@ -356,6 +356,8 @@ sections:
       columns: '1'
       background:
         color: '#f5f5f5'
+      spacing:
+        padding: ['80px', '40px', '10px', '0']
 
   
   
@@ -380,6 +382,8 @@ sections:
       columns: '3'
       background:
         color: '#f5f5f5'
+      spacing:
+        padding: ['80px', '40px', '10px', '0']
 
 
  
