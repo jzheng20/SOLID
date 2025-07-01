@@ -44,7 +44,7 @@ sections:
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-        <h2> <strong> Lab Events</strong>  </h2>
+        <h2> <strong> Lab News</strong>  </h2>
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
