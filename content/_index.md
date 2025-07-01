@@ -297,66 +297,66 @@ sections:
  
 
 
-- block: markdown
-  id: lab-footer
-  content:
-    title: ""
-    text: |
-      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
-
-        <!-- Left: Lab Info -->
-        <div style="flex: 1; min-width: 250px;">
-          <h3 style="color: #0055A5;"><strong>UBC DAIS Lab</strong></h3>
-          <p>
-            The UBC Data Analytics and Intelligent Systems Lab is based in Vancouver, BC, Canada.
-            Our lab conducts research at the intersection of process control, data analytics and
-            machine learning. We develop novel algorithms and computational tools to bring a new
-            level of automation to the process industry.
-          </p>
+  - block: markdown
+    id: lab-footer
+    content:
+      title: ""
+      text: |
+        <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
+  
+          <!-- Left: Lab Info -->
+          <div style="flex: 1; min-width: 250px;">
+            <h3 style="color: #0055A5;"><strong>UBC DAIS Lab</strong></h3>
+            <p>
+              The UBC Data Analytics and Intelligent Systems Lab is based in Vancouver, BC, Canada.
+              Our lab conducts research at the intersection of process control, data analytics and
+              machine learning. We develop novel algorithms and computational tools to bring a new
+              level of automation to the process industry.
+            </p>
+          </div>
+  
+          <!-- Middle: Contact -->
+          <div style="flex: 1; min-width: 250px;">
+            <h3 style="color: #0055A5;">Contact</h3>
+            <p><strong>Bhushan Gopaluni</strong><br>
+            Professor<br>
+            <em><a href="#">Department of Chemical & Biological Engineering</a>,</em><br>
+            University of British Columbia (UBC)</p>
+  
+            <p><strong>Vice-Provost & Associate Vice-President,<br>Faculty Planning</strong><br>
+            <em><a href="#">Office of the Provost & Vice-President Academic</a>,</em><br>
+            University of British Columbia (UBC)</p>
+  
+            <p><strong>Faculty Profile</strong><br>
+            <a href="#">Bhushan Gopaluni</a></p>
+  
+            <p><strong>Phone</strong><br>604-827-5668</p>
+            <p><strong>Email</strong><br><a href="mailto:bhushan.gopaluni@ubc.ca"><em>bhushan.gopaluni@ubc.ca</em></a></p>
+            <p><strong>Office</strong><br>KAISER 5018</p>
+            <p><strong>Address</strong><br>
+            5000-2332 Main Mall<br>
+            Vancouver, British Columbia<br>
+            V6T 1Z4</p>
+          </div>
+  
+          <!-- Right: Navigation -->
+          <div style="flex: 1; min-width: 200px;">
+            <h3 style="color: #0055A5;">Navigation</h3>
+            <ul style="list-style: none; padding-left: 0;">
+              <li><strong>HOME</strong></li>
+              <li><a href="/about">ABOUT</a></li>
+              <li><a href="/research">RESEARCH</a></li>
+              <li><a href="/people">PEOPLE</a></li>
+              <li><a href="/publications">PUBLICATIONS</a></li>
+              <li><a href="/news">NEWS</a></li>
+              <li><a href="/teaching">TEACHING</a></li>
+              <li><a href="/opportunities">OPPORTUNITIES</a></li>
+              <li><a href="/resources">RESOURCES</a></li>
+              <li><a href="/videos">VIDEOS</a></li>
+            </ul>
+          </div>
+  
         </div>
-
-        <!-- Middle: Contact -->
-        <div style="flex: 1; min-width: 250px;">
-          <h3 style="color: #0055A5;">Contact</h3>
-          <p><strong>Bhushan Gopaluni</strong><br>
-          Professor<br>
-          <em><a href="#">Department of Chemical & Biological Engineering</a>,</em><br>
-          University of British Columbia (UBC)</p>
-
-          <p><strong>Vice-Provost & Associate Vice-President,<br>Faculty Planning</strong><br>
-          <em><a href="#">Office of the Provost & Vice-President Academic</a>,</em><br>
-          University of British Columbia (UBC)</p>
-
-          <p><strong>Faculty Profile</strong><br>
-          <a href="#">Bhushan Gopaluni</a></p>
-
-          <p><strong>Phone</strong><br>604-827-5668</p>
-          <p><strong>Email</strong><br><a href="mailto:bhushan.gopaluni@ubc.ca"><em>bhushan.gopaluni@ubc.ca</em></a></p>
-          <p><strong>Office</strong><br>KAISER 5018</p>
-          <p><strong>Address</strong><br>
-          5000-2332 Main Mall<br>
-          Vancouver, British Columbia<br>
-          V6T 1Z4</p>
-        </div>
-
-        <!-- Right: Navigation -->
-        <div style="flex: 1; min-width: 200px;">
-          <h3 style="color: #0055A5;">Navigation</h3>
-          <ul style="list-style: none; padding-left: 0;">
-            <li><strong>HOME</strong></li>
-            <li><a href="/about">ABOUT</a></li>
-            <li><a href="/research">RESEARCH</a></li>
-            <li><a href="/people">PEOPLE</a></li>
-            <li><a href="/publications">PUBLICATIONS</a></li>
-            <li><a href="/news">NEWS</a></li>
-            <li><a href="/teaching">TEACHING</a></li>
-            <li><a href="/opportunities">OPPORTUNITIES</a></li>
-            <li><a href="/resources">RESOURCES</a></li>
-            <li><a href="/videos">VIDEOS</a></li>
-          </ul>
-        </div>
-
-      </div>
 
  
  
