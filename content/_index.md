@@ -171,6 +171,12 @@ sections:
             <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
           </div>
+    design:
+      columns: '1'
+      background:
+        color: '#ffffff'   
+      spacing:
+        padding: ['80px', '40px', '10px', '0']
           
   - block: collection
     id: publications
@@ -191,7 +197,8 @@ sections:
   - block: people
     id: members
     content:
-      title: Members
+      title: Current Members
+      subtitle: <a href="/#positions" class="btn btn-outline">Meet all members →</a>
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
