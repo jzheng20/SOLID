@@ -294,7 +294,7 @@ sections:
 
   - block: tag_cloud
     content:
-      title: SOLID Lab in Keywords
+      title: Research Topics & Tag Cloud
       subtitle:
       text: 
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
