@@ -37,7 +37,7 @@ sections:
          <h2>We focus on <strong class="text-2xl font-bold">S</strong>calable <strong class="text-2xl font-bold">O</strong>ptimization, <strong class="text-2xl font-bold">L</strong>earning, and <strong class="text-2xl font-bold">I</strong>ntelligent <strong class="text-2xl font-bold">D</strong>ecision-making (SOLID).</h2>
          <br>
          <p class="text-xs font-light" style="font-size: 18px;"><strong>SOLID Lab</strong> is embedded in the
-         <a href="https://chbe.ubc.ca" class="custom-link" target="_blank"><em>  Department of Chemical and Biological Engineering </em> </a> at <a href="https://www.ubc.ca/" class="custom-link" target="_blank"> <em>  The University of Britis Columbia </em> </a>.<br></p>
+         <a href="https://chbe.ubc.ca" class="custom-link" target="_blank"><em>  Department of Chemical and Biological Engineering </em> </a> at <a href="https://www.ubc.ca/" class="custom-link" target="_blank"> <em>  The University of British Columbia </em> </a>.<br></p>
          <br><br>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
          <a href="/#positions" class="btn btn-outline">Join Us →</a>
@@ -315,14 +315,14 @@ sections:
           <!-- Middle: Contact -->
           <div style="flex: 1; min-width: 250px;">
             <h3 style="color: #0055A5;">Contact</h3>
-            <p><strong>Yankai Cao</strong><br>
+            <p>Yankai Cao<br>
             Associate Professor<br> 
-            <p><strong>Tel </strong><br>1 604 822 1346</p>
-            <p><strong>Email</strong><br><a href="mailto:yankai.cao@ubc.caa"><em>yankai.cao@ubc.ca</em></a></p>
-            <p><strong>Office</strong><br>CHBE 237</p>
-            <p><strong>Address</strong><br>
+            <p>Tel: 1 604 822 1346</p>
+            <p>Email: <a href="mailto:yankai.cao@ubc.ca"><em>yankai.cao@ubc.ca</em></a></p>
+            <p>Office: CHBE 237</p>
+            <p>Address: 
             237-2360 East Mall<br>
-            Vancouver, British Columbia<br>
+            Vancouver, British Columbia, Canada<br>
             V6T 1Z3</p>
           </div>
   
