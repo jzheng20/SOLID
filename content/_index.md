@@ -173,13 +173,6 @@ sections:
       view: card                    
       columns: '1' 
 
-
-    
- 
-
-   
-  
-  
  
 
   - block: markdown
@@ -208,13 +201,13 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Selected Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'publications-highlight'
+        publication_type: 'paper-conference'
     design:
       view: table
       columns: '2' 
