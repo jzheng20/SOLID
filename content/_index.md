@@ -340,12 +340,10 @@ sections:
           <div style="flex: 1; min-width: 200px;">
             <h3 style="color: #0055A5;">Affiliations</h3>
             <ul style="list-style: none; padding-left: 0;">
-              <li><strong>HOME</strong></li>
               <li><a href="https://chbe.ubc.ca/">Chemical & Biological Engineering</a></li>
-              <li><a href="/research">Clean Energy Research Center</a></li>
-              <li><a href="/people">Institute of Applied Mathematics</a></li>
-              <li><a href="/publications">Green College</a></li>
-              <li><a href="/news">NEWS</a></li>
+              <li><a href="https://cerc.ubc.ca/">Clean Energy Research Center</a></li>
+              <li><a href="https://www.iam.ubc.ca/">Institute of Applied Mathematics</a></li>
+              <li><a href="https://greencollege.ubc.ca/">Green College</a></li>
             </ul>
           </div>
   
@@ -365,8 +363,7 @@ sections:
     id: contact
     content:
       title:   Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+      text: |- 
       email: test@example.org
       phone: 888 888 88 88
       address:
