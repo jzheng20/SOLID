@@ -163,7 +163,7 @@ sections:
       view: table
       columns: '2'
       background:
-        color: '#ffffff'  
+        color: '#f8f9fa'
 
 
 
