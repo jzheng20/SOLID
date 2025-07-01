@@ -132,7 +132,7 @@ sections:
          </div>
  
     
-      taxonomy: tags
+      taxonomy: none
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
     design:
