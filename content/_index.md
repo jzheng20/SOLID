@@ -198,7 +198,7 @@ sections:
     id: members
     content:
       title: Current Members
-      subtitle: <a href="/#positions" class="btn btn-outline">Meet all members →</a>
+      subtitle: <a href="people/" class="btn btn-outline">Meet all members →</a>
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -208,7 +208,7 @@ sections:
           - Master Students
           - Undergraduate Students
           - Visitors
-          - Alumni
+          - Alumni0
       sort_by: Params.last_name
       sort_ascending: true
     design:
