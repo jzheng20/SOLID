@@ -114,7 +114,7 @@ sections:
   - block: collection
     id: events
     content:
-      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      title: <hr class="section-divider"> Lab Events  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
       text: ""
       count: 5
       filters:
@@ -122,7 +122,7 @@ sections:
           - event 
     design:
       view: table
-      columns: '2' 
+      columns: '1' 
   
 
   - block: markdown
