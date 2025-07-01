@@ -357,11 +357,7 @@ sections:
       background:
         color: '#f5f5f5'
 
- 
- 
-
-
-
+  
   
   - block: contact 
     content:
