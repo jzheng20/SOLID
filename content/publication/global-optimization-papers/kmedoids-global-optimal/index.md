@@ -1,5 +1,6 @@
 ---
 title: "Global Optimal K-Medoids Clustering of One Million Samples"
+tags: ["global optimization", "K-Medoids clustering"]
 authors: ['Jiayang Ren', 'Kaixun Hua', 'Yankai Cao']
 publication_types: ['paper-conference']
 publication: "*36th Conference on Neural Information Processing Systems (NeurIPS 2022)*"
