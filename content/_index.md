@@ -292,7 +292,24 @@ sections:
       fit: contain
  
 
-
+  - block: tag_cloud
+    content:
+      title: 
+      subtitle:
+      text: 
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 20
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
+    design:
+      columns: '1'
+      background:
+        color: '#ffffff' 
+    
   - block: markdown
     id: contact
     content:
@@ -368,22 +385,6 @@ sections:
       background:
         color: '#f5f5f5'
 
-  - block: tag_cloud
-    content:
-      title: 
-      subtitle:
-      text: 
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 20
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0
-    design:
-      columns: '1'
-      background:
-        color: '#f5f5f5'
+
  
 ---
