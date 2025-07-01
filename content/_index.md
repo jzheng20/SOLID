@@ -298,7 +298,7 @@ sections:
 
 
   - block: markdown
-    id: lab-footer
+    id: contact
     content:
       title: ""
       text: |
@@ -306,34 +306,24 @@ sections:
   
           <!-- Left: Lab Info -->
           <div style="flex: 1; min-width: 250px;">
-            <h3 style="color: #0055A5;"><strong>UBC DAIS Lab</strong></h3>
+            <h3 style="color: #0055A5;"><strong>SOLID Lab</strong></h3>
             <p>
-              The UBC Data Analytics and Intelligent Systems Lab is based in Vancouver, BC, Canada.
-              Our lab conducts research at the intersection of process control, data analytics and
-              machine learning. We develop novel algorithms and computational tools to bring a new
-              level of automation to the process industry.
+              We focus on Scalable Optimization, Learning, and Intelligent Decision-making (SOLID). SOLID Lab is embedded in the Department of Chemical and Biological Engineering at The University of Britis Columbia.
             </p>
           </div>
   
           <!-- Middle: Contact -->
           <div style="flex: 1; min-width: 250px;">
             <h3 style="color: #0055A5;">Contact</h3>
-            <p><strong>Bhushan Gopaluni</strong><br>
-            Professor<br>
-            <em><a href="#">Department of Chemical & Biological Engineering</a>,</em><br>
-            University of British Columbia (UBC)</p>
-            <p><strong>Vice-Provost & Associate Vice-President,<br>Faculty Planning</strong><br>
-            <em><a href="#">Office of the Provost & Vice-President Academic</a>,</em><br>
-            University of British Columbia (UBC)</p>
-            <p><strong>Faculty Profile</strong><br>
-            <a href="#">Bhushan Gopaluni</a></p>
-            <p><strong>Phone</strong><br>604-827-5668</p>
-            <p><strong>Email</strong><br><a href="mailto:bhushan.gopaluni@ubc.ca"><em>bhushan.gopaluni@ubc.ca</em></a></p>
-            <p><strong>Office</strong><br>KAISER 5018</p>
+            <p><strong>Yankai Cao</strong><br>
+            Associate Professor<br> 
+            <p><strong>Tel </strong><br>1 604 822 1346</p>
+            <p><strong>Email</strong><br><a href="mailto:yankai.cao@ubc.caa"><em>yankai.cao@ubc.ca</em></a></p>
+            <p><strong>Office</strong><br>CHBE 237</p>
             <p><strong>Address</strong><br>
-            5000-2332 Main Mall<br>
+            237-2360 East Mall<br>
             Vancouver, British Columbia<br>
-            V6T 1Z4</p>
+            V6T 1Z3</p>
           </div>
   
           <!-- Right: Affiliations -->
@@ -362,17 +352,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title:   Contact
-      text: |- 
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 2360 East Mall
-        city: Vancouver
-        region: BC
-        postcode: 'V6T 1Z3'
-        country: Canada
-        country_code: CA
+      title: "" 
+      text:   
       coordinates:
         latitude: '49.26262'
         longitude: '-123.24766'
