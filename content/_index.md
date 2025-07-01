@@ -111,7 +111,18 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-  
+  - block: collection
+    id: events
+    content:
+      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - event 
+    design:
+      view: table
+      columns: '2' 
   
 
   - block: markdown
