@@ -124,7 +124,6 @@ sections:
          <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
-         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
 
           <!-- Left: Image Panel -->
           <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
