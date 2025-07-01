@@ -306,7 +306,7 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#ffffff' 
     
