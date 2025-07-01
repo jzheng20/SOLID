@@ -322,14 +322,11 @@ sections:
             Professor<br>
             <em><a href="#">Department of Chemical & Biological Engineering</a>,</em><br>
             University of British Columbia (UBC)</p>
-  
             <p><strong>Vice-Provost & Associate Vice-President,<br>Faculty Planning</strong><br>
             <em><a href="#">Office of the Provost & Vice-President Academic</a>,</em><br>
             University of British Columbia (UBC)</p>
-  
             <p><strong>Faculty Profile</strong><br>
             <a href="#">Bhushan Gopaluni</a></p>
-  
             <p><strong>Phone</strong><br>604-827-5668</p>
             <p><strong>Email</strong><br><a href="mailto:bhushan.gopaluni@ubc.ca"><em>bhushan.gopaluni@ubc.ca</em></a></p>
             <p><strong>Office</strong><br>KAISER 5018</p>
