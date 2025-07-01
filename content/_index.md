@@ -315,8 +315,8 @@ sections:
           <!-- Middle: Contact -->
           <div style="flex: 1; min-width: 250px;">
             <h3 style="color: #0055A5;">Contact</h3>
-            <p>Yankai Cao<br>
-            Associate Professor<br> 
+            <p>Yankai Cao</p>
+            <p>Associate Professor</p>
             <p>Tel: 1 604 822 1346</p>
             <p>Email: <a href="mailto:yankai.cao@ubc.ca"><em>yankai.cao@ubc.ca</em></a></p>
             <p>Office: CHBE 237</p>
@@ -350,8 +350,7 @@ sections:
 
 
   
-  - block: contact
-    id: contact
+  - block: contact 
     content:
       title: "" 
       text:   
@@ -359,10 +358,35 @@ sections:
         latitude: '49.26262'
         longitude: '-123.24766'
       directions: Enter Building and take the stairs to Floor 2 (CHBE 237)
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      #office_hours:
+       # - 'Monday 10:00 to 13:00'
+       # - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+  
+    design:
+      columns: '3'
+      background:
+        color: '#f5f5f5'
+
+
+  - block:   
+    content:
+      title: "" 
+      text:   
+      coordinates:
+        latitude: '49.26262'
+        longitude: '-123.24766'
+      directions: Enter Building and take the stairs to Floor 2 (CHBE 237)
+      #office_hours:
+       # - 'Monday 10:00 to 13:00'
+       # - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
