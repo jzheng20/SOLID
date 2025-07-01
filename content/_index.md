@@ -161,7 +161,9 @@ sections:
         publication_type: 'paper-conference'
     design:
       view: table
-      columns: '2' 
+      columns: '2'
+      background:
+        color: '#ffffff'  
 
 
 
