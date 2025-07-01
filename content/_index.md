@@ -76,23 +76,7 @@ sections:
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
             </p>
           </div>
-         </a>
-         <!-- News Card 1 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
-            </p>
-          </div>
-         </a>
-          <!-- News Card 2 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
-            </p>
-          </div>
-         </a>
+         </a>  
    
          <!-- News Card 3 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
@@ -111,18 +95,7 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-  - block: collection
-    id: events
-    content:
-      title: <hr class="section-divider"> Lab Events   
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - event 
-    design:
-      view: table
-      columns: '1'
+
      
   - block: people
     id: members
@@ -230,7 +203,18 @@ sections:
       background:
         color: '#f5f5f5'
 
-
+  - block: collection
+    id: events
+    content:
+      title:  Lab Events   
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - event 
+    design:
+      view: table
+      columns: '2'
  
   - block: slider
     id: gallery
