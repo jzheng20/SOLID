@@ -180,7 +180,7 @@ sections:
           
 
 
-      - block: people
+  - block: people
     id: members
     content:
       title:   Current Members
