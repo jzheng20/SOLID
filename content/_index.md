@@ -54,6 +54,38 @@ sections:
             </p>
           </div>
          </a>
+          <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            </p>
+          </div>
+         </a>
+         <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            </p>
+          </div>
+         </a>
+         <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            </p>
+          </div>
+         </a>
+         <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            </p>
+          </div>
+         </a>
           <!-- News Card 2 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
@@ -89,7 +121,7 @@ sections:
       title: <hr class="section-divider">  Lab News
       text: |
         <div style="display: flex; align-items: center; gap: 2rem;">
-        <!--<div style="max-width: 400px;"> <h1> Lab News </h1> </div>-->
+        <!--<div style="max-width: 200px;"> <h1> Lab News </h1> </div>-->
          <div class="vertical-line" style="height: 600px;"></div>
          <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8"> 
  
