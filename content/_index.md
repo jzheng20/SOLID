@@ -118,7 +118,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title:  <hr class="section-divider">  Research
+      title:  Research
       text: |
          <p class="text-xl font-light mt-2">SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability. The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries.</p>
          <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
@@ -170,7 +170,7 @@ sections:
           </div>
     
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#ffffff'   
       spacing:
