@@ -354,6 +354,10 @@ sections:
           </div>
   
         </div>
+    design:
+      columns: '3'
+      background:
+        color: '#f5f5f5'
 
  
  
