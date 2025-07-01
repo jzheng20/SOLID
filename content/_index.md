@@ -312,13 +312,12 @@ sections:
           <!-- Middle: Contact -->
           <div style="flex: 1; min-width: 250px;">
             <h3 style="color: #0055A5;">Contact</h3>
-            <p>Yankai Cao</p>
-            <p>Associate Professor</p>
-            <p>Tel: 1 604 822 1346</p>
-            <p>Email: <a href="mailto:yankai.cao@ubc.ca"><em>yankai.cao@ubc.ca</em></a></p>
-            <p>Office: CHBE 237</p>
-            <p>Address: 
-            237-2360 East Mall<br>
+            <p>Yankai Cao<br>
+             Associate Professor<br> 
+             Tel: 1 604 822 1346<br>
+            Email: <a href="mailto:yankai.cao@ubc.ca"><em>yankai.cao@ubc.ca</em></a><br>
+            Office: CHBE 237<br>
+            Address: 237-2360 East Mall<br>
             Vancouver, British Columbia, Canada<br>
             V6T 1Z3</p>
           </div>
