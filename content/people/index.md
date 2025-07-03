@@ -32,7 +32,7 @@ sections:
       text: |
         <div class="alumni-section">
           <h2>Alumni</h2>
-          <p>Former students, researchers and visitors in the DAIS Lab</p>
+          <p>Former students, researchers and visitors in the SOLID Lab</p>
           <table class="table table-hover" style="border-collapse: collapse; width: 100%; border: 1px solid #ccc; font-size: 14px;">
             <thead>
               <tr style="border-bottom: 2px solid #ccc; background-color: #f9f9f9;">
