@@ -1,6 +1,6 @@
 ---
 title: "A graph-based modeling and optimization framework for complex systems"
-authors: ['J Jalving', 'Yankai Cao', 'Victor M. Zavala']
+authors: ['Jordan Jalving', 'Yankai Cao', 'Victor M. Zavala']
 tags: []
 publication_types: ['paper-conference']
 publication: "*2017 AIChE Annual Meeting*"
