@@ -14,8 +14,8 @@ including bounds tightening, sample reduction, and parallelization. Extensive st
 within 4 hours for ten million samples in the serial mode and one billion samples in the parallel
 mode. Moreover, compared with the state-of-the-art heuristic methods, the global optimum obtained by our
 algorithm can averagely reduce the objective function by 25.8% on all the synthetic and real-world datasets."
-date: "2022-01-01T00:00:00Z"
-publishDate: "2022-01-01T00:00:00Z"
+date: "2022-12-30"
+publishDate: "2022-12-30"
 url_pdf: "https://arxiv.org/pdf/2301.00061"
 featured: false
 projects: []
