@@ -15,6 +15,6 @@ This presentation will focus on the modeling aspects of PLASMO and discusses how
 [6] Ruszczyński, Andrzej P. Nonlinear optimization. Vol. 13. Princeton university press, 2006.
 [7] Jalving, J., Abhyankar, S., Kim, K., Hereld, M., Zavala, V. M. A Graph-Based Computational Framework for Simulation and Optimization of Coupled Infrastructure Networks. To Appear in IET Generation, Transmission & Distribution, 2016."
 date: "2017-10-31"
-publishDate: ""
+publishDate: "2017-10-31"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:3fE2CSJIrl8C"
 ---
