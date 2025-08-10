@@ -1,6 +1,6 @@
 ---
 title: "Decoding Control: Scalable and Interpretable Approximation of Control Laws with Oblique Decision Trees"
-tags: []
+tags: ['Decision Trees']
 authors: ['Jiayang Ren', 'Yankai Cao']
 publication_types: ['paper-conference']
 publication: "*2025 AIChE Annual Meeting*"
