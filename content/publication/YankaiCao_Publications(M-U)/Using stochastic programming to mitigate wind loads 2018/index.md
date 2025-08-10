@@ -1,6 +1,6 @@
 ---
 title: "Using stochastic programming and statistical extrapolation to mitigate long-term extreme loads in wind turbines"
-tags: [']
+tags: ["stochastic programming"]
 authors: ['Yankai Cao', 'Victor M Zavala', "Fernando D'Amato"]
 publication_types: []
 publication: "*Applied Energy 230, 1230-1241*"
