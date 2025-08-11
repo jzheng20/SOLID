@@ -48,41 +48,65 @@ sections:
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            <p class="text-xs"> <em>  Jiayang received the Wall Research Award. </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| Jun 2025 </span> 
             </p>
           </div>
          </a>
           <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            <p class="text-xs"> <em>  Yankai gave a talk at the MIT PSE Seminar. [Link](https://pse-seminar.mit.edu/seminars/cao/
+) </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| May 2025 </span> 
             </p>
           </div>
          </a>
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            <p class="text-xs"> <em>  Jingyi graduated.</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2025 </span> 
             </p>
           </div>
          </a>
          <!-- News Card 1 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            <p class="text-xs"> <em>  Jason Zhao received the Four Year Doctoral Fellowship. </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
+            </p>
+          </div>
+         </a>
+        <!-- News Card 1 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Yankai received tenure. </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| June 2024 </span> 
             </p>
           </div>
          </a>  
-   
          <!-- News Card 3 -->
          <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs"> <em>  Two Papers Accepted at NeurIPS 2025</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| 12 May 2025 </span> 
+            <p class="text-xs"> <em>  Liang Cao graduated.</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2024 </span> 
+            </p>
+          </div>
+         </a>
+         <!-- News Card 3 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em>  Yixiu Wang graduated.</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| December 2023 </span> 
+            </p>
+          </div>
+         </a>
+         <!-- News Card 3 -->
+         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
+          <div class="events-card">
+            <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2024 </span> 
             </p>
           </div>
          </a>
