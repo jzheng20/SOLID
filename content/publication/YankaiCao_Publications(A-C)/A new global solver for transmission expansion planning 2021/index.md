@@ -8,7 +8,7 @@ abstract: "To design a reliable and secure power system, it is necessary to have
 date: "2021-06-02"
 publishDate: "2021-06-02"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:qUcmZB5y_30C"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
