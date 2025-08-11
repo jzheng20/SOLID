@@ -47,7 +47,7 @@ sections:
         <h3 style="color: #374151; font-weight: bold;"> Lab News </h3>
          <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs"> <em>  Jiayang received the Wall Research Award. </em>
+            <p class="text-[10px]"> <em>  Jiayang received the Wall Research Award. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| Jun 2025 </span> 
             </p>
           </div> 
