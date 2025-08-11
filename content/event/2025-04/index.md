@@ -1,6 +1,6 @@
 ---
-title: Jingyi graduated
-event: "Jingyi graduated."
+title: Jingyi graduated 🎉🎓
+event: 
 event_url:  
 
 location:  
