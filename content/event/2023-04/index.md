@@ -1,4 +1,3 @@
-
 ---
 title: Prof. Yankai Cao gave a talk at the CMU EWO Seminar
 event: "Link"
@@ -18,15 +17,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-08T14:00:00Z'
+date: '2023-04'
 date_end: ''
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2025-05-08'
+ 
 
 authors: 
-tags: ['Model Predictive Control']
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
