@@ -106,6 +106,8 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: ""
+        featured_only: true
     design:
       view: table
       columns: '2'
