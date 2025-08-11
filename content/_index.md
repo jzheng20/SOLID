@@ -102,7 +102,7 @@ sections:
     content:
       title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
       text: ""
-      count: 5
+      count: 30
       filters:
         folders:
           - publication
