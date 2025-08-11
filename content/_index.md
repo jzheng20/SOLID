@@ -106,7 +106,6 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'paper-conference'
     design:
       view: table
       columns: '2'
