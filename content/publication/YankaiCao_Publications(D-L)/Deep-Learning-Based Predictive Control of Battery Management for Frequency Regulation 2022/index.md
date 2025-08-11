@@ -8,7 +8,7 @@ abstract: "This paper proposes a deep-learning-based optimal battery management 
 date: "2022-03-16"
 publishDate: "2022-03-16"
 url_pdf: "https://arxiv.org/pdf/2201.01166"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
