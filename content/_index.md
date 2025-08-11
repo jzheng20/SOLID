@@ -123,7 +123,7 @@ sections:
   - block: collection
     id: news
     content:
-      title:  Lab News and Events   
+      title:  News and Events   
       text: ""
       count: 5
       filters:
