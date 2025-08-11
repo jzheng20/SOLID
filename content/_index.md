@@ -44,7 +44,7 @@ sections:
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-        <h2> <strong> Lab News</strong>  </h2>
+        <h2 class="text-gray-700 font-bold"> <strong>Lab News</strong> </h2>
          <!-- News Card 1 --> 
           <div class="events-card">
             <p class="text-xs"> <em>  Jiayang received the Wall Research Award. </em>
