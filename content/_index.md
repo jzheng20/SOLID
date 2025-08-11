@@ -97,7 +97,7 @@ sections:
           </div>
           <!-- News Card 3 -->
           <a href="https://egon.cheme.cmu.edu/ewo/seminars.html" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card" style="font-size: 15px;">
+          <div class="events-card" style="font-size: 17px;">
             <p class="text-xs"> <em> Prof. Yankai Cao gave a talk at the CMU EWO Seminar.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2023 </span> 
             </p>
@@ -105,7 +105,7 @@ sections:
           </a>
           <!-- News Card 3 -->
           <a href="https://egon.cheme.cmu.edu/ewo/seminars.html" target="_blank" style="text-decoration: none; color: inherit;">
-          <div class="events-card" style="font-size: 15px;">
+          <div class="events-card" style="font-size: 17px;">
             <p class="text-xs"> <em> Yixiu Wang publish on Nature communication as co-first author. The paper has been cited for more than 500 times.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2023 </span> 
             </p>
