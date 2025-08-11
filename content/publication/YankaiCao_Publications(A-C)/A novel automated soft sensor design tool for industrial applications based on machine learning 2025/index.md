@@ -8,4 +8,5 @@ abstract: "In modern industrial processes, real-time monitoring and control of k
 date: "2025-07-01"
 publishDate: "2025-07-01"
 url_pdf: "https://dais.chbe.ubc.ca/assets/preprints/2025J03_cao_cep.pdf"
+featured: false
 ---
