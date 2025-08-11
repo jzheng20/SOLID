@@ -1,3 +1,4 @@
+---
 title: "Scalable solution strategies for chance-constrained nonlinear programs"
 tags: []
 authors: ['Javier Tovar-Facio', 'Yankai Cao', 'José M Ponce-Ortega', 'Victor M Zavala']
@@ -10,3 +11,4 @@ url_pdf: "https://d1wqtxts1xzle7.cloudfront.net/115400822/acs.iecr.8b00646202405
 featured: false
 projects: []
 slides: ""
+---
