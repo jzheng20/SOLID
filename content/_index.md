@@ -102,13 +102,11 @@ sections:
           </div>
          </a>
          <!-- News Card 3 -->
-         <a href="https://nips.cc/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
             <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2024 </span> 
             </p>
           </div>
-         </a>
         </div>
         </div>
     design:
