@@ -44,7 +44,7 @@ sections:
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-        <h2 class="text-gray-700 font-bold"> Lab News </h2>
+        <h3 style="color: #374151; font-weight: bold;"> Lab News </h3>
          <!-- News Card 1 --> 
           <div class="events-card">
             <p class="text-xs"> <em>  Jiayang received the Wall Research Award. </em>
@@ -92,7 +92,7 @@ sections:
          <!-- News Card 3 -->
           <div class="events-card">
             <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2024 </span> 
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2023 </span> 
             </p>
           </div>
         </div>
