@@ -1,3 +1,4 @@
+---
 title: "Real-time tracking of renewable carbon content with AI-aided approaches during co-processing of biofeedstocks"
 tags: []
 authors: ['Liang Cao', 'Jianping Su', 'Jack Saddler', 'Yankai Cao', 'Yixiu Wang', 'Gary Lee', 'Lim C Siang', 'Robert Pinchuk', 'Jin Li', 'R Bhushan Gopaluni']
@@ -10,3 +11,4 @@ url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&use
 featured: false
 projects: []
 slides: ""
+---
