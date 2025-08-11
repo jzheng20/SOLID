@@ -120,7 +120,20 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-
+  - block: collection
+    id: news
+    content:
+      title:  Lab News and Events   
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - event 
+    design:
+      view: table
+      columns: '2' 
+      background:
+        color: '#ffffff'  
      
   - block: collection
     id: publications
