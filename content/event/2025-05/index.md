@@ -22,7 +22,7 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2025-05-08'
 
 authors: ['Yankai Cao']
 tags: ['Model Predictive Control']
