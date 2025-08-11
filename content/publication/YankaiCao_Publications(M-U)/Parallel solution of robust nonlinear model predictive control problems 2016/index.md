@@ -1,3 +1,4 @@
+---
 title: "Parallel solution of robust nonlinear model predictive control problems in batch crystallization"
 tags: []
 authors: [Yankai Cao and Jia Kang and Zoltan K Nagy and Carl D Laird]
@@ -7,3 +8,4 @@ abstract: "Representing the uncertainties with a set of scenarios, the optimizat
 date: "2016-06-30"
 publishDate: "2016-06-30"
 url_pdf: "https://www.mdpi.com/2227-9717/4/3/20/pdf?version=1467286392"
+---
