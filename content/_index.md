@@ -73,24 +73,24 @@ sections:
           </div> 
         <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs"> <em>  Yankai received tenure. </em>
+            <p class="text-xs" style="font-size: 15px;"> <em>  Yankai received tenure. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| June 2024 </span> 
             </p>
           </div> 
          <!-- News Card 3 --> 
           <div class="events-card">
-            <p class="text-xs"> <em>  Liang Cao graduated.</em>
+            <p class="text-xs" style="font-size: 15px;"> <em>  Liang Cao graduated.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2024 </span> 
             </p>
           </div> 
          <!-- News Card 3 --> 
-          <div class="events-card">
+          <div class="events-card" style="font-size: 15px;">
             <p class="text-xs"> <em>  Yixiu Wang graduated.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| December 2023 </span> 
             </p>
           </div> 
          <!-- News Card 3 -->
-          <div class="events-card">
+          <div class="events-card" style="font-size: 15px;">
             <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2023 </span> 
             </p>
