@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-08'
 
-authors: 
+authors: ['Yankai Cao']
 tags: ['Model Predictive Control']
 
 # Is this a featured talk? (true/false)
