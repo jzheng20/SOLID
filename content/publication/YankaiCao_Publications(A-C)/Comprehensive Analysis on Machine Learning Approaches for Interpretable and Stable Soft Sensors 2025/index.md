@@ -1,8 +1,0 @@
----
-title: "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors"
-authors: ['Liang Cao',' Jingyi Wang',' Jianping Su',' Yi Luo',' Yankai Cao',' Richard D Braatz',' Bhushan Gopaluni']
-publication: "*IEEE Transactions on Instrumentation and Measurement*"
-abstract: "Soft sensors play a vital role in industrial process monitoring and control by estimating difficult-to-measure quality variables. While significant progress has been made in improving the accuracy of soft sensor models, challenges remain in ensuring their interpretability and stability in dynamic industrial environments. From a measurement science perspective, ensuring transparency and reliable performance under varying process conditions is becoming increasingly critical, particularly in high stakes industrial applications. This paper provides a comprehensive review of methodologies to enhance the interpretability and stability of soft sensor models.To address interpretability, we analyze various interpretable machine learning techniques applicable to soft sensors and discuss open-source projects that facilitate the implementation of these techniques. For improving stability, we emphasize the role of causal machine learning, detailing methods for causal discovery in industrial processes and highlighting relevant open-source tools. By highlighting current limitations and identifying areas for improvement, we aim to provide valuable insights and practical tools for researcher and practitioners. These insights will guide the development of more transparent and reliable soft sensors, ultimately enhancing industrial process monitoring and control."
-date: "2025-04-17"
-url_pdf: "https://web.mit.edu/brAAtzgroup/Cao_IEEEInstrumMeas_2025.pdf"
----
