@@ -8,7 +8,7 @@ abstract: "We present a scalable computing framework for the solution stochastic
 date: "2017-04-06"
 publishDate: "2017-04-06"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:zYLM7Y9cAGgC"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
