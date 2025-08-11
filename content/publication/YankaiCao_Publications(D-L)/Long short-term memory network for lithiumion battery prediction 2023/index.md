@@ -8,7 +8,7 @@ abstract: "Machine Learning (ML) is a promising technique for battery health est
 date: "2023-11-15"
 publishDate: "2023-11-15"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:J_g5lzvAfSwC"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
