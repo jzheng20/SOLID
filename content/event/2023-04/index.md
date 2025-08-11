@@ -11,7 +11,7 @@ address:
   postcode:  
   country:  
 
-summary: 'Prof. Yankai Cao gave a talk at the CMU EWO Seminar titled  *When Global Optimization Meets Machine Learning: Challenges and Opportunities*.'
+summary: 'titled  *When Global Optimization Meets Machine Learning: Challenges and Opportunities*.'
 abstract: 
 
 
