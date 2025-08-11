@@ -8,7 +8,7 @@ abstract: "It is the primary responsibility of a gas pipeline company to satisfy
 date: "2021-04-01"
 publishDate: "2021-04-01"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:dhFuZR0502QC"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
