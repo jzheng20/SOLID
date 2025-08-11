@@ -47,50 +47,50 @@ sections:
         <h3 style="color: #374151; font-weight: bold;"> Lab News </h3>
          <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Jiayang received the Wall Research Award. </em>
+            <p class="text-xs" style="font-size: 20px;"> <em>  Jiayang received the Wall Research Award. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| Jun 2025 </span> 
             </p>
           </div> 
           <!-- News Card 1 -->
          <a href="https://pse-seminar.mit.edu/seminars/cao/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Yankai gave a talk at the MIT PSE Seminar. </em> 
+            <p class="text-xs" style="font-size: 20px;"> <em>  Yankai gave a talk at the MIT PSE Seminar. </em> 
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| May 2025 </span> 
             </p>
           </div>
          </a>
          <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Jingyi graduated.</em>
+            <p class="text-xs" style="font-size: 20px;"> <em>  Jingyi graduated.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2025 </span> 
             </p>
           </div> 
          <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Jason Zhao received the Four Year Doctoral Fellowship. </em>
+            <p class="text-xs" style="font-size: 20px;"> <em>  Jason Zhao received the Four Year Doctoral Fellowship. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
             </p>
           </div> 
         <!-- News Card 1 --> 
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Yankai received tenure. </em>
+            <p class="text-xs" style="font-size: 20px;"> <em>  Yankai received tenure. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| June 2024 </span> 
             </p>
           </div> 
          <!-- News Card 3 --> 
           <div class="events-card">
-            <p class="text-xs" style="font-size: 15px;"> <em>  Liang Cao graduated.</em>
+            <p class="text-xs" style="font-size: 20px;"> <em>  Liang Cao graduated.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2024 </span> 
             </p>
           </div> 
          <!-- News Card 3 --> 
-          <div class="events-card" style="font-size: 15px;">
+          <div class="events-card" style="font-size: 20px;">
             <p class="text-xs"> <em>  Yixiu Wang graduated.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| December 2023 </span> 
             </p>
           </div> 
          <!-- News Card 3 -->
-          <div class="events-card" style="font-size: 15px;">
+          <div class="events-card" style="font-size: 20px;">
             <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2023 </span> 
             </p>
