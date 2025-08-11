@@ -54,7 +54,7 @@ sections:
           </div>
          </a>
           <!-- News Card 1 -->
-         <a href="[https://pse-seminar.mit.edu/seminars/cao/" target="_blank" style="text-decoration: none; color: inherit;">
+         <a href="https://pse-seminar.mit.edu/seminars/cao/" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card">
             <p class="text-xs"> <em>  Yankai gave a talk at the MIT PSE Seminar. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| May 2025 </span> 
