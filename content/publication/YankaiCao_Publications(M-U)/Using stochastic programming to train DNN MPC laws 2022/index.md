@@ -8,7 +8,7 @@ abstract: "To facilitate the real-time implementation of nonlinear model predict
 date: "2022-12-01"
 publishDate: "2022-12-01"
 url_pdf: "https://scholar.google.ca/citations?view_op=view_citation&hl=zh-CN&user=M-s3mjAAAAAJ&pagesize=80&citation_for_view=M-s3mjAAAAAJ:k_IJM867U9cC"
-featured: false
+featured: true
 projects: []
 slides: ""
 ---
