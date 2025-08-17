@@ -11,7 +11,7 @@ address:
   postcode:  
   country:  
 
-summary: View [Affiliated Fellowship](https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program)
+summary: >> View [Affiliated Fellowship](https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program)
 abstract:  
 
 
