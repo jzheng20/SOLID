@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: news
     content:
-      title:  News and Events   
+      title:  News & Events   
       text: ""
       count: 5
       filters:
@@ -98,7 +98,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      title: Selected Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
       text: ""
       count: 30
       filters:
@@ -212,9 +212,9 @@ sections:
         color: '#f5f5f5'
 
   - block: collection
-    id: events
+    id: news
     content:
-      title:  Lab Events   
+      title:  News & Events   
       text: ""
       count: 5
       filters:
