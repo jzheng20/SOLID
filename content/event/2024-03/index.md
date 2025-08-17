@@ -1,5 +1,5 @@
 ---
-title: Liang Cao graduated with a PhD 🎉🎓
+title: Congratulations to Liang Cao on his PhD graduation!
 event: 
 event_url:  
 
@@ -18,7 +18,7 @@ abstract:
  
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-04-01'
+publishDate: '2024-03-31'
 
 authors: ['Yankai Cao']
 tags: []
