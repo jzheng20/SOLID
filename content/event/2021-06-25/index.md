@@ -1,7 +1,7 @@
 ---
-title: Congratulations to Jiayang Ren for Wining [Affiliated Fellowship](https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program)
+title: Congratulations to Jiayang Ren for Wining Affiliated Fellowship
 event: 
-event_url:     
+event_url: https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program
 
 location:  
 address:
