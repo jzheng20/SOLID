@@ -1,5 +1,5 @@
 ---
-title: Yixiu Wang publish on Nature communication as co-first author.
+title: Yixiu Wang has published a paper in Nature communication as a co-first author.
 event:  
 event_url: https://www.nature.com/articles/s41467-022-29837-w
 
