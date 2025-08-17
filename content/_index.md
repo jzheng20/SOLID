@@ -48,7 +48,19 @@ sections:
          <!-- News Card 1 --> 
           <div class="events-card">
             <p class="text-xs" style="font-size: 17px;"> <em>  Jiayang received the Wall Research Award. </em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| Jun 2025 </span> 
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| June 2025 </span> 
+            </p>
+          </div>
+          <!-- News Card 1 --> 
+          <div class="events-card">
+            <p class="text-xs" style="font-size: 17px;"> <em>  Prof. Yankai Cao gave a talk at the MIT PSE Seminar. </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| May 2025 </span> 
+            </p>
+          </div>  
+          <!-- News Card 1 --> 
+          <div class="events-card">
+            <p class="text-xs" style="font-size: 17px;"> <em>  Congratulations to Jingyi on her PhD graduation! </em>
+                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2025 </span> 
             </p>
           </div>  
          <!-- News Card 1 --> 
@@ -56,17 +68,11 @@ sections:
             <p class="text-xs" style="font-size: 17px;"> <em>  Jason Zhao received the Four Year Doctoral Fellowship. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
             </p>
-          </div>  
-         <!-- News Card 3 -->
-          <div class="events-card" style="font-size: 17px;">
-            <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| September 2023 </span> 
-            </p>
-          </div>
+          </div>   
           <!-- News Card 3 -->
           <a href="https://www.nature.com/articles/s41467-022-29837-w" target="_blank" style="text-decoration: none; color: inherit;">
           <div class="events-card" style="font-size: 17px;">
-            <p class="text-xs"> <em> Yixiu Wang publish on Nature communication as co-first author. The paper has been cited for more than 500 times.</em>
+            <p class="text-xs"> <em> Yixiu Wang has published a paper in Nature communication as a co-first author. The paper has been cited for more than 500 times.</em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2022 </span> 
             </p>
           </div>
