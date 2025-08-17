@@ -30,7 +30,8 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://openreview.net/forum?id=-Oh_TKISy89'
+url_pdf: 'https://openreview.net/forum?id=SrwrRP3yfq8'
 url_slides: ''
 url_video: ''
 
