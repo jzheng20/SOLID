@@ -1,7 +1,7 @@
 ---
 title: Yixiu Wang publish on Nature communication as co-first author.
 event:  
-event_url:  https://www.nature.com/articles/s41467-022-29837-w
+event_url: https://www.nature.com/articles/s41467-022-29837-w
 
 location:  
 address:
@@ -30,7 +30,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41467-022-29837-w'
 url_slides: ''
 url_video: ''
 
