@@ -216,7 +216,7 @@ sections:
     content:
       title:  News & Events   
       text: ""
-      count: 5
+      count: 50
       filters:
         folders:
           - event 
