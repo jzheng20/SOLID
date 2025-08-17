@@ -1,5 +1,5 @@
 ---
-title: New Paper Accepted by Automatica
+title: Congratulations to Kevin Kung for Winning Nearly $2M prize from Royals, Elon Musk!
 event:  National Post  UBC News
 event_url: https://nationalpost.com/news/canada/ubc-post-doc-student-wins-1-9-million-funding-from-prince-william-and-elon-musk-competitions
 
