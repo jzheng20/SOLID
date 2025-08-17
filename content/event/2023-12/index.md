@@ -1,5 +1,5 @@
 ---
-title: Yixiu Wang graduated with a PhD 🎉🎓
+title: Congratulations to Yixiu Wang on his PhD graduation!
 event: 
 event_url:  
 
@@ -18,7 +18,7 @@ abstract:
  
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-01'
+publishDate: '2023-12-30'
 
 authors: ['Yankai Cao']
 tags: []
