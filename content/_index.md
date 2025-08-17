@@ -44,7 +44,7 @@ sections:
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-        <h3 style="color: #374151; font-weight: bold;"> Lab News </h3>
+        <h3 style="color: #374151; font-weight: bold;"> Latest Highlight </h3>
          <!-- News Card 1 --> 
           <div class="events-card">
             <p class="text-xs" style="font-size: 17px;"> <em>  Jiayang received the Wall Research Award. </em>
@@ -56,13 +56,7 @@ sections:
             <p class="text-xs" style="font-size: 17px;"> <em>  Jason Zhao received the Four Year Doctoral Fellowship. </em>
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
             </p>
-          </div> 
-        <!-- News Card 1 --> 
-          <div class="events-card">
-            <p class="text-xs" style="font-size: 17px;"> <em>  Yankai received tenure. </em>
-                <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| June 2024 </span> 
-            </p>
-          </div>   
+          </div>  
          <!-- News Card 3 -->
           <div class="events-card" style="font-size: 17px;">
             <p class="text-xs"> <em> Chaojie Ji received the Four Year Doctoral Fellowship.</em>
