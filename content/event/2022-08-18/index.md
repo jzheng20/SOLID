@@ -1,4 +1,4 @@
- ---
+---
 title: New Paper Accepted by Automatica
 event: 
 event_url: 
