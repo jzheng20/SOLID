@@ -11,7 +11,7 @@ address:
   postcode:  
   country:  
 
-summary: Kevin Kung received an additional $1 million this year from Musk Foundation. UBC is the only university in the world where not one but two teams won Elon Musk’s XPRIZE Carbon Removal stage 2 milestone award (the other team is UBC spinoff Carbin Minerals). <span style="font-size: 28px;">></span> [Xprize UBC News](https://news.ubc.ca/2022/04/ubc-spinoff-carbinminerals-wins-musk-foundation/)
+summary: Kevin Kung received an additional $1 million this year from Musk Foundation. UBC is the only university in the world where not one but two teams won Elon Musk’s XPRIZE Carbon Removal stage 2 milestone award (the other team is UBC spinoff Carbin Minerals). >> [Xprize UBC News](https://news.ubc.ca/2022/04/ubc-spinoff-carbinminerals-wins-musk-foundation/)
 abstract:  
 
 
