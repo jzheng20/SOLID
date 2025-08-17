@@ -1,5 +1,5 @@
 ---
-title: Jingyi graduated with a PhD 🎉🎓
+title: Congratulations to Jingyi on her PhD graduation!
 event: 
 event_url:  
 
