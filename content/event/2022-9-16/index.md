@@ -11,7 +11,7 @@ address:
   postcode:  
   country:  
 
-summary: Kaixun Hua’s work “A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree” and Jiayang Ren’s work “Global Optimal K-Medoids Clustering of One Million Samples” are accepted by Conference on Neural Information Processing Systems (NeurIPS).
+summary: Kaixun Hua’s work [“A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree”](https://openreview.net/forum?id=-Oh_TKISy89) and Jiayang Ren’s work [“Global Optimal K-Medoids Clustering of One Million Samples”](https://openreview.net/forum?id=SrwrRP3yfq8) are accepted by Conference on Neural Information Processing Systems (NeurIPS).
 abstract:  
 
 
@@ -30,8 +30,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://openreview.net/forum?id=-Oh_TKISy89'
-url_pdf: 'https://openreview.net/forum?id=SrwrRP3yfq8'
+url_pdf: '' 
 url_slides: ''
 url_video: ''
 
