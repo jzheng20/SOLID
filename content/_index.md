@@ -98,6 +98,8 @@ sections:
          <p class="text-xl font-light mt-2"> Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
+
+            <div class="vertical-line" style="height: 200px;"></div>
       taxonomy: none
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
@@ -346,7 +348,7 @@ sections:
   
         </div>
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#f5f5f5'
       spacing:
