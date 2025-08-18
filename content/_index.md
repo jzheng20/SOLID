@@ -76,17 +76,12 @@ sections:
                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| April 2022 </span> 
             </p>
           </div>
-           </a>
+          </a>
            <h3 style="color: #374151; font-weight: bold;"> Recruiting </h3>
-            <!-- News Card 1 --> 
-            <div class="events-card">
-             <p class="text-xs" style="font-size: 17px;"> <em>  
-We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </em>
-                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
-             </p>
-            </div>
-             <br><br> 
-             <a href="/#positions" class="btn btn-outline">Join Us →</a>
+           <p style="color: #374151; font-weight: bold;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </p>
+           
+            <br><br> 
+            <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
         </div>
     design:
