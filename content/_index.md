@@ -87,41 +87,7 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-
-  - block: tag_cloud
-    id: research
-    content:
-      title:  Research
-      text: |
-         <p class="text-xl font-light mt-2 text-left">SOLID Lab focuses on the design and implementation of large-scale local and global optimization algorithms to solve problems that arise in diverse decision-making paradigms such as <em>machine learning</em>, <em>data analysis  and estimation</em> as well as <em>stochastic optimization</em>, <em>optimal control</em>, and <em>complex networks</em>.  Our algorithms combine mathematical techniques and emerging high-performance computing hardware (e.g., multi-core CPUs, GPUs, and computing clusters) to achieve computational scalability. </p>
-         <div style="display: flex; align-items: center; gap: 2rem;">
-         <div class="text-center" style="max-width: 600px;">
-         <p class="text-xl font-light mt-2 text-left">The goal is to make these developments accessible to academic and industrial users by implementing algorithms on easy-to-use and extensible software libraries.</p>
-         <p class="text-xl font-light mt-2 text-left">
-          Furthermore, We have applied the algorithms and tools to help collaborators address engineering and scientific questions that arise in diverse application 
-            domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
-            large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
-         </div>
-         <div class="vertical-line" style="height: 400px;"></div>
-         <!-- Left: Image Panel -->
-         <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
-            <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
-            <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
-         </div>
  
-    
-      taxonomy: none
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 0
-    design:
-      columns: '1'
-      background:
-        color: '#ffffff'
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0  
-      spacing:
-        padding: ['80px', '40px', '10px', '0']
 
   - block: tag_cloud
     id: research
