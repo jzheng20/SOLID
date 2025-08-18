@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} SOLID Lab.'
+    notice: '© {year} SOLID Lab, The University of Britis Columbia. All Rights Reserved.'
     license:
       enable: true
       allow_derivatives: false
