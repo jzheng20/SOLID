@@ -41,7 +41,7 @@ sections:
          <br>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
         </div>
-        <div class="vertical-line" style="height: 400px;"></div>
+        <div class="vertical-line" style="height: 350px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
         <h4 style="color: #374151; font-weight: bold;"> Latest Highlight </h4>
          <!-- News Card 1 --> 
@@ -81,7 +81,7 @@ sections:
         </div>
         </div>
 
-        <div class="vertical-line" style="width: 800px; height:2px;"></div>
+        <div class="vertical-line" style="width: 1000px; height:2px;"></div>
     design:
       columns: '1'
       background:
@@ -101,7 +101,7 @@ sections:
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
 
-            <div class="vertical-line" style="width: 800px;"></div>
+            <div class="vertical-line" style="width: 1000px; height:0.5px;"></div>
       taxonomy: none
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
