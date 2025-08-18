@@ -117,7 +117,7 @@ sections:
 
   - block: tag_cloud
     content:
-      title: Research Topics & Tag Cloud
+      title: 
       subtitle:
       text: 
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
