@@ -77,6 +77,16 @@ sections:
             </p>
           </div>
            </a>
+           <h3 style="color: #374151; font-weight: bold;"> Recruiting </h3>
+            <!-- News Card 1 --> 
+            <div class="events-card">
+             <p class="text-xs" style="font-size: 17px;"> <em>  
+We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </em>
+                 <span style="color: #6B7280; font-weight: normal; font-style: normal; font-family: 'Segoe UI', sans-serif;" class="bg-green-500"> &nbsp;| March 2025 </span> 
+             </p>
+            </div>
+             <br><br> 
+             <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
         </div>
     design:
@@ -86,20 +96,6 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-  - block: collection
-    id: news
-    content:
-      title:  News & Events   
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - event 
-    design:
-      view: table
-      columns: '2' 
-      background:
-        color: '#ffffff'  
      
   - block: collection
     id: publications
@@ -367,7 +363,7 @@ sections:
   
   
   - block: contact 
-    content:
+    content: 
       title: "" 
       text:   
       coordinates:
