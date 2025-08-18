@@ -101,7 +101,6 @@ sections:
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
 
-            <div class="vertical-line" style="width: 600px; height:0.5px;"></div>
       taxonomy: none
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
