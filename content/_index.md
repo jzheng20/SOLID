@@ -40,7 +40,6 @@ sections:
          <a href="https://chbe.ubc.ca" class="custom-link" target="_blank"><em>  Department of Chemical and Biological Engineering </em> </a> at <a href="https://www.ubc.ca/" class="custom-link" target="_blank"> <em>  The University of British Columbia </em> </a>.<br></p>
          <br><br>
          <a href="/#research" class="btn btn-primary">Learn Us</a>
-         <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
