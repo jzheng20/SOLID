@@ -134,7 +134,7 @@ sections:
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
 
          <!-- Left: Image Panel -->
-         <div class="bg-gray-100 rounded-lg p-4 text-center shadow">
+         <div class="bg-gray-100 rounded-lg p-4 text-center">
             <!--<h3 class="text-xl font-bold text-blue-700 mb-4">Machine Learning</h3>-->
             <img src="/uploads/Overview_yankai_v3.jpg" alt="Overview Research" class="mx-auto w-full max-w-xs rounded">
          </div>
