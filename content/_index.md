@@ -110,7 +110,7 @@ sections:
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
     design:
-      columns: '2'
+      columns: '1'
       background:
         color: '#ffffff'
       # Minimum and maximum font sizes (1.0 = 100%).
