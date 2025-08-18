@@ -2,21 +2,21 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: News
-    url: /#news
-    weight: 20
   - name: Research
     url: /#research
-    weight: 30
+    weight: 20
   - name: Publications
     url: /#publications
-    weight: 40 
-  - name: Members
-    url: people/
-    weight: 50
+    weight: 30 
+  - name: News & Events
+    url: /#news
+    weight: 40
   - name: Gallery
     url: /#gallery
-    weight: 60
+    weight: 50
+  - name: Members
+    url: /#people
+    weight: 60 
   - name: Opportunities
     weight: 70
     hasChildren: true
