@@ -78,7 +78,7 @@ sections:
           </div>
           </a>
            <h4 style="color: #374151; font-weight: bold;"> Recruiting </h4>
-           <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </p> <a href="/#positions" class="btn btn-outline">Join Us →</a>
+           <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. <a href="/#positions" class="btn btn-outline">Join Us →</a> </p> 
         </div>
         </div>
     design:
