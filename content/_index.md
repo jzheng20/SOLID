@@ -44,7 +44,7 @@ sections:
         </div>
         <div class="vertical-line" style="height: 300px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-        <h3 style="color: #374151; font-weight: bold;"> Latest Highlight </h3>
+        <h4 style="color: #374151; font-weight: bold;"> Latest Highlight </h4>
          <!-- News Card 1 --> 
           <div class="events-card">
             <p class="text-xs" style="font-size: 17px;"> <em>  Jiayang received the Wall Research Award. </em>
@@ -77,9 +77,8 @@ sections:
             </p>
           </div>
           </a>
-           <h3 style="color: #374151; font-weight: bold;"> Recruiting </h3>
-           <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </p>
-           <a href="/#positions" class="btn btn-outline">Join Us →</a>
+           <h4 style="color: #374151; font-weight: bold;"> Recruiting </h4>
+           <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. </p> <a href="/#positions" class="btn btn-outline">Join Us →</a>
         </div>
         </div>
     design:
