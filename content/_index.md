@@ -80,6 +80,8 @@ sections:
            <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. <a href="/#positions" class="btn btn-outline">→ Join Us</a> </p> 
         </div>
         </div>
+
+        <div class="vertical-line" style="width: 800px;"></div>
     design:
       columns: '1'
       background:
@@ -99,7 +101,7 @@ sections:
             domainsincluding conflict resolution in energy system design, robust control of crystallization systems, predictive control of wind turbines, power management in 
             large networks, estimation of microbial growth models, and image classification for contaminant detection.</p>
 
-            <div class="vertical-line" style="height: 200px;"></div>
+            <div class="vertical-line" style="width: 800px;"></div>
       taxonomy: none
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
