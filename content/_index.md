@@ -87,26 +87,6 @@ sections:
       spacing:
         padding: ['80px', '0', '10px', '0']
 
-     
-  - block: collection
-    id: publications
-    content:
-      title: Selected Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
-      text: ""
-      count: 30
-      filters:
-        folders:
-          - publication
-        publication_type: ""
-        featured_only: true
-    design:
-      view: table
-      columns: '2'
-      background:
-        color: '#f5f5f5'
-    
- 
-
   - block: tag_cloud
     id: research
     content:
@@ -137,7 +117,46 @@ sections:
       spacing:
         padding: ['80px', '40px', '10px', '0']
 
-          
+     
+  - block: collection
+    id: publications
+    content:
+      title: Selected Publications  <a href="publication/" class="btn btn-outline">→ See More Publications </a>
+      text: ""
+      count: 30
+      filters:
+        folders:
+          - publication
+        publication_type: ""
+        featured_only: true
+    design:
+      view: table
+      columns: '2'
+      background:
+        color: '#f5f5f5'
+    
+ 
+
+
+
+
+  - block: tag_cloud
+    content:
+      title: Research Topics & Tag Cloud
+      subtitle:
+      text: 
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 20
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
+    design:
+      columns: '2'
+      background:
+        color: '#ffffff' 
 
 
   - block: people
@@ -245,23 +264,7 @@ sections:
       fit: contain
  
 
-  - block: tag_cloud
-    content:
-      title: Research Topics & Tag Cloud
-      subtitle:
-      text: 
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 20
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0
-    design:
-      columns: '2'
-      background:
-        color: '#ffffff' 
+
 
 
   - block: markdown
