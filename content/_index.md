@@ -114,7 +114,7 @@ sections:
 
   - block: tag_cloud
     content:
-      title: 
+      title: Topics
       subtitle:
       text: 
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
@@ -126,7 +126,7 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: '#ffffff' 
 
