@@ -11,7 +11,7 @@ sections:
       subtitle: ''
       text:
     design:
-      columns: '2'
+      columns: '1'
       background:
         image: 
           filename: ubc_vancouver_upscaled_4k_v3.jpg
