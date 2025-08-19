@@ -239,6 +239,7 @@ sections:
       show_role: true
       show_social: true 
       view: card
+      columns: 3
       background:
         color: '#f5f5f5'
 
