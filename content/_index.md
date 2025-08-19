@@ -18,8 +18,8 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: top
-          size: contain
+          position: center
+          size: cover
           text_color_light: true
       spacing:
         padding: ['150px', '0', '150px', '0']
