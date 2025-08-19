@@ -19,10 +19,10 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
-        padding: ['200px', '0', '200px', '0']
+        padding: ['150px', '0', '150px', '0']
       css_class: narrow-hero
 
       
