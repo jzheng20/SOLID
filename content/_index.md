@@ -14,7 +14,7 @@ sections:
       columns: '2'
       background:
         image: 
-          filename: ubc_vancouver_upscaled_4k.jpg
+          filename: ubc_vancouver_upscaled_4k_v2.jpg
           filters:
             brightness: 1
           parallax: false
