@@ -5,26 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: people
-    id: members
-    content:
-      title: Members
-      user_groups:
-          - Principal Investigator
-          - Postdoctoral Researchers
-          - PhD Students
-          - Master Students
-          - Undergraduate Students
-          - Visitors
-          - Alumni0
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: true
-      show_role: true
-      show_social: true 
-      view: card
-
   - block: markdown
     id: alumni
     content:
