@@ -18,11 +18,11 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: top
-          size: cover
+          position: center
+          size: contain
           text_color_light: true
       spacing:
-        padding: ['300px', '0', '300px', '0']
+        padding: ['230px', '0', '230px', '0']
       css_class: narrow-hero
 
       
