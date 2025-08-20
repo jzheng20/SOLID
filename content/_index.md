@@ -81,7 +81,7 @@ sections:
         </div>
         </div>
         <br>
-        <div class="vertical-line" style="width: 1000px; height:2px;"></div>
+        <div class="vertical-line" style="width: 1300px; height:2px;"></div>
     design:
       columns: '1'
       background:
