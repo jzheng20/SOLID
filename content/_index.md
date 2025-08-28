@@ -132,7 +132,7 @@ sections:
       show_date: true
       show_meta: true
     design:
-      view: card
+      view: compact
       columns: '2'
       background:
         color: '#f5f5f5'
