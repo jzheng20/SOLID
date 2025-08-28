@@ -40,7 +40,7 @@ sections:
          <a href="https://chbe.ubc.ca" class="custom-link" target="_blank"><em>  Department of Chemical and Biological Engineering </em> </a> at <a href="https://www.ubc.ca/" class="custom-link" target="_blank"> <em>  The University of British Columbia </em> </a>.<br></p>
          <br>
          <a href="/#research" class="btn btn-dark">Learn Us</a>
-         <a href="people/" class="btn btn-secondary">Meet Us</a>
+         <a href="people/" class="btn btn-light">Meet Us</a>
         </div>
         <div class="vertical-line" style="height: 350px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
@@ -77,7 +77,7 @@ sections:
             </p>
           </div>
           </a>
-          <a href="/#positions" class="btn btn-light"> >>  More lab news and events </a> </p> 
+          <a href="/#positions" class="btn btn-outline"> >>  More lab news and events </a> </p> 
            <h4 style="color: #374151; font-weight: bold;"> Recruiting </h4>
            <p style="color: #374151; font-weight: normal; font-size: 17px;"> We are  seeking future postdoctoral researchers, graduate students, visiting students, and undergraduate students. <a href="/#positions" class="btn btn-outline">→ Join Us</a> </p> 
         </div>
