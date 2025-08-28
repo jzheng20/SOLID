@@ -8,7 +8,7 @@ abstract: "Recently, numerous tensor singular value decomposition (t-SVD)-based 
 date: "2024-09-29"
 publishDate: "2024-09-29"
 url_pdf: "https://arxiv.org/pdf/2311.13958"
-featured: true
+featured: false
 projects: []
 slides: ""
 ---
