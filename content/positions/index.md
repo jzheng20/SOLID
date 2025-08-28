@@ -31,7 +31,7 @@ sections:
           </div>
           <div class="vertical-line" style="height: 200px;"></div>
           <div>
-          <a href="funding/" class="btn btn-outline">→ See Funding Opportunities</a>
+          <a href="../funding/" class="btn btn-outline">→ See Funding Opportunities</a>
     
           <a href="https://www.grad.ubc.ca/prospective-students/application-admission" class="btn btn-outline">→ Apply through UBC Graduate School</a>
           </div>
