@@ -129,8 +129,10 @@ sections:
           - publication
         publication_type: ""
         featured_only: true
+      show_date: true
+      show_meta: true
     design:
-      view: compact
+      view: card
       columns: '2'
       background:
         color: '#f5f5f5'
