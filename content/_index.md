@@ -129,11 +129,8 @@ sections:
           - publication
         publication_type: ""
         featured_only: true
-      show_date: true
-      show_meta: true
-      show_abstract: false
     design:
-      view: card
+      view: citation
       columns: '2'
       background:
         color: '#f5f5f5'
