@@ -22,10 +22,10 @@ main:
     hasChildren: true
   - parent: Opportunities
     name: Positions
-    url: /#positions
+    url: positions/
   - parent: Opportunities
     name: Funding Opportunities
     url: funding/
-  - name: Contact
+  - name: Contact Us
     url: /#contact
     weight: 80
