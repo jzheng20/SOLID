@@ -130,7 +130,7 @@ sections:
         publication_type: ""
         featured_only: true
     design:
-      view: table
+      view: compact
       columns: '2'
       background:
         color: '#f5f5f5'
