@@ -12,7 +12,7 @@ main:
     url: /#news
     weight: 40
   - name: Gallery
-    url: /#gallery
+    url: gallery/
     weight: 50
   - name: Members
     url: /#members
