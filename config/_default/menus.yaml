@@ -15,7 +15,7 @@ main:
     url: gallery/
     weight: 50
   - name: Members
-    url: /#members
+    url: people/
     weight: 60 
   - name: Opportunities
     weight: 70
