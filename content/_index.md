@@ -42,7 +42,7 @@ sections:
          <a href="/#research" class="btn btn-dark">Learn Us</a>
          <a href="people/" class="btn btn-light">Meet Us</a>
         </div>
-        <div class="vertical-line" style="height: 350px;"></div>
+        <div class="vertical-line" style="height: 400px;"></div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
         <h4 style="color: #374151; font-weight: bold;"> Latest Highlight </h4>
          <!-- News Card 1 --> 
