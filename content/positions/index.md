@@ -44,11 +44,33 @@ sections:
       spacing:
         padding: ['80px', '40px', '10px', '0']
 
+
+
+  - block: markdown
+    id: positions
+    content: 
+      title: Funding Opportunities
+      text: |
+            All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from PI’s research funds.
+
+            Funding Opportunities for 
+            [Postdocs](#Postdocs) | [Graduate Students](#Graduate) | [Undergraduate Students](#Undergraduate)
+
+ 
+ 
+    
+    design:
+      columns: '2'
+      background:
+        color: '#ffffff'   
+      spacing:
+        padding: ['80px', '40px', '10px', '0']
+
+    
+
 ---    
 
----
-title: Funding Opportunities 
----
+ 
 
 
 
