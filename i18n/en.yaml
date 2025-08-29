@@ -1,5 +1,5 @@
 # i18n/en.yaml
-- id: computer-science-conference-paper
+- id:  pub_paper_conference
   translation: "Computer Science Conference Paper"
 
 # 可选：顺便把其他类型也统一一下
