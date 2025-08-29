@@ -132,6 +132,7 @@ sections:
     design:
       view: citation
       show_icon: false
+      citation_style: ieee
       columns: '2'
       background:
         color: '#ffffff'
