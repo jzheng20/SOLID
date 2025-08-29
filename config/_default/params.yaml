@@ -6,6 +6,8 @@
 # Appearance
 
 appearance:
+  custom_css: 
+    -  scss/custom.css
   theme_day: minimal
   theme_night: 
   font: native
