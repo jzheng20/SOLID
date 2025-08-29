@@ -12,7 +12,8 @@ sections:
     content:
       title:  
       subtitle: ''
-      text: Celebrate Jingyi’s Graduation (2025)
+      text: ｜
+         <h4 style="color: #374151; font-weight: bold;"> Celebrate Jingyi’s Graduation (2025) </h4> 
     design:
       columns: '2'
       background:
@@ -51,8 +52,8 @@ sections:
 
   - block: markdown
     content:
-      title: Group Dinner (2022)
-      subtitle: ''
+      title:  
+      subtitle: 'Group Dinner (2022)'
       text:
     design:
       columns: '2'
