@@ -13,6 +13,7 @@ sections:
       count: 50
       filters:
         folders:
+          - event
     design:
       view: table
       columns: '2' 
