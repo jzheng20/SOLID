@@ -131,6 +131,7 @@ sections:
         featured_only: true
     design:
       view: citation
+      show_icon: false
       columns: '2'
       background:
         color: '#ffffff'
