@@ -18,14 +18,8 @@ main:
     url: people/
     weight: 60 
   - name: Opportunities
-    weight: 70
-    hasChildren: true
-  - parent: Opportunities
-    name: Positions
     url: positions/
-  - parent: Opportunities
-    name: Funding Opportunities
-    url: funding/
+    weight: 70 
   - name: Contact Us
     url: /#contact
     weight: 80
