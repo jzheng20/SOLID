@@ -22,7 +22,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: right
+          position: "80% center"
           size: contain
           text_color_light: true
       spacing:
