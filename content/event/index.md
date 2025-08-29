@@ -13,7 +13,6 @@ sections:
       count: 50
       filters:
         folders:
-          - 2022-07-04
     design:
       view: table
       columns: '2' 
