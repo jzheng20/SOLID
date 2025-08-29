@@ -133,7 +133,7 @@ sections:
       view: citation
       columns: '2'
       background:
-        color: '#f5f5f5'
+        color: '#ffffff'
     
  
  
