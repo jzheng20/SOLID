@@ -231,7 +231,7 @@ sections:
             </ul>
           </div>
 
-          <!-- Middle: Contact -->
+          <!-- Middle: Contact Us-->
           <div style="flex: 1; min-width: 250px;">
             <h3 style="color: #0055A5;">Contact</h3>
             <p>Yankai Cao<br>
