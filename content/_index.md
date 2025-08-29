@@ -129,10 +129,10 @@ sections:
           - publication
         publication_type: ""
         featured_only: true
+      citation_style: ieee
     design:
       view: citation
-      show_icon: false
-      citation_style: ieee
+      show_icon: false 
       columns: '2'
       background:
         color: '#ffffff'
