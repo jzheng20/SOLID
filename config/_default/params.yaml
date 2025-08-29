@@ -6,8 +6,6 @@
 # Appearance
 
 appearance:
-  custom_css: 
-    -  scss/custom.css
   theme_day: minimal
   theme_night: 
   font: native
@@ -120,5 +118,4 @@ extensions:
 publications:
   date_format: June 2025
   citation_style: ieee
-  show_logo: false
 
