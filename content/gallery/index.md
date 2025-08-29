@@ -33,7 +33,8 @@ sections:
     content:
       title: Group BBQ (2023)
       subtitle: ''
-      text:
+      text: |
+         <h3 style="color: #374151; font-weight: bold;"> Group BBQ (2023) </h3> 
     design:
       columns: '2'
       background:
@@ -42,7 +43,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: "55% center"
           size: contain
           text_color_light: true
       spacing:
