@@ -1,9 +1,10 @@
-# data/publication_types.toml
-[paper-conference1]
-name = "CS Conference Paper"
-
-[article-journal]
-name = "Journal Article"
-
-[working-paper]
-name = "Working Paper"
+options:
+    - { label: "Uncategorized", value: "0" }
+    - { label: "Conference paper", value: "1" }
+    - { label: "Journal article", value: "2" }
+    - { label: "Preprint / Working Paper", value: "3" }
+    - { label: "Report", value: "4" }
+    - { label: "Book", value: "5" }
+    - { label: "Book section", value: "6" }
+    - { label: "Thesis", value: "7" }
+    - { label: "Patent", value: "8" }
