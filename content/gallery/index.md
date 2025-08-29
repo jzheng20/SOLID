@@ -56,7 +56,7 @@ sections:
       title:  
       subtitle: ''
       text: |
-         <h3 style="color: #374151; font-weight: bold; text-align: right;"> Group Dinner   (2022) </h3> 
+         <h3 style="color: #374151; font-weight: bold; text-align: right;"> Group Dinner <br> (2022) </h3> 
     design:
       columns: '2'
       background:
