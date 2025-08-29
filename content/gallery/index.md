@@ -53,8 +53,9 @@ sections:
   - block: markdown
     content:
       title:  
-      subtitle: 'Group Dinner (2022)'
-      text:
+      subtitle: ''
+      text: |
+         <h4 style="color: #374151; font-weight: bold;"> Group Dinner (2022) </h4> 
     design:
       columns: '2'
       background:
