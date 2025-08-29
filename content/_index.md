@@ -250,7 +250,7 @@ sections:
       background:
         color: '#f5f5f5'
       spacing:
-        padding: ['80px', '40px', '10px', '0']
+        padding: ['10px', '40px', '10px', '0']
 
   
   
