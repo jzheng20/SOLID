@@ -134,6 +134,8 @@ sections:
       columns: '2'
       background:
         color: '#ffffff'
+      spacing:
+        padding: ['0px', '40px', '10px', '0']
     
  
  
