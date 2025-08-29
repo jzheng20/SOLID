@@ -233,7 +233,7 @@ sections:
 
           <!-- Middle: Contact Us-->
           <div style="flex: 1; min-width: 250px;">
-            <h3 style="color: #0055A5;">Contact</h3>
+            <h3 style="color: #0055A5;">Contact US</h3>
             <p>Yankai Cao<br>
              Associate Professor<br> 
              Tel: 1 604 822 1346<br>
