@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: citation
+view: compact
 text: |
       We currently have {{< len site.Data.publication >}} publications.
 # Optional banner image (relative to `assets/media/` folder).
