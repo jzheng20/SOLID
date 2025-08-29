@@ -31,8 +31,7 @@ sections:
           </div>
           <div class="vertical-line" style="height: 200px;"></div>
           <div>
-          <a href="../funding/" class="btn btn-outline">→ See Funding Opportunities</a>
-    
+  
           <a href="https://www.grad.ubc.ca/prospective-students/application-admission" class="btn btn-outline">→ Apply through UBC Graduate School</a>
           </div>
           </div>
@@ -56,9 +55,8 @@ sections:
             Funding Opportunities for 
             [Postdocs](#Postdocs) | [Graduate Students](#Graduate) | [Undergraduate Students](#Undergraduate)
 
-            <a name="Postdocs"></a>
-            ## For Postdocs
-            
+            <a name="Postdocs"></a> 
+            <h4 style="color: #374151; font-weight: bold;"> For Postdocs </h4>
              
             
             - [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/awards-funding)
