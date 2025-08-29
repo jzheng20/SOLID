@@ -12,7 +12,7 @@ sections:
     content:
       title:  
       subtitle: ''
-      text: ｜
+      text: |
          <h4 style="color: #374151; font-weight: bold;"> Celebrate Jingyi’s Graduation (2025) </h4> 
     design:
       columns: '2'
