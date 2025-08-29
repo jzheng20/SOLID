@@ -120,5 +120,5 @@ extensions:
 publications:
   date_format: June 2025
   citation_style: ieee
-  show_icon: false
+  show_logo: false
 
