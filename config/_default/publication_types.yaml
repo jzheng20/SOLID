@@ -1,6 +1,6 @@
 options:
     - { label: "Uncategorized", value: "0" }
-    - { label: "Conference paper", value: "1" }
+    - { label: "CS Conference paper", value: "1" }
     - { label: "Journal article", value: "2" }
     - { label: "Preprint / Working Paper", value: "3" }
     - { label: "Report", value: "4" }
