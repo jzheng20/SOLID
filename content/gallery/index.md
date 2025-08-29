@@ -22,7 +22,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: right
           size: contain
           text_color_light: true
       spacing:
@@ -63,7 +63,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: right
           size: contain
           text_color_light: true
       spacing:
