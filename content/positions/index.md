@@ -99,7 +99,7 @@ sections:
       background:
         color: '#ffffff'   
       spacing:
-        padding: ['80px', '40px', '10px', '0']
+        padding: ['0px', '40px', '10px', '0']
 
 
 ---    
