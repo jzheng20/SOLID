@@ -294,12 +294,12 @@ sections:
               <td style="border: 1px solid #ccc; padding: 6px;">Deep Learning-Based Optimization of Battery Systems</td>
             </tr> 
             </tbody>
-          </table>
-          
-
+          </table> 
         </div>
     design:
       columns: '1'
       background:
         color: '#ffffff'
+      spacing:
+        padding: ['0px', '40px', '10px', '0']
 ---
