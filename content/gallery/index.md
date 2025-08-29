@@ -10,9 +10,9 @@ sections:
 
   - block: markdown
     content:
-      title: Celebrate Jingyi’s Graduation (2025)
+      title:  
       subtitle: ''
-      text:
+      text: Celebrate Jingyi’s Graduation (2025)
     design:
       columns: '2'
       background:
