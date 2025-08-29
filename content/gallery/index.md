@@ -13,7 +13,7 @@ sections:
       title:  
       subtitle: ''
       text: |
-         <h3 style="color: #374151; font-weight: bold;"> Celebrate Jingyi’s Graduation (2025) </h3> 
+         <h3 style="color: #374151; font-weight: bold;"> Celebrate Jingyi’s Graduation <br> (2025) </h3> 
     design:
       columns: '2'
       background:
@@ -22,7 +22,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: "90% center"
+          position: "80% center"
           size: contain
           text_color_light: true
       spacing:
