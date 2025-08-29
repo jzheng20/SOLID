@@ -69,8 +69,7 @@ sections:
              
             
             <a name="Graduate"></a>
-            ## For Graduate Students
-            
+            <h4 style="color: #374151; font-weight: bold;"> For Graduate Students </h4>
             
             - [Graduate Student Office](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
             - [Department of Chemical and Biological Engineering](https://chbe.ubc.ca/graduate/awards-and-funding-opportunities/)
@@ -88,8 +87,8 @@ sections:
              
             
             <a name="Undergraduate"></a>
-            ## For Undergraduate Students
-            
+            <h4 style="color: #374151; font-weight: bold;"> For Undergraduate Students </h4>
+ 
              
             
             - [NSERC Undergraduate Student Research Awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
