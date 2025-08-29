@@ -1,9 +1,0 @@
-        # data/publication_types.toml
-        [paper-conference1]
-        name = "CS Conference Paper"
-
-        [article-journal]
-        name = "Journal Article"
-
-        [working-paper]
-        name = "Working Paper"
