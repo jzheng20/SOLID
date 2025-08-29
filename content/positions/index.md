@@ -51,7 +51,7 @@ sections:
       title: Funding Opportunities
       text: |
             All graduate students are financially supported by either PI’s research funds or scholarships. Students holding major scholarships (e.g. NSERC) or other confirmed funding sources, are more likely to be accepted and should indicate this in their communication. Scholarship holders are also provided with an additional top-up from PI’s research funds. The following are funding opportunities for 
-            [Postdocs](#Postdocs) | [Graduate Students](#Graduate) | [Undergraduate Students](#Undergraduate).
+            [Postdocs](#Postdocs), [Graduate Students](#Graduate), and [Undergraduate Students](#Undergraduate).
 
             <a name="Postdocs"></a> 
             <h4 style="color: #374151; font-weight: bold;"> For Postdocs </h4>
