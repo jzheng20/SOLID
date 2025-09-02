@@ -1,0 +1,13 @@
+# i18n/en.yaml
+- id:  pub_paper_conference
+  translation: "Engineering conference paper"
+- id:  pub_type
+  translation: "All"
+# 可选：顺便把其他类型也统一一下
+- id: pub_article_journal
+  translation: "Journal paper"
+- id: pub_report
+  translation: "Computer science conference paper"
+  
+- id: pub_thesis
+  translation: "Thesis"
