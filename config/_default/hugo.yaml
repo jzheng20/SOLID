@@ -5,6 +5,7 @@
 
 title: SOLID Lab1 # Website name
 baseURL: 'https://solid.chbe.ubc.ca/' #'https://yankaigroup.github.io/' # Website URL
+canonifyURLs: true
 
 
 
